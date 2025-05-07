@@ -89,10 +89,10 @@ const config = {
             label: 'Changelog',
             position: 'left'
           },
-          {
-           type: "LocaleDropdown",
-            position: "right"
-          },
+           {
+          type: 'localeDropdown',
+          position: 'left',
+        },
         ],
       },
       footer: {
