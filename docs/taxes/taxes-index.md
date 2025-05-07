@@ -8,7 +8,7 @@ This section covers everything you need to know about setting up and managing ta
 
 ## What's in this section
 
-- [Tax Rates](tax-rates) - Learn how to create and manage tax rates for different countries and regions
+- [Tax Rates](creating-tax-rates) - Learn how to create and manage tax rates for different countries and regions
 
 ## Understanding eCommerce Tax Management
 
@@ -28,7 +28,7 @@ Set up tax rates for the regions where you sell:
 - Configure region-specific rates where needed (states, provinces, etc.)
 - Determine what items are taxable (products only or products and shipping)
 
-Learn more about [creating tax rates](tax-rates).
+Learn more about [creating tax rates](creating-tax-rates).
 
 ### 3. Tax Display Options
 
