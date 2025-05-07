@@ -8,7 +8,7 @@ This section covers all aspects of managing your eCommerce account. From pausing
 
 ## What's in this section
 
-- [Pause or Delete Store](pause-store) - Learn how to temporarily pause or permanently delete your store
+- [Pause or Delete Store](delete-pause-store) - Learn how to temporarily pause or permanently delete your store
 - [Cancel Subscription](cancel-subscription) - Steps to cancel your eCommerce subscription
 - [Password Reset](password-reset) - How to reset or change your account password
 
@@ -43,7 +43,7 @@ Control the operational status of your store:
 - Understand the implications of store deletion
 - Learn about alternatives to deletion (such as maintenance mode)
 
-Learn more about [pausing or deleting your store](pause-store).
+Learn more about [pausing or deleting your store](delete-pause-store).
 
 ## Best Practices for Account Management
 
