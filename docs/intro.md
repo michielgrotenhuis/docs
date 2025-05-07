@@ -1,47 +1,47 @@
 ---
 sidebar_position: 1
+slug: /
 ---
 
-# Tutorial Intro
+# Introduction to eCommerce Documentation
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Welcome to the official documentation for eCommerce, your comprehensive guide to setting up and managing your online store.
 
-## Getting Started
+This documentation provides detailed instructions on how to use the platform effectively, from creating your store and adding products to managing orders and configuring payment methods.
 
-Get started by **creating a new site**.
+## Who is this documentation for?
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+This documentation is designed for:
 
-### What you'll need
+- **New store owners** who are setting up their online store for the first time
+- **Existing store owners** looking to optimize their store operations
+- **Developers** who need technical information about integrations
+- **Store administrators** managing day-to-day operations
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## How to use this documentation
 
-## Generate a new site
+The documentation is organized into several main sections:
 
-Generate a new Docusaurus site using the **classic template**.
+1. **Intro to eCommerce** - Basic information about the platform, pricing, and support
+2. **Store Setup & Management** - Guides for setting up your store, products, payments, shipping, and more
+3. **Settings** - Information on configuring your store settings, staff permissions, and account management
 
-The classic template will automatically be added to your project after you run the command:
+Use the sidebar navigation to find specific topics, or use the search function to quickly locate information on particular features or functionalities.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+## Getting started
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+If you're new to eCommerce, we recommend starting with these guides:
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+- [What is eCommerce](intro-to-ecommerce/what-is-ecommerce)
+- [Set up eCommerce store](store-setup/store-domain/setup-ecommerce-store)
+- [Creating products](store-setup/products/creating-products)
+- [Setting up payment methods](store-setup/payments/payment-methods)
 
-## Start your site
+## Need help?
 
-Run the development server:
+If you can't find the information you need in the documentation, you can:
 
-```bash
-cd my-website
-npm run start
-```
+- Check the [Frequently Asked Questions](intro-to-ecommerce/faq)
+- [Contact our support team](intro-to-ecommerce/contact) for personalized assistance
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+We're continuously improving our documentation to provide you with the most accurate and helpful information possible.
