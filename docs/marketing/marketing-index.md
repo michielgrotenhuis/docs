@@ -9,10 +9,10 @@ This section covers the marketing and analytics tools available for your eCommer
 ## What's in this section
 
 - [Marketing Tools Overview](marketing-tools) - Introduction to marketing tools and features
-- [Google Analytics](google-analytics) - Track and analyze your store performance
-- [Meta Pixel](meta-pixel) - Facebook and Instagram ad tracking and optimization
-- [TikTok Pixel](tiktok-pixel) - TikTok ad tracking and optimization
-- [Google Tag Manager](google-tag-manager) - Centralized management of marketing tags
+- [Google Analytics](../integrations/google-analytics) - Track and analyze your store performance
+- [Meta Pixel](../integrations/meta-pixel) - Facebook and Instagram ad tracking and optimization
+- [TikTok Pixel](../integrations/tiktok-pixel) - TikTok ad tracking and optimization
+- [Google Tag Manager](../integrations/google-tag-manager) - Centralized management of marketing tags
 
 ## Optimizing Your Store with Marketing Tools
 
@@ -25,7 +25,7 @@ Start by implementing analytics to track your store performance:
 - Set up enhanced eCommerce tracking to analyze your sales funnel
 - Create custom reports to track key performance indicators (KPIs)
 
-Learn more about [Google Analytics integration](google-analytics).
+Learn more about [Google Analytics integration](../integrations/google-analytics).
 
 ### 2. Configure Ad Tracking
 
@@ -34,7 +34,7 @@ If you're running paid advertisements, set up the appropriate tracking pixels:
 - TikTok Pixel for TikTok ads
 - Other platform-specific tracking as needed
 
-Learn more about [Meta Pixel](meta-pixel) and [TikTok Pixel](tiktok-pixel) integration.
+Learn more about [Meta Pixel](../integrations/meta-pixel) and [TikTok Pixel](../integrations/tiktok-pixel) integration.
 
 ### 3. Implement Tag Management
 
@@ -43,7 +43,7 @@ Use Google Tag Manager to centralize your marketing and tracking tags:
 - Deploy and update tags without changing code
 - Set up triggers and variables for advanced tracking
 
-Learn more about [Google Tag Manager](google-tag-manager).
+Learn more about [Google Tag Manager](../integrations/google-tag-manager).
 
 ### 4. Analyze and Optimize
 
