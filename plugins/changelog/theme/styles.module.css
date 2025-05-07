@@ -1,0 +1,42 @@
+/* styles.module.css */
+.changelogList {
+  margin-top: 2rem;
+}
+
+.changelogItem {
+  margin-bottom: 2rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid var(--ifm-color-emphasis-300);
+}
+
+.changelogItem:last-child {
+  border-bottom: none;
+}
+
+.changelogItemTitle {
+  margin-bottom: 0.5rem;
+}
+
+.changelogItemDate {
+  margin-bottom: 1rem;
+  color: var(--ifm-color-emphasis-600);
+  font-size: 0.9rem;
+}
+
+.changelogItemDescription {
+  margin-bottom: 1rem;
+}
+
+.changelogEntry header {
+  margin-bottom: 2rem;
+}
+
+.changelogEntryDate {
+  margin-top: 0.5rem;
+  color: var(--ifm-color-emphasis-600);
+  font-size: 0.9rem;
+}
+
+.changelogEntryNavigation {
+  margin-top: 3rem;
+}
