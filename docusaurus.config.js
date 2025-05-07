@@ -5,9 +5,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'eCommerce',
+  title: 'eCommerce docs',
   tagline: 'Documentation',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://www.online-store.info',
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
