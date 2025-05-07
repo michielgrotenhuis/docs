@@ -2,7 +2,6 @@
 // Note: type annotations allow type checking and IDEs autocompletion
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
-
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'My Site',
@@ -34,11 +33,14 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          // Make docs the default landing page
-          routeBasePath: '/',
         },
-        // Disable blog feature
-        blog: false,
+        blog: {
+          showReadingTime: true,
+          // Please change this to your repo.
+          // Remove this to remove the "edit this page" links.
+          editUrl:
+            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+        },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -59,8 +61,9 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Documentation',
+            label: 'Tutorial',
           },
+          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
@@ -75,8 +78,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Documentation',
-                to: '/',
+                label: 'Tutorial',
+                to: '/docs/intro',
               },
             ],
           },
@@ -101,6 +104,10 @@ const config = {
             title: 'More',
             items: [
               {
+                label: 'Blog',
+                to: '/blog',
+              },
+              {
                 label: 'GitHub',
                 href: 'https://github.com/facebook/docusaurus',
               },
@@ -115,5 +122,4 @@ const config = {
       },
     }),
 };
-
 module.exports = config;
