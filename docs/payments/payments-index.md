@@ -8,22 +8,22 @@ This section covers everything you need to know about setting up and managing pa
 
 ## What's in this section
 
-- [Payment Methods Overview](index) - Introduction to payment options in eCommerce
+- [Payment Methods Overview](payment-methods) - Introduction to payment options in eCommerce
 - [Cash on Delivery](cash-on-delivery) - Set up and manage Cash on Delivery payments
-- [PayPal](paypal) - Configure PayPal payments
-- [Stripe](stripe) - Set up Stripe payment gateway
-- [Paystack](paystack) - Configure Paystack for African markets
-- [Flutterwave](flutterwave) - Set up Flutterwave payments
-- [Mercado Pago](mercado-pago) - Configure Mercado Pago for Latin American markets
-- [Razorpay](razorpay) - Set up Razorpay for Indian markets
-- [Mamo Pay](mamo-pay) - Configure Mamo Pay for UAE
-- [Yoco](yoco) - Set up Yoco for South African markets
-- [Nets Easy](nets-easy) - Configure Nets Easy for European markets
-- [Vipps](vipps) - Set up Vipps for Norway
-- [Mollie](mollie) - Configure Mollie for European markets
-- [Epoint](epoint) - Set up Epoint for Azerbaijan
-- [iyzico](iyzico) - Configure iyzico for Turkish markets
-- [Payriff](payriff) - Set up Payriff for Azerbaijan
+- [PayPal](payment-gateways/paypal) - Configure PayPal payments
+- [Stripe](payment-gateways/stripe) - Set up Stripe payment gateway
+- [Paystack](payment-gateways/paystack) - Configure Paystack for African markets
+- [Flutterwave](payment-gateways/flutterwave) - Set up Flutterwave payments
+- [Mercado Pago](payment-gateways/mercado-pago) - Configure Mercado Pago for Latin American markets
+- [Razorpay](payment-gateways/razorpay) - Set up Razorpay for Indian markets
+- [Mamo Pay](payment-gateways/mamo-pay) - Configure Mamo Pay for UAE
+- [Yoco](payment-gateways/yoco) - Set up Yoco for South African markets
+- [Nets Easy](payment-gateways/nets-easy) - Configure Nets Easy for European markets
+- [Vipps](payment-gateways/vipps) - Set up Vipps for Norway
+- [Mollie](payment-gateways/mollie) - Configure Mollie for European markets
+- [Epoint](payment-gateways/epoint) - Set up Epoint for Azerbaijan
+- [iyzico](payment-gateways/iyzico) - Configure iyzico for Turkish markets
+- [Payriff](payment-gateways/payriff) - Set up Payriff for Azerbaijan
 
 ## Setting Up Payment Methods
 
@@ -49,17 +49,17 @@ Learn more about [Cash on Delivery](cash-on-delivery).
 Choose and configure payment gateways based on your business needs:
 
 #### Global Payment Solutions
-- [PayPal](paypal) - Widely used international payment gateway
-- [Stripe](stripe) - Popular payment solution with comprehensive features
+- [PayPal](payment-gateways/paypal) - Widely used international payment gateway
+- [Stripe](payment-gateways/stripe) - Popular payment solution with comprehensive features
 
 #### Regional Payment Gateways
-- Africa: [Paystack](paystack), [Flutterwave](flutterwave), [Yoco](yoco)
-- Latin America: [Mercado Pago](mercado-pago)
-- India: [Razorpay](razorpay)
-- Middle East: [Mamo Pay](mamo-pay)
-- Europe: [Nets Easy](nets-easy), [Vipps](vipps), [Mollie](mollie)
-- Turkey: [iyzico](iyzico)
-- Azerbaijan: [Epoint](epoint), [Payriff](payriff)
+- Africa: [Paystack](payment-gateways/paystack), [Flutterwave](payment-gateways/flutterwave), [Yoco](payment-gateways/yoco)
+- Latin America: [Mercado Pago](payment-gateways/mercado-pago)
+- India: [Razorpay](payment-gateways/razorpay)
+- Middle East: [Mamo Pay](payment-gateways/mamo-pay)
+- Europe: [Nets Easy](payment-gateways/nets-easy), [Vipps](payment-gateways/vipps), [Mollie](payment-gateways/mollie)
+- Turkey: [iyzico](payment-gateways/iyzico)
+- Azerbaijan: [Epoint](payment-gateways/epoint), [Payriff](payment-gateways/payriff)
 
 ### 4. Test Your Payment Flow
 
