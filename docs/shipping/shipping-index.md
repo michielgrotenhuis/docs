@@ -8,11 +8,11 @@ This section covers everything you need to know about setting up and managing sh
 
 ## What's in this section
 
-- [Shipping Rules](shipping-rules) - Learn how to create and manage shipping rules
+- [Shipping Rules](creating-shipping-rules) - Learn how to create and manage shipping rules
 - [Shipping Methods](shipping-methods) - Overview of available shipping methods
 - [Local Pickup](local-pickup) - Set up and manage local pickup option
-- [The Courier Guy](courier-guy) - Integration with The Courier Guy shipping service
-- [MyParcel](myparcel) - Integration with MyParcel shipping service
+- [The Courier Guy](shipping-methods/courier-guy) - Integration with The Courier Guy shipping service
+- [MyParcel](shipping-methods/myparcel) - Integration with MyParcel shipping service
 
 ## Setting Up Your Shipping Strategy
 
@@ -25,7 +25,7 @@ Start by creating shipping rules that define:
 - Shipping rates for different destinations
 - Weight or price-based shipping calculations
 
-Learn more about [creating shipping rules](shipping-rules).
+Learn more about [creating shipping rules](creating-shipping-rules).
 
 ### 2. Configure Shipping Methods
 
@@ -53,7 +53,7 @@ Connect with shipping carriers to streamline your fulfillment process:
 - MyParcel for European shipping
 - Other regional carriers as needed
 
-Learn more about [The Courier Guy](courier-guy) and [MyParcel](myparcel) integrations.
+Learn more about [The Courier Guy](shipping-methods/courier-guy) and [MyParcel](shipping-methods/myparcel) integrations.
 
 ### 5. Test Your Shipping Configuration
 
