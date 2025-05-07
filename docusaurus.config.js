@@ -100,41 +100,69 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Documentation',
             items: [
               {
-                label: 'Documentation',
+                label: 'Introduction',
                 to: '/docs/intro',
               },
+              {
+                label: 'Getting Started',
+                to: '/docs/getting-started/getting-started-index',
+              },
+              {
+                label: 'Store Configuration',
+                to: '/docs/store-setup/connect-custom-domain',
+              },
+              {
+                label: 'Products',
+                to: '/docs/products/products-index',
+              },
+              {
+                label: 'Payments',
+                to: '/docs/payments/payments-index',
+              },
+              {
+                label: 'Shipping',
+                to: '/docs/shipping/shipping-index',
+              },
+              {
+                label: 'Taxes',
+                to: '/docs/taxes/taxes-index',
+              },
+              {
+                label: 'Marketing',
+                to: '/docs/marketing/marketing-index',
+              },
+              {
+                label: 'Store Management',
+                to: '/docs/store-management/store-management-index',
+              },
+              {
+                label: 'Account',
+                to: '/docs/account/account-index',
+              },
             ],
           },
           {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
+            title: 'Blog',
             items: [
               {
                 label: 'Blog',
                 to: '/blog',
               },
+            ],
+          },
+          {
+            title: 'Changelog',
+            items: [
               {
-                label: 'Changelog',
-                to: '/changelog',
+                label: 'V1.0.0',
+                to: '/changelog/version-1.0.0',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/michielgrotenhuis/docs',
+                label: 'V2.0.0',
+                to: '/changelog/version-2.0.0',
               },
             ],
           },
