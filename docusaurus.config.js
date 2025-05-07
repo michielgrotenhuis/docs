@@ -90,9 +90,8 @@ const config = {
             position: 'left'
           },
           {
-            href: 'https://github.com/michielgrotenhuis/docs',
-            label: 'GitHub',
-            position: 'right',
+           type: "LocaleDropdown",
+            position: "right"
           },
         ],
       },
