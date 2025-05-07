@@ -7,29 +7,25 @@ const sidebars = {
       label: 'Getting Started',
       link: {
         type: 'doc',
-        id: 'getting-started/index',
+        id: 'getting-started/getting-started-index',
       },
       items: [
         'getting-started/what-is-ecommerce',
-        'getting-started/setup-store',
+        'getting-started/setup-ecommerce-store',
         'getting-started/billing-subscription',
         'getting-started/faq',
-        'getting-started/contact',
+        'account/contact', // Your contact file is in account/ instead of getting-started/
       ],
     },
     {
       type: 'category',
       label: 'Store Configuration',
-      link: {
-        type: 'doc',
-        id: 'store-configuration/index',
-      },
       items: [
-        'store-configuration/domain-setup',
-        'store-configuration/currency-setup',
-        'store-configuration/branding',
-        'store-configuration/navigation',
-        'store-configuration/pages',
+        'store-setup/connect-custom-domain',
+        'store-setup/setting-up-currency',
+        'store-setup/branding',
+        'store-setup/navigation-menus',
+        'store-setup/pages',
       ],
     },
     {
@@ -37,7 +33,7 @@ const sidebars = {
       label: 'Products',
       link: {
         type: 'doc',
-        id: 'products/index',
+        id: 'products/products-index',
       },
       items: [
         'products/creating-products',
@@ -52,29 +48,30 @@ const sidebars = {
       label: 'Payments',
       link: {
         type: 'doc',
-        id: 'payments/index',
+        id: 'payments/payments-index',
       },
       items: [
+        'payments/payment-methods',
         'payments/cash-on-delivery',
         {
           type: 'category',
           label: 'Payment Gateways',
           collapsed: true,
           items: [
-            'payments/paypal',
-            'payments/stripe',
-            'payments/paystack',
-            'payments/flutterwave',
-            'payments/mercado-pago',
-            'payments/razorpay',
-            'payments/mamo-pay',
-            'payments/yoco',
-            'payments/nets-easy',
-            'payments/vipps',
-            'payments/mollie',
-            'payments/epoint',
-            'payments/iyzico',
-            'payments/payriff',
+            'payments/payment-gateways/paypal',
+            'payments/payment-gateways/stripe',
+            'payments/payment-gateways/paystack',
+            'payments/payment-gateways/flutterwave',
+            'payments/payment-gateways/mercado-pago',
+            'payments/payment-gateways/razorpay',
+            'payments/payment-gateways/mamo-pay',
+            'payments/payment-gateways/yoco',
+            'payments/payment-gateways/nets-easy',
+            'payments/payment-gateways/vipps',
+            'payments/payment-gateways/mollie',
+            'payments/payment-gateways/epoint',
+            'payments/payment-gateways/iyzico',
+            'payments/payment-gateways/payriff',
           ],
         },
       ],
@@ -84,10 +81,10 @@ const sidebars = {
       label: 'Shipping',
       link: {
         type: 'doc',
-        id: 'shipping/index',
+        id: 'shipping/shipping-index',
       },
       items: [
-        'shipping/shipping-rules',
+        'shipping/creating-shipping-rules',
         'shipping/shipping-methods',
         'shipping/local-pickup',
         {
@@ -95,8 +92,8 @@ const sidebars = {
           label: 'Shipping Providers',
           collapsed: true,
           items: [
-            'shipping/courier-guy',
-            'shipping/myparcel',
+            'shipping/shipping-methods/courier-guy',
+            'shipping/shipping-methods/myparcel',
           ],
         },
       ],
@@ -106,10 +103,10 @@ const sidebars = {
       label: 'Taxes',
       link: {
         type: 'doc',
-        id: 'taxes/index',
+        id: 'taxes/taxes-index',
       },
       items: [
-        'taxes/tax-rates',
+        'taxes/creating-tax-rates',
       ],
     },
     {
@@ -117,14 +114,14 @@ const sidebars = {
       label: 'Marketing',
       link: {
         type: 'doc',
-        id: 'marketing/index',
+        id: 'marketing/marketing-index',
       },
       items: [
         'marketing/marketing-tools',
-        'marketing/google-analytics',
-        'marketing/meta-pixel',
-        'marketing/tiktok-pixel',
-        'marketing/google-tag-manager',
+        'integrations/google-analytics',
+        'integrations/meta-pixel',
+        'integrations/tiktok-pixel',
+        'integrations/google-tag-manager',
       ],
     },
     {
@@ -132,7 +129,7 @@ const sidebars = {
       label: 'Store Management',
       link: {
         type: 'doc',
-        id: 'store-management/index',
+        id: 'store-management/store-management-index',
       },
       items: [
         'store-management/general-settings',
@@ -147,10 +144,10 @@ const sidebars = {
       label: 'Account',
       link: {
         type: 'doc',
-        id: 'account/index',
+        id: 'account/account-index',
       },
       items: [
-        'account/pause-store',
+        'account/delete-pause-store',
         'account/cancel-subscription',
         'account/password-reset',
       ],
