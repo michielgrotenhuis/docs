@@ -30,16 +30,14 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Make docs the default landing page
-          routeBasePath: '/',
-          // Please change this to your repo.
+          // Keep docs at /docs path for now until we fix the issue
+          // routeBasePath: '/',
           editUrl:
             'https://github.com/michielgrotenhuis/docs/edit/main/',
         },
         // Keep the regular blog
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
           editUrl:
             'https://github.com/michielgrotenhuis/docs/edit/main/',
         },
@@ -63,7 +61,6 @@ const config = {
         blogSidebarCount: 10,
         showReadingTime: false,
         postsPerPage: 10,
-        // Optional: you can customize the blog post URL format
         editUrl:
           'https://github.com/michielgrotenhuis/docs/edit/main/',
       },
@@ -79,7 +76,7 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          // Documentation link now points to root path
+          // Documentation link points to /docs for now
           {
             type: 'doc',
             docId: 'intro',
@@ -113,7 +110,7 @@ const config = {
             items: [
               {
                 label: 'Documentation',
-                to: '/',
+                to: '/docs/intro',
               },
             ],
           },
