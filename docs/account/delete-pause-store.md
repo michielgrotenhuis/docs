@@ -13,7 +13,7 @@ To delete your eCommerce store:
 
 To delete an account and its data completely is done by request.
 
-Learn how to [enable maintenance mode on your eCommerce store](../maintenance-mode).
+Learn how to [enable maintenance mode on your eCommerce store](../store-management/maintenance-mode).
 
 ## Pausing Your eCommerce Store
 
