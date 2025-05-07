@@ -40,7 +40,7 @@ Learn more about how to [enable Cash on Delivery](cash-on-delivery) on your stor
 
 If you encounter the message "isn't available in your store" when attempting to add a payment gateway to your online store, it may be due to a currency incompatibility issue. This error message typically indicates that the currency you have set for your store is not supported by the payment gateway you are trying to add.
 
-Learn more about setting up a [currency for your online store](../store-domain/setting-up-currency).
+Learn more about setting up a [currency for your online store](../store-setup/setting-up-currency).
 
 To resolve this issue, you will need to change your store currency to a currency that is compatible with the payment gateway you want to use. Once you have updated your store currency, you should be able to successfully add the payment gateway and start accepting payments through your online store.
 
