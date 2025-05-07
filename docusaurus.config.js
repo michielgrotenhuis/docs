@@ -2,6 +2,7 @@
 // Note: type annotations allow type checking and IDEs autocompletion
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'eCommerce',
@@ -29,17 +30,12 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          // Keep docs at /docs path for now until we fix the issue
+          // routeBasePath: '/',
         },
+        // Keep the regular blog
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -47,23 +43,52 @@ const config = {
       }),
     ],
   ],
+  // Add a custom plugin for the changelog
+  plugins: [
+    [
+      '@docusaurus/plugin-content-blog',
+      {
+        id: 'changelog',
+        path: 'changelog',
+        routeBasePath: 'changelog',
+        blogTitle: 'eCommerce Changelog',
+        blogDescription: 'Keep track of all updates and new features',
+        blogSidebarTitle: 'Recent Releases',
+        blogSidebarCount: 10,
+        showReadingTime: false,
+        postsPerPage: 10,
+        },
+    ],
+  ],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'eCommerce',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'eCommerce Logo',
           src: 'img/logo.svg',
         },
         items: [
+          // Documentation link points to /docs for now
           {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Documentation',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          // Keep the original blog
+          {
+            to: '/blog', 
+            label: 'Blog', 
+            position: 'left'
+          },
+          // Add the changelog
+          {
+            to: '/changelog',
+            label: 'Changelog',
+            position: 'left'
+          },
           {
             href: 'https://github.com/michielgrotenhuis/docs',
             label: 'GitHub',
@@ -78,7 +103,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Documentation',
                 to: '/docs/intro',
               },
             ],
@@ -94,10 +119,6 @@ const config = {
                 label: 'Discord',
                 href: 'https://discordapp.com/invite/docusaurus',
               },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
             ],
           },
           {
@@ -108,8 +129,12 @@ const config = {
                 to: '/blog',
               },
               {
+                label: 'Changelog',
+                to: '/changelog',
+              },
+              {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/michielgrotenhuis/docs',
               },
             ],
           },
@@ -122,4 +147,5 @@ const config = {
       },
     }),
 };
+
 module.exports = config;
