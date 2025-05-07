@@ -8,7 +8,7 @@ sidebar_position: 2
 
 ### Plans
 
-[**eCommerce**](https://uvodo.com/) offers a free plan to start selling online right away.
+Our ecommerce platform offers a plan to start selling online right away.
 
 Other than that, eCommerce offers 3 paid plans.
 
