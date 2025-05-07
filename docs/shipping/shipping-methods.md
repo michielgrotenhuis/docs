@@ -33,8 +33,8 @@ Each shipping provider offers different features, coverage areas, and pricing pl
 
 To set up a third-party shipping method for your eCommerce store, please refer to the specific documentation for each provider:
 
-- [The Courier Guy](shipping-providers/courier-guy)
-- [MyParcel](shipping-providers/myparcel)
+- [The Courier Guy](shipping-methods/courier-guy)
+- [MyParcel](shipping-methods/myparcel)
 
 For more information about shipping settings and configurations, please refer to:
 
