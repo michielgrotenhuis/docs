@@ -14,10 +14,10 @@ You can connect these marketing integrations on your eCommerce admin panel withi
 
 eCommerce supports various tracking and analytics integrations to help you monitor and optimize your online store's performance:
 
-- [Google Analytics](tracking-analytics/google-analytics) - Track website traffic, user behavior, and conversion data
-- [Meta Pixel](tracking-analytics/meta-pixel) - Track Facebook and Instagram ad performance
-- [TikTok Pixel](tracking-analytics/tiktok-pixel) - Track TikTok ad performance
-- [Google Tag Manager](tracking-analytics/google-tag-manager) - Manage multiple tracking codes
+- [Google Analytics](../integrations/google-analytics) - Track website traffic, user behavior, and conversion data
+- [Meta Pixel](../integrations/meta-pixel) - Track Facebook and Instagram ad performance
+- [TikTok Pixel](../integrations/tiktok-pixel) - Track TikTok ad performance
+- [Google Tag Manager](../integrations/google-tag-manager) - Manage multiple tracking codes
 
 These integrations allow you to collect valuable data about your customers and their interactions with your store, enabling you to make data-driven decisions to improve your marketing strategies and overall business performance.
 
