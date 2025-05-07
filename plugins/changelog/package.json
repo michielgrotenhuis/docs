@@ -1,0 +1,6 @@
+{
+  "name": "docusaurus-changelog-plugin",
+  "version": "0.0.1",
+  "description": "Changelog plugin for Docusaurus",
+  "main": "index.js"
+}
