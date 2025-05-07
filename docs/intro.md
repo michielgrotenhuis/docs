@@ -32,16 +32,16 @@ Use the sidebar navigation to find specific topics, or use the search function t
 
 If you're new to eCommerce, we recommend starting with these guides:
 
-- [What is eCommerce](intro-to-ecommerce/what-is-ecommerce)
+- [What is eCommerce](getting-started/what-is-ecommerce)
 - [Set up eCommerce store](store-setup/store-domain/setup-ecommerce-store)
-- [Creating products](store-setup/products/creating-products)
-- [Setting up payment methods](store-setup/payments/payment-methods)
+- [Creating products](products/creating-products)
+- [Setting up payment methods](payments/payments-index)
 
 ## Need help?
 
 If you can't find the information you need in the documentation, you can:
 
 - Check the [Frequently Asked Questions](intro-to-ecommerce/faq)
-- [Contact our support team](intro-to-ecommerce/contact) for personalized assistance
+- [Contact our support team](getting-started/faq) for personalized assistance
 
 We're continuously improving our documentation to provide you with the most accurate and helpful information possible.
