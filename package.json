@@ -38,4 +38,8 @@
   "engines": {
     "node": ">=16.14"
   }
+  "scripts": {
+  "prebuild": "docusaurus write-translations --locale nl",
+  "build": "docusaurus build"
+}
 }
