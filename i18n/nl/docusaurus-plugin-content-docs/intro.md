@@ -3,45 +3,45 @@ sidebar_position: 1
 slug: /
 ---
 
-# Introduction to eCommerce Documentation
+# Introductie tot eCommerce Documentatie
 
-Welcome to the official documentation for eCommerce, your comprehensive guide to setting up and managing your online store.
+Welkom bij de officiële documentatie voor eCommerce, uw uitgebreide gids voor het opzetten en beheren van uw online winkel.
 
-This documentation provides detailed instructions on how to use the platform effectively, from creating your store and adding products to managing orders and configuring payment methods.
+Deze documentatie biedt gedetailleerde instructies over hoe u het platform effectief kunt gebruiken, van het aanmaken van uw winkel en het toevoegen van producten tot het beheren van bestellingen en het configureren van betaalmethoden.
 
-## Who is this documentation for?
+## Voor wie is deze documentatie?
 
-This documentation is designed for:
+Deze documentatie is ontworpen voor:
 
-- **New store owners** who are setting up their online store for the first time
-- **Existing store owners** looking to optimize their store operations
-- **Developers** who need technical information about integrations
-- **Store administrators** managing day-to-day operations
+- **Nieuwe winkeleigenaren** die hun online winkel voor het eerst opzetten
+- **Bestaande winkeleigenaren** die hun winkelactiviteiten willen optimaliseren
+- **Ontwikkelaars** die technische informatie nodig hebben over integraties
+- **Winkelbeheerders** die dagelijkse operaties beheren
 
-## How to use this documentation
+## Hoe deze documentatie te gebruiken
 
-The documentation is organized into several main sections:
+De documentatie is georganiseerd in verschillende hoofdsecties:
 
-1. **Intro to eCommerce** - Basic information about the platform, pricing, and support
-2. **Store Setup & Management** - Guides for setting up your store, products, payments, shipping, and more
-3. **Settings** - Information on configuring your store settings, staff permissions, and account management
+1. **Intro tot eCommerce** - Basisinformatie over het platform, prijzen en ondersteuning
+2. **Winkel Setup & Beheer** - Gidsen voor het opzetten van uw winkel, producten, betalingen, verzending en meer
+3. **Instellingen** - Informatie over het configureren van uw winkelinstellingen, personeelsrechten en accountbeheer
 
-Use the sidebar navigation to find specific topics, or use the search function to quickly locate information on particular features or functionalities.
+Gebruik de zijbalknavigatie om specifieke onderwerpen te vinden, of gebruik de zoekfunctie om snel informatie over bepaalde functies of functionaliteiten te vinden.
 
-## Getting started
+## Aan de slag
 
-If you're new to eCommerce, we recommend starting with these guides:
+Als u nieuw bent bij eCommerce, raden we aan om te beginnen met deze gidsen:
 
-- [What is eCommerce](getting-started/what-is-ecommerce)
-- [Set up eCommerce store](store-setup/store-domain/setup-ecommerce-store)
-- [Creating products](products/creating-products)
-- [Setting up payment methods](payments/payments-index)
+- [Wat is eCommerce](getting-started/what-is-ecommerce)
+- [eCommerce winkel opzetten](store-setup/store-domain/setup-ecommerce-store)
+- [Producten aanmaken](products/creating-products)
+- [Betaalmethoden instellen](payments/payments-index)
 
-## Need help?
+## Hulp nodig?
 
-If you can't find the information you need in the documentation, you can:
+Als u de informatie die u nodig heeft niet kunt vinden in de documentatie, kunt u:
 
-- Check the [Frequently Asked Questions](intro-to-ecommerce/faq)
-- [Contact our support team](getting-started/faq) for personalized assistance
+- De [Veelgestelde Vragen](intro-to-ecommerce/faq) raadplegen
+- [Contact opnemen met ons ondersteuningsteam](getting-started/faq) voor persoonlijke assistentie
 
-We're continuously improving our documentation to provide you with the most accurate and helpful information possible.
+We verbeteren onze documentatie voortdurend om u de meest accurate en nuttige informatie te bieden.
