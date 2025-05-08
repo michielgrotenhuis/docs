@@ -2,126 +2,126 @@
 sidebar_position: 5
 ---
 
-# Flutterwave Overview
+# Flutterwave Overzicht
 
-Flutterwave is a payment gateway that is supported in Nigeria, Ghana, Kenya, South Africa, Uganda, Tanzania, United States, United Kingdom, and the rest of Europe.
+Flutterwave is een betaalgateway die wordt ondersteund in Nigeria, Ghana, Kenia, Zuid-Afrika, Oeganda, Tanzania, Verenigde Staten, Verenigd Koninkrijk en de rest van Europa.
 
-In addition to the local cards of these countries/regions, Flutterwave also allows you to receive payments from all MasterCard and Visa Cards.
+Naast de lokale kaarten van deze landen/regio's, staat Flutterwave u ook toe om betalingen te ontvangen van alle MasterCard- en Visa-kaarten.
 
-## How to Set Up Flutterwave Payment Gateway
+## Hoe Flutterwave-betaalgateway instellen
 
-1. **Log in** to your eCommerce admin panel
-2. Navigate to the ***Settings → Payments*** in your admin panel
-3. Click on the "**Add payment method**" anchor text
-4. If available with your store currency, select "**Flutterwave**" as your payment provider (if not available, see the [Flutterwave isn't available with your store currency](#flutterwave-isnt-available-with-your-store-currency) section below)
-5. In the "**Enable payment method**" section, click on the toggle to enable the payment method
-6. Enter the "**Secret Key**" from your Flutterwave account, then click on the **Submit** button
+1. **Log in** op uw eCommerce-beheerpaneel
+2. Ga naar ***Instellingen → Betalingen*** in uw beheerpaneel
+3. Klik op de "**Betaalmethode toevoegen**" link
+4. Als beschikbaar met uw winkelvaluta, selecteer "**Flutterwave**" als uw betalingsprovider (indien niet beschikbaar, zie de sectie [Flutterwave is niet beschikbaar met uw winkelvaluta](#flutterwave-is-niet-beschikbaar-met-uw-winkelvaluta) hieronder)
+5. Klik in de sectie "**Betaalmethode inschakelen**" op de toggle om de betaalmethode in te schakelen
+6. Voer de "**Geheime sleutel**" van uw Flutterwave-account in en klik op de **Verzenden** knop
 
-### Acquiring an API Key for Initial Setup
+### API-sleutel verkrijgen voor initiële installatie
 
-1. Navigate to the Settings area of your Flutterwave dashboard
-2. Choose the Developers tab and select API Keys. This section displays your Test API Keys and Live Public Keys
-3. Click on **Generate Secret Key** to obtain your live Secret key. An authentication code will be dispatched to your email address
-4. Input the 7-digit authentication code received in your email
+1. Ga naar het Instellingen-gebied van uw Flutterwave-dashboard
+2. Kies het tabblad Ontwikkelaars en selecteer API-sleutels. Deze sectie toont uw Test API-sleutels en Live openbare sleutels
+3. Klik op **Geheime sleutel genereren** om uw live geheime sleutel te verkrijgen. Een authenticatiecode wordt naar uw e-mailadres gestuurd
+4. Voer de 7-cijferige authenticatiecode in die u in uw e-mail heeft ontvangen
 
-### If You Already Have an API Key and Wish to Generate New Ones
+### Als u al een API-sleutel heeft en nieuwe wilt genereren
 
-1. Go to the Settings section in your Flutterwave dashboard
-2. Navigate to the API keys option under the Developers tab
-3. Click on **Generate secret key** to obtain live API keys
-4. Choose the desired expiration period for your current API keys
-5. Enter the 7-digit authentication code that was sent to you and click on **Generate new API keys**
+1. Ga naar de Instellingen sectie in uw Flutterwave-dashboard
+2. Navigeer naar de API-sleutels optie onder het tabblad Ontwikkelaars
+3. Klik op **Geheime sleutel genereren** om live API-sleutels te verkrijgen
+4. Kies de gewenste vervaldatum voor uw huidige API-sleutels
+5. Voer de 7-cijferige authenticatiecode in die u heeft ontvangen en klik op **Nieuwe API-sleutels genereren**
 
-### Enable Sandbox Mode for Testing
+### Sandbox-modus inschakelen voor testen
 
-You can also enable the Sandbox mode to test the key:
+U kunt ook de Sandbox-modus inschakelen om de sleutel te testen:
 
-1. Click on the **More options** on the same page, and click on the toggle to enable the Sandbox mode
-2. Write down the same keys to the "**test Secret key**" input box to test the Flutterwave payment method at the checkout
+1. Klik op de **Meer opties** op dezelfde pagina en klik op de toggle om de Sandbox-modus in te schakelen
+2. Schrijf dezelfde sleutels op in het "**test Geheime sleutel**" invoervak om de Flutterwave-betaalmethode bij het afrekenen te testen
 
-## Flutterwave Supported Currencies
+## Flutterwave ondersteunde valuta's
 
-Flutterwave supports the following currencies:
+Flutterwave ondersteunt de volgende valuta's:
 
-| **CURRENCY NAME** | **CURRENCY CODE** |
-|-------------------|-------------------|
-| United States Dollar | USD |
-| British Pound Sterling | GBP |
-| Canadian Dollar | CAD |
-| Central African CFA Franc | XAF |
-| Chilean Peso | CLP |
-| Colombian Peso | COP |
-| Egyptian Pound | EGP |
+| **VALUTANAAM** | **VALUTACODE** |
+|----------------|----------------|
+| Verenigde Staten Dollar | USD |
+| Britse Pond | GBP |
+| Canadese Dollar | CAD |
+| Centraal-Afrikaanse CFA Franc | XAF |
+| Chileense Peso | CLP |
+| Colombiaanse Peso | COP |
+| Egyptische Pond | EGP |
 | SEPA | EUR |
-| Ghanaian Cedi | GHS |
-| Guinean Franc | GNF |
-| Kenyan Shilling | KES |
-| Malawian Kwacha | MWK |
-| Moroccan Dirham | MAD |
-| Nigerian Naira | NGN |
-| Rwandan Franc | RWF |
-| Sierra Leonean Leone | SLL |
-| São Tomé and Príncipe dobra | STD |
-| South African Rand | ZAR |
-| Tanzanian Shilling | TZS |
-| Ugandan Shilling | UGX |
-| West African CFA Franc BCEAO | XOF |
-| Zambian Kwacha | ZMW |
+| Ghanese Cedi | GHS |
+| Guinese Franc | GNF |
+| Keniaanse Shilling | KES |
+| Malawische Kwacha | MWK |
+| Marokkaanse Dirham | MAD |
+| Nigeriaanse Naira | NGN |
+| Rwandese Franc | RWF |
+| Sierra Leoonse Leone | SLL |
+| São Tomé en Príncipe dobra | STD |
+| Zuid-Afrikaanse Rand | ZAR |
+| Tanzaniaanse Shilling | TZS |
+| Oegandese Shilling | UGX |
+| West-Afrikaanse CFA Franc BCEAO | XOF |
+| Zambiaanse Kwacha | ZMW |
 
-For the latest list, check out the [currencies you can charge cards in Flutterwave](https://flutterwave.com/tz/support/general/what-are-the-currencies-accepted-on-flutterwave).
+Voor de laatste lijst, bekijk de [valuta's waarin u kaarten kunt belasten bij Flutterwave](https://flutterwave.com/tz/support/general/what-are-the-currencies-accepted-on-flutterwave).
 
-## Flutterwave Isn't Available with Your Store Currency
+## Flutterwave is niet beschikbaar met uw winkelvaluta
 
-If Flutterwave payment isn't available due to your store currency, you cannot select this payment provider. To resolve this issue, you need to change your store's currency to one that Flutterwave supports.
+Als Flutterwave-betaling niet beschikbaar is vanwege uw winkelvaluta, kunt u deze betalingsprovider niet selecteren. Om dit probleem op te lossen, moet u de valuta van uw winkel wijzigen naar een valuta die Flutterwave ondersteunt.
 
-To change your store's currency:
+Om de valuta van uw winkel te wijzigen:
 
-1. Head to the ***Settings → General*** in your eCommerce admin panel
-2. Click on the "**Standards and formats**" settings
-3. From the Currency dropdown menu, select the currency that Flutterwave supports
-4. Click **Save**
+1. Ga naar ***Instellingen → Algemeen*** in uw eCommerce-beheerpaneel
+2. Klik op de "**Standaarden en formaten**" instellingen
+3. Selecteer in het vervolgkeuzemenu Valuta de valuta die Flutterwave ondersteunt
+4. Klik op **Opslaan**
 
 :::caution
-If you've already received an order for your online store, you cannot change the currency through the settings. In such cases, please contact eCommerce support (support@eCommerce.com) to request a change in your store currency.
+Als u al een bestelling heeft ontvangen voor uw online winkel, kunt u de valuta niet wijzigen via de instellingen. In dergelijke gevallen kunt u contact opnemen met eCommerce-ondersteuning (support@eCommerce.com) om een wijziging van uw winkelvaluta aan te vragen.
 :::
 
-## Key Features of Flutterwave
+## Belangrijkste kenmerken van Flutterwave
 
-### Multiple Payment Options
+### Meerdere betalingsopties
 
-Flutterwave offers a variety of payment methods tailored to different regions:
+Flutterwave biedt verschillende betaalmethoden aangepast aan verschillende regio's:
 
-- **Card Payments**: Accept Visa, Mastercard, and local cards across Africa and beyond
-- **Mobile Money**: Integrate with popular mobile money services across multiple African countries
-- **Bank Transfers**: Support for direct bank transfers in supported countries
-- **USSD**: Offer payment via USSD codes for users without smartphones or internet
-- **QR Payments**: Enable contactless payments through QR code scanning
+- **Kaartbetalingen**: Accepteer Visa, Mastercard en lokale kaarten in Afrika en daarbuiten
+- **Mobiel geld**: Integreer met populaire mobiele geldservices in meerdere Afrikaanse landen
+- **Bankoverschrijvingen**: Ondersteuning voor directe bankoverschrijvingen in ondersteunde landen
+- **USSD**: Bied betaling via USSD-codes voor gebruikers zonder smartphones of internet
+- **QR-betalingen**: Contactloze betalingen via QR-code scannen
 
-### Regional Specialization
+### Regionale specialisatie
 
-Flutterwave has specific features for different regions:
+Flutterwave heeft specifieke functies voor verschillende regio's:
 
-- **Nigeria**: Support for local payment methods like USSD and bank transfers
-- **Kenya**: Integration with M-Pesa and other mobile money services
-- **Ghana**: Support for mobile money networks like MTN, Vodafone, and AirtelTigo
-- **South Africa**: Integration with local banking systems and payment methods
-- **Tanzania/Uganda**: Support for local mobile money services
+- **Nigeria**: Ondersteuning voor lokale betaalmethoden zoals USSD en bankoverschrijvingen
+- **Kenia**: Integratie met M-Pesa en andere mobiele geldservices
+- **Ghana**: Ondersteuning voor mobiele geldnetwerken zoals MTN, Vodafone en AirtelTigo
+- **Zuid-Afrika**: Integratie met lokale banksystemen en betaalmethoden
+- **Tanzania/Oeganda**: Ondersteuning voor lokale mobiele geldservices
 
-### Security and Compliance
+### Beveiliging en naleving
 
-Flutterwave maintains high security standards:
+Flutterwave handhaaft hoge beveiligingsstandaarden:
 
 - PCI DSS Level 1 compliance
-- 3D Secure authentication
-- Anti-fraud monitoring and protection
-- Data encryption and security
+- 3D Secure authenticatie
+- Anti-fraude monitoring en bescherming
+- Gegevensversleuteling en beveiliging
 
-## Best Practices for Using Flutterwave
+## Beste praktijken voor het gebruik van Flutterwave
 
-1. **Test thoroughly**: Always test your integration in the sandbox environment before going live
-2. **Implement webhook notifications**: Set up webhooks to receive real-time updates on payment status
-3. **Handle currency conversion appropriately**: Be clear about which currencies you accept and how conversion works
-4. **Keep your API keys secure**: Never expose your secret key in client-side code
-5. **Display appropriate payment methods**: Show payment options relevant to your customer's location
-6. **Regularly verify transaction status**: Always confirm payment status before fulfilling orders
-7. **Stay updated**: Keep up with Flutterwave's API documentation for new features and changes
+1. **Test grondig**: Test altijd uw integratie in de sandbox-omgeving voordat u live gaat
+2. **Implementeer webhook-notificaties**: Stel webhooks in om realtime updates over betalingsstatus te ontvangen
+3. **Handel valuta-omrekening juist af**: Wees duidelijk over welke valuta's u accepteert en hoe omrekening werkt
+4. **Houd uw API-sleutels veilig**: Stel nooit uw geheime sleutel bloot in client-side code
+5. **Toon juiste betaalmethoden**: Toon betalingsopties relevant voor de locatie van uw klant
+6. **Verifieer transactiestatus regelmatig**: Bevestig altijd de betalingsstatus voordat u bestellingen afhandelt
+7. **Blijf up-to-date**: Houd Flutterwave's API-documentatie bij voor nieuwe functies en wijzigingen
