@@ -2,20 +2,20 @@
 sidebar_position: 4
 ---
 
-# Contact Information
+# Contactinformatie
 
-You can contact us from the following sources:
+U kunt contact met ons opnemen via de volgende bronnen:
 
-- **Book a call**
+- **Een gesprek inplannen**
 - **Live chat**
-- Social profiles: **LinkedIn**, **Facebook**, **Twitter**, **Instagram**, **YouTube**
+- Sociale profielen: **LinkedIn**, **Facebook**, **Twitter**, **Instagram**, **YouTube**
 
-Our support team is ready to assist you with any questions or issues you may have regarding your eCommerce store. We strive to provide timely and helpful responses to ensure your success on our platform.
+Ons ondersteuningsteam staat klaar om u te helpen met vragen of problemen die u mogelijk heeft betreffende uw eCommerce-winkel. We streven ernaar tijdige en behulpzame reacties te bieden om uw succes op ons platform te waarborgen.
 
-## Support Hours
+## Ondersteuningsuren
 
-Our support team is available Monday through Friday, from 9:00 AM to 5:00 PM (UTC).
+Ons ondersteuningsteam is beschikbaar van maandag tot vrijdag, van 9:00 tot 17:00 (UTC).
 
-## Priority Support
+## Prioriteit ondersteuning
 
-Premium plan subscribers receive priority support with faster response times and dedicated support specialists.
+Premium plan-abonnees ontvangen prioriteit ondersteuning met snellere reactietijden en toegewijde ondersteuningsspecialisten.
