@@ -24,7 +24,7 @@ To access your Public Key (named Merchant on Payriff's admin panel) and Secret K
 3. Go to the "**Applications**" from the left menu
 4. Here, you'll see the Public Key (under the Merchant column) and Secret key
 
-![Payriff API Keys](https://example.com/path/to/image.png)
+![Payriff API Keys](./img/payriff/payriff-key.png)
 
 ### Enable Sandbox Mode for Testing
 
