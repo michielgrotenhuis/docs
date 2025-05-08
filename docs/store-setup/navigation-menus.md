@@ -46,7 +46,7 @@ In the example below, by dragging the page named 'Terms and Conditions' and 'Pol
 
 And, by dragging the 'Refund Policy', 'Privacy Policy', and 'Shipping Policy' pages under the sub menu named 'Policies', you create the mega menu for the 'Legal' item.
 
-![Creating submenu and mega menu animation](https://example.com/path/to/image.gif)
+![Creating submenu and mega menu animation](./img/navigation-1.gif)
 
 When creating a submenu, each submenu item will be treated like a normal menu item. This means you can configure additional settings such as Link Title, and Link rel for each submenu item.
 
