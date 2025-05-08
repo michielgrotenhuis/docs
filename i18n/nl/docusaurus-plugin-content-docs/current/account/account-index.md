@@ -2,55 +2,55 @@
 sidebar_position: 1
 ---
 
-# Account Management
+# Accountbeheer
 
-This section covers all aspects of managing your eCommerce account. From pausing or deleting your store to canceling subscriptions and resetting passwords, you'll find comprehensive guidance on account-related tasks.
+Deze sectie behandelt alle aspecten van het beheren van uw eCommerce-account. Van het pauzeren of verwijderen van uw winkel tot het annuleren van abonnementen en het resetten van wachtwoorden, u vindt hier uitgebreide begeleiding voor account-gerelateerde taken.
 
-## What's in this section
+## Wat vindt u in deze sectie
 
-- [Pause or Delete Store](delete-pause-store) - Learn how to temporarily pause or permanently delete your store
-- [Cancel Subscription](cancel-subscription) - Steps to cancel your eCommerce subscription
-- [Password Reset](password-reset) - How to reset or change your account password
+- [Winkel pauzeren of verwijderen](delete-pause-store) - Leer hoe u uw winkel tijdelijk kunt pauzeren of permanent kunt verwijderen
+- [Abonnement annuleren](cancel-subscription) - Stappen om uw eCommerce-abonnement te annuleren
+- [Wachtwoord resetten](password-reset) - Hoe u uw accountwachtwoord kunt resetten of wijzigen
 
-## Managing Your eCommerce Account
+## Uw eCommerce-account beheren
 
-Properly managing your eCommerce account is important for security and ensuring you're on the right plan for your business needs. Here's a guide to key account management tasks:
+Het juist beheren van uw eCommerce-account is belangrijk voor beveiliging en om ervoor te zorgen dat u het juiste plan heeft voor uw bedrijfsbehoeften. Hier is een gids voor belangrijke accountbeheertaken:
 
-### 1. Account Security
+### 1. Accountbeveiliging
 
-Maintain the security of your account:
-- Use strong, unique passwords
-- Update your password regularly
-- Enable secure login options if available
-- Be cautious with account access and shared credentials
+Onderhoud de beveiliging van uw account:
+- Gebruik sterke, unieke wachtwoorden
+- Werk uw wachtwoord regelmatig bij
+- Schakel veilige inlogopties in indien beschikbaar
+- Wees voorzichtig met accounttoegang en gedeelde inloggegevens
 
-Learn more about [password management](password-reset).
+Leer meer over [wachtwoordbeheer](password-reset).
 
-### 2. Subscription Management
+### 2. Abonnementbeheer
 
-Stay on top of your subscription details:
-- Review your current plan and billing cycle
-- Understand what features are included in your plan
-- Evaluate whether your current plan meets your business needs
-- Know how to upgrade or downgrade your plan as needed
+Blijf op de hoogte van uw abonnementsdetails:
+- Bekijk uw huidige plan en factureringscyclus
+- Begrijp welke functies zijn inbegrepen in uw plan
+- Evalueer of uw huidige plan voldoet aan uw bedrijfsbehoeften
+- Weet hoe u uw plan kunt upgraden of downgraden indien nodig
 
-If you need to cancel your subscription, learn the [steps to cancel](cancel-subscription).
+Als u uw abonnement moet annuleren, leer dan de [stappen om te annuleren](cancel-subscription).
 
-### 3. Store Status Management
+### 3. Winkelstatusbeheer
 
-Control the operational status of your store:
-- Know how to temporarily pause your store when needed
-- Understand the implications of store deletion
-- Learn about alternatives to deletion (such as maintenance mode)
+Beheer de operationele status van uw winkel:
+- Weet hoe u uw winkel tijdelijk kunt pauzeren wanneer nodig
+- Begrijp de gevolgen van winkelverwijdering
+- Leer over alternatieven voor verwijdering (zoals onderhoudsmodus)
 
-Learn more about [pausing or deleting your store](delete-pause-store).
+Leer meer over [pauzeren of verwijderen van uw winkel](delete-pause-store).
 
-## Best Practices for Account Management
+## Beste praktijken voor accountbeheer
 
-- **Regular review**: Periodically review your subscription plan to ensure it still meets your needs
-- **Admin access control**: Limit the number of people who have admin access to your account
-- **Backup contact information**: Keep your contact information up to date for account recovery
-- **Documentation**: Maintain records of your account details and subscription information
-- **Security awareness**: Stay vigilant about potential security threats and take appropriate measures
+- **Regelmatige beoordeling**: Bekijk periodiek uw abonnementsplan om ervoor te zorgen dat het nog steeds voldoet aan uw behoeften
+- **Beheerdertoegang**: Beperk het aantal mensen dat beheerdertoegang heeft tot uw account
+- **Back-up contactinformatie**: Houd uw contactinformatie up-to-date voor accountherstel
+- **Documentatie**: Bewaar gegevens van uw accountdetails en abonnementsinformatie
+- **Beveiligingsbewustzijn**: Blijf waakzaam voor potentiële beveiligingsrisico's en neem passende maatregelen
 
-By following these best practices and properly managing your eCommerce account, you'll ensure secure access, appropriate subscription levels, and control over your store's operational status.
+Door deze beste praktijken te volgen en uw eCommerce-account goed te beheren, zorgt u voor veilige toegang, juiste abonnementsniveaus en controle over de operationele status van uw winkel.
