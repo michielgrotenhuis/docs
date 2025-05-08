@@ -2,34 +2,34 @@
 sidebar_position: 1
 ---
 
-# Getting Started with eCommerce
+# Aan de slag met eCommerce
 
-This section provides you with all the essential information you need to understand eCommerce and begin your journey as an online merchant.
+Deze sectie biedt u alle essentiële informatie die u nodig heeft om eCommerce te begrijpen en uw reis als online handelaar te beginnen.
 
-## What's in this section
+## Wat vindt u in deze sectie
 
-- [What is eCommerce?](what-is-ecommerce) - Learn about the eCommerce platform, its features, and who it's designed for
-- [Set Up eCommerce Store](setup-ecommerce-store) - Step-by-step guide to creating your online store
-- [Billing & Subscription](billing-subscription) - Information about plans, pricing, and subscription management
-- [Frequently Asked Questions](faq) - Answers to common questions about the platform
-- [Contact Information](contact) - How to get in touch with eCommerce support
+- [Wat is eCommerce?](what-is-ecommerce) - Leer over het eCommerce-platform, zijn functies en voor wie het is ontworpen
+- [eCommerce-winkel opzetten](setup-ecommerce-store) - Stapsgewijze handleiding voor het maken van uw online winkel
+- [Facturering & Abonnement](billing-subscription) - Informatie over plannen, prijzen en abonnementbeheer
+- [Veelgestelde vragen](faq) - Antwoorden op veelgestelde vragen over het platform
+- [Contactinformatie](contact) - Hoe contact op te nemen met eCommerce-ondersteuning
 
-## Quick Start Guide
+## Snelstartgids
 
-If you're new to eCommerce, we recommend following these steps to get started:
+Als u nieuw bent bij eCommerce, raden we aan deze stappen te volgen om te beginnen:
 
-1. **Learn about eCommerce**: Read the [What is eCommerce?](what-is-ecommerce) page to understand the platform's capabilities and benefits.
+1. **Leer over eCommerce**: Lees de [Wat is eCommerce?](what-is-ecommerce) pagina om de mogelijkheden en voordelen van het platform te begrijpen.
 
-2. **Create your account**: Sign up for a eCommerce account at your provider.
+2. **Maak uw account aan**: Meld u aan voor een eCommerce-account bij uw provider.
 
-3. **Set up your store**: Follow the instructions in [Set Up eCommerce Store](setup-ecommerce-store) to configure your online store.
+3. **Stel uw winkel in**: Volg de instructies in [eCommerce-winkel opzetten](setup-ecommerce-store) om uw online winkel te configureren.
 
-4. **Choose a plan**: Review the [Billing & Subscription](billing-subscription) information to select the right plan for your business.
+4. **Kies een plan**: Bekijk de [Facturering & Abonnement](billing-subscription) informatie om het juiste plan voor uw bedrijf te selecteren.
 
-5. **Add products**: Start adding products to your store using the guidelines in the [Products](../products/products-index) section.
+5. **Voeg producten toe**: Begin met het toevoegen van producten aan uw winkel met behulp van de richtlijnen in de [Producten](../products/products-index) sectie.
 
-6. **Configure payments**: Set up payment methods using the information in the [Payments](../payments/payments-index) section.
+6. **Configureer betalingen**: Stel betaalmethoden in met behulp van de informatie in de [Betalingen](../payments/payments-index) sectie.
 
-7. **Launch your store**: Once everything is set up, you're ready to start selling online!
+7. **Start uw winkel**: Zodra alles is ingesteld, bent u klaar om online te verkopen!
 
-By following these steps, you'll have your eCommerce store up and running in no time. If you encounter any difficulties along the way, don't hesitate to check the [FAQ](faq) or [contact support](contact) for assistance.
+Door deze stappen te volgen, heeft u uw eCommerce-winkel in korte tijd operationeel. Als u onderweg moeilijkheden ondervindt, aarzel dan niet om de [FAQ](faq) te raadplegen of [contact op te nemen met ondersteuning](contact) voor hulp.
