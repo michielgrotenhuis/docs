@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": "eCommerce",
+    "description": "De titel in de navigatiebalk"
+  },
+  "item.label.Documentation": {
+    "message": "Documentatie",
+    "description": "Navigatiebalk item met label Documentatie"
+  },
+  "item.label.Blog": {
+    "message": "Blog",
+    "description": "Navigatiebalk item met label Blog"
+  },
+  "item.label.Changelog": {
+    "message": "Wijzigingslogboek",
+    "description": "Navigatiebalk item met label Wijzigingslogboek"
+  }
+}
