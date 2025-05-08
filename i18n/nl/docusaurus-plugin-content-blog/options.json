@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "Blog",
+    "description": "De titel voor de blog gebruikt in SEO"
+  },
+  "description": {
+    "message": "Blog",
+    "description": "De beschrijving voor de blog gebruikt in SEO"
+  },
+  "sidebar.title": {
+    "message": "Recente berichten",
+    "description": "Het label voor de linkerzijbalk"
+  }
+}
