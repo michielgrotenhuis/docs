@@ -2,26 +2,26 @@
 sidebar_position: 1
 ---
 
-# Deleting Your eCommerce Store
+# Deleting Your Online Store
 
 You can deactivate or pause your store at any time.
 
-To delete your eCommerce store:
+To delete your online store:
 
-1. If you're in a paid plan, you should downgrade to the Free plan
+1. Contact your service provider to requist a deletion of your store.
 2. Then, you need to enable the maintenance mode from the Settings
 
 To delete an account and its data completely is done by request.
 
 Learn how to [enable maintenance mode on your eCommerce store](../store-management/maintenance-mode).
 
-## Pausing Your eCommerce Store
+## Pausing Your Online Store
 
-To pause your eCommerce store, just enable the **maintenance mode** from the Settings.
+To pause your online store, just enable the **maintenance mode** from the Settings.
 
 ## Understanding Your Options
 
-When considering whether to delete, pause, or modify your eCommerce store, it's important to understand the different options available to you and their implications.
+When considering whether to delete, pause, or modify your store, it's important to understand the different options available to you and their implications.
 
 ### Pausing vs. Deleting
 
@@ -76,4 +76,4 @@ Requesting complete deletion might be appropriate when:
 4. **Downgrade to Free Plan**: Switch to the Free plan before requesting deletion
 5. **Cancel Third-Party Services**: Cancel any integrated third-party services connected to your store
 
-By understanding these options and following best practices, you can make an informed decision about whether to pause or delete your eCommerce store.
+By understanding these options and following best practices, you can make an informed decision about whether to pause or delete your online store.
