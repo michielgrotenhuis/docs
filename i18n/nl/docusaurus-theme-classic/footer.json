@@ -1,0 +1,70 @@
+{
+  "link.title.Documentation": {
+    "message": "Documentatie",
+    "description": "De titel van de voettekst links kolom met titel=Documentatie in de voettekst"
+  },
+  "link.title.Blog": {
+    "message": "Blog",
+    "description": "De titel van de voettekst links kolom met titel=Blog in de voettekst"
+  },
+  "link.title.Changelog": {
+    "message": "Wijzigingslogboek",
+    "description": "De titel van de voettekst links kolom met titel=Wijzigingslogboek in de voettekst"
+  },
+  "link.item.label.Introduction": {
+    "message": "Introductie",
+    "description": "Het label van voettekst link met label=Introductie die linkt naar /docs/intro"
+  },
+  "link.item.label.Getting Started": {
+    "message": "Aan de Slag",
+    "description": "Het label van voettekst link met label=Aan de Slag die linkt naar /docs/getting-started/getting-started-index"
+  },
+  "link.item.label.Store Configuration": {
+    "message": "Winkel Configuratie",
+    "description": "Het label van voettekst link met label=Winkel Configuratie die linkt naar /docs/store-setup/connect-custom-domain"
+  },
+  "link.item.label.Products": {
+    "message": "Producten",
+    "description": "Het label van voettekst link met label=Producten die linkt naar /docs/products/products-index"
+  },
+  "link.item.label.Payments": {
+    "message": "Betalingen",
+    "description": "Het label van voettekst link met label=Betalingen die linkt naar /docs/payments/payments-index"
+  },
+  "link.item.label.Shipping": {
+    "message": "Verzending",
+    "description": "Het label van voettekst link met label=Verzending die linkt naar /docs/shipping/shipping-index"
+  },
+  "link.item.label.Taxes": {
+    "message": "Belastingen",
+    "description": "Het label van voettekst link met label=Belastingen die linkt naar /docs/taxes/taxes-index"
+  },
+  "link.item.label.Marketing": {
+    "message": "Marketing",
+    "description": "Het label van voettekst link met label=Marketing die linkt naar /docs/marketing/marketing-index"
+  },
+  "link.item.label.Store Management": {
+    "message": "Winkelbeheer",
+    "description": "Het label van voettekst link met label=Winkelbeheer die linkt naar /docs/store-management/store-management-index"
+  },
+  "link.item.label.Account": {
+    "message": "Account",
+    "description": "Het label van voettekst link met label=Account die linkt naar /docs/account/account-index"
+  },
+  "link.item.label.Blog": {
+    "message": "Blog",
+    "description": "Het label van voettekst link met label=Blog die linkt naar /blog"
+  },
+  "link.item.label.V1.0.0": {
+    "message": "V1.0.0",
+    "description": "Het label van voettekst link met label=V1.0.0 die linkt naar /changelog/version-1.0.0"
+  },
+  "link.item.label.V2.0.0": {
+    "message": "V2.0.0",
+    "description": "Het label van voettekst link met label=V2.0.0 die linkt naar /changelog/version-2.0.0"
+  },
+  "copyright": {
+    "message": "Copyright © 2025 eCommerce.",
+    "description": "De copyright in de voettekst"
+  }
+}
