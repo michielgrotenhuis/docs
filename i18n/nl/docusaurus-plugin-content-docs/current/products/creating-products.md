@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Step-by-step Guide to Add and Optimize Product Pages
+# Stap voor stap Guide to Add and Optimize Product Pages
 
 You can easily add or update a product price, variations, stock quantity, etc. from the **Products** page in your eCommerce admin.
 
