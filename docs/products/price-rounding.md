@@ -16,8 +16,8 @@ When price rounding is enabled, prices are automatically rounded to the most com
 
 ## How to Round Prices?
 
-1. [Log in](https://accounts.uvodo.com/) to your eCommerce admin panel
+1. Login to your eCommerce admin panel
 2. Navigate to the *Settings → General → Standards and formats*
 3. Scroll down and tick the checkbox for Price rounding
 
-![Price rounding checkbox](https://example.com/path/to/image.png)
+![Price rounding checkbox](./img/price-roundings.png)
