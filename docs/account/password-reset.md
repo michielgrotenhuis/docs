@@ -15,7 +15,7 @@ You should receive a success email.
 
 ## Secure Password Guidelines
 
-When creating a new password for your eCommerce admin account, following these guidelines will help ensure your store remains secure:
+When creating a new password for your Online Store admin account, following these guidelines will help ensure your store remains secure:
 
 ### Strong Password Characteristics
 
@@ -75,4 +75,4 @@ Beyond password management, follow these additional security practices to protec
 - Never share your password over email, text, or phone
 - Official eCommerce representatives will never ask for your password
 
-By following these guidelines and best practices, you can help ensure the security of your eCommerce store and protect your business and customer data.
+By following these guidelines and best practices, you can help ensure the security of your online store and protect your business and customer data.
