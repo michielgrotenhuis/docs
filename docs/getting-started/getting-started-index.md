@@ -12,7 +12,7 @@ This section provides you with all the essential information you need to underst
 - [Set Up eCommerce Store](setup-ecommerce-store) - Step-by-step guide to creating your online store
 - [Billing & Subscription](billing-subscription) - Information about plans, pricing, and subscription management
 - [Frequently Asked Questions](faq) - Answers to common questions about the platform
-- [Contact Information](contact) - How to get in touch with eCommerce support
+- [Contact Information](account/contact) - How to get in touch with eCommerce support
 
 ## Quick Start Guide
 
