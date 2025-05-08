@@ -26,7 +26,7 @@ However, in countries like the United States and Canada, taxes are typically add
 
 eCommerce allows you to display product prices with the VAT included. To enable this feature, on the ***Settings* → *Taxes*** page, scroll down and tick the box for **"Include tax in prices"**.
 
-![Include tax in prices checkbox](https://example.com/path/to/image.png)
+![Include tax in prices checkbox](./img/include-tax-in-prices.png)
 
 When you enable the **"Include tax in prices"** option, total sales amount displayed during the checkout tend to have inconsistent price endings. To adjust the total price of goods to a more standardized value, you can use **price rounding** feature.
 
