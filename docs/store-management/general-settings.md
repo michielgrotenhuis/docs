@@ -76,8 +76,6 @@ After enabling the maintenance mode for your online store, you can give an acces
 
 After ticking the box, write down the password:
 
-![maintenance mode store access](https://example.com/path/to/image.png)
-
 ## Customizing Your Store Settings
 
 Customizing your store settings is an important part of creating a professional and effective online presence. Here are some best practices to consider when configuring your general store settings:
