@@ -2,132 +2,132 @@
 sidebar_position: 13
 ---
 
-# Epoint Overview
+# Epoint Overzicht
 
-Epoint is a payment system based in Azerbaijan that allows users to make electronic payments for various services and purchases. It was created to facilitate secure and convenient electronic payments in Azerbaijan.
+Epoint is een betalingssysteem gevestigd in Azerbeidzjan dat gebruikers in staat stelt elektronische betalingen te doen voor verschillende diensten en aankopen. Het is gemaakt om veilige en gemakkelijke elektronische betalingen in Azerbeidzjan te faciliteren.
 
-## How to Set Up Epoint Payment Gateway
+## Hoe Epoint-betaalgateway instellen
 
-1. **Log in** to your eCommerce admin panel
-2. Navigate to the ***Settings → Payments*** in your admin panel
-3. Click on the "**Add payment method**" anchor text
-4. If available with your store currency, select "**Epoint**" as your payment provider (if not available, see the [Epoint isn't available with your store currency](#epoint-isnt-available-with-your-store-currency) section below)
-5. In the "**Enable payment method**" section, click on the toggle to enable the payment method
-6. Enter the "**Public key**" and "**Private key**" from your Epoint account, then click on the **Submit** button
+1. **Log in** op uw eCommerce-beheerpaneel
+2. Ga naar ***Instellingen → Betalingen*** in uw beheerpaneel
+3. Klik op de "**Betaalmethode toevoegen**" link
+4. Als beschikbaar met uw winkelvaluta, selecteer "**Epoint**" als uw betalingsprovider (indien niet beschikbaar, zie de sectie [Epoint is niet beschikbaar met uw winkelvaluta](#epoint-is-niet-beschikbaar-met-uw-winkelvaluta) hieronder)
+5. Klik in de sectie "**Betaalmethode inschakelen**" op de toggle om de betaalmethode in te schakelen
+6. Voer de "**Publieke sleutel**" en "**Privésleutel**" van uw Epoint-account in en klik op de **Verzenden** knop
 
-### Epoint Public and Private Keys
+### Epoint publieke en privésleutels
 
-Before creating and verifying your Epoint account, please ensure that your online store complies with [Epoint's internal rules](https://epoint.az/en/rules).
+Voordat u uw Epoint-account aanmaakt en verifieert, zorg ervoor dat uw online winkel voldoet aan [Epoint's interne regels](https://epoint.az/en/rules).
 
-To configure the merchant in Epoint system, you will need to provide them with the following information:
+Om de handelaar in het Epoint-systeem te configureren, moet u hen de volgende informatie verstrekken:
 
-- Your website address
-- URL page of successful payment - success_url
-- URL page to display information about unsuccessful payment - error_url
-- URL to send payment result - result_url
+- Uw websiteadres
+- URL-pagina van succesvolle betaling - success_url
+- URL-pagina om informatie weer te geven over onsuccesvolle betaling - error_url
+- URL om betalingsresultaat te verzenden - result_url
 
-After checking this information, you will be given the access keys: public_key - the merchant ID in Epoint system and private_key - the secret access key to the API.
+Na controle van deze informatie, krijgt u de toegangssleutels: public_key - de handelaar-ID in het Epoint-systeem en private_key - de geheime toegangssleutel tot de API.
 
-To generate your Public and Private keys, please follow the steps below:
+Om uw publieke en privésleutels te genereren, volg deze stappen:
 
-1. Log in to your Epoint account
-2. Navigate to the ***API Management → Connection options***
-   - In this section, you will need to provide four essential links: the website address, success link, fail link, and result link
-3. After adding the required links, click the ***Save*** button to save your settings
+1. Log in op uw Epoint-account
+2. Ga naar ***API Management → Connection options***
+   - In deze sectie moet u vier essentiële links verstrekken: het websiteadres, succeslink, faallink en resultaatlink
+3. Na het toevoegen van de vereiste links, klik op de ***Save*** knop om uw instellingen op te slaan
 
-For those planning to add a custom domain to their eCommerce store, it's essential to add the custom domain before connecting to Epoint. However, if you've initially added yourstore.biz.cyou links and decide to incorporate a custom domain at a later stage, please remember to update the necessary links on Epoint as well.
+Voor degenen die van plan zijn een aangepast domein toe te voegen aan hun eCommerce-winkel, is het essentieel om het aangepaste domein toe te voegen voordat u verbinding maakt met Epoint. Als u echter aanvankelijk yourstore.biz.cyou links heeft toegevoegd en besluit om later een aangepast domein toe te voegen, vergeet dan niet om ook de nodige links op Epoint bij te werken.
 
-Once you have added the necessary links, please allow 24 hours for the system to verify the connection and generate your public and private keys.
+Zodra u de nodige links heeft toegevoegd, geef het systeem 24 uur om de verbinding te verifiëren en uw publieke en privésleutels te genereren.
 
-Upon successful verification, you will find your public and private keys displayed on the same ***Connection options*** page.
+Bij succesvolle verificatie vindt u uw publieke en privésleutels weergegeven op dezelfde ***Connection options*** pagina.
 
-By following these steps, you can easily set up your Epoint Public and Private keys for seamless integration with our platform.
+Door deze stappen te volgen, kunt u eenvoudig uw Epoint publieke en privésleutels instellen voor naadloze integratie met ons platform.
 
-## Epoint Supported Currencies
+## Epoint ondersteunde valuta's
 
-You can take payments from Azerbaijan in Azerbaijani Manat (AZN) with Epoint.
+U kunt betalingen ontvangen uit Azerbeidzjan in Azerbeidzjaanse Manat (AZN) met Epoint.
 
-| **CURRENCY NAME** | **CURRENCY CODE** |
-|-------------------|-------------------|
-| Azerbaijani Manat | AZN |
+| **VALUTANAAM** | **VALUTACODE** |
+|----------------|----------------|
+| Azerbeidzjaanse Manat | AZN |
 
-## Epoint Isn't Available with Your Store Currency
+## Epoint is niet beschikbaar met uw winkelvaluta
 
-If Epoint payment isn't available due to your store currency, you cannot select this payment provider. To resolve this issue, you need to change your store's currency to one that Epoint supports.
+Als Epoint-betaling niet beschikbaar is vanwege uw winkelvaluta, kunt u deze betalingsprovider niet selecteren. Om dit probleem op te lossen, moet u de valuta van uw winkel wijzigen naar een valuta die Epoint ondersteunt.
 
-To change your store's currency:
+Om de valuta van uw winkel te wijzigen:
 
-1. Head to the ***Settings → General*** in your eCommerce admin panel
-2. Click on the "**Standards and formats**" settings
-3. From the Currency dropdown menu, select the currency that Epoint supports
-4. Click **Save**
+1. Ga naar ***Instellingen → Algemeen*** in uw eCommerce-beheerpaneel
+2. Klik op de "**Standaarden en formaten**" instellingen
+3. Selecteer in het vervolgkeuzemenu Valuta de valuta die Epoint ondersteunt
+4. Klik op **Opslaan**
 
 :::caution
-If you've already received an order for your online store, you cannot change the currency through the settings. In such cases, please contact eCommerce support (support@eCommerce.com) to request a change in your store currency.
+Als u al een bestelling heeft ontvangen voor uw online winkel, kunt u de valuta niet wijzigen via de instellingen. In dergelijke gevallen kunt u contact opnemen met eCommerce-ondersteuning (support@eCommerce.com) om een wijziging van uw winkelvaluta aan te vragen.
 :::
 
-## Key Features of Epoint
+## Belangrijkste kenmerken van Epoint
 
-### Azerbaijan-Focused Payment Solution
+### Azerbeidzjan-gerichte betalingsoplossing
 
-Epoint offers specialized features for the Azerbaijani market:
+Epoint biedt gespecialiseerde functies voor de Azerbeidzjaanse markt:
 
-- **Local Currency Processing**: All transactions in AZN
-- **Azerbaijani Banking Integration**: Direct connection to local banking system
-- **Localized Experience**: Interface and support in Azerbaijani
-- **Domestic Compliance**: Adherence to local regulations and standards
-- **Local Support**: Azerbaijan-based customer service
+- **Lokale valutaverwerking**: Alle transacties in AZN
+- **Azerbeidzjaanse bankintegratie**: Directe verbinding met lokaal banksysteem
+- **Gelokaliseerde ervaring**: Interface en ondersteuning in het Azerbeidzjaans
+- **Nationale compliance**: Naleving van lokale regelgeving en standaarden
+- **Lokale ondersteuning**: Azerbeidzjan-gebaseerde klantenservice
 
-### Payment Methods
+### Betaalmethoden
 
-Epoint supports several payment methods for Azerbaijani customers:
+Epoint ondersteunt verschillende betaalmethoden voor Azerbeidzjaanse klanten:
 
-- **Credit/Debit Cards**: Major cards accepted in Azerbaijan
-- **Online Banking**: Integration with Azerbaijani banks
-- **Mobile Payments**: Support for mobile payment options
-- **Electronic Wallets**: Various e-wallet options
-- **Alternative Payment Methods**: Other local payment solutions
+- **Credit/debetkaarten**: Belangrijkste kaarten geaccepteerd in Azerbeidzjan
+- **Online bankieren**: Integratie met Azerbeidzjaanse banken
+- **Mobiele betalingen**: Ondersteuning voor mobiele betalingsopties
+- **Elektronische portemonnees**: Verschillende e-wallet opties
+- **Alternatieve betaalmethoden**: Andere lokale betalingsoplossingen
 
-### Business Tools
+### Bedrijfstools
 
-Epoint offers various tools for merchants:
+Epoint biedt verschillende tools voor handelaren:
 
-- **Merchant Dashboard**: Track transactions and manage settings
-- **Reporting**: Detailed transaction reporting and analytics
-- **API Integration**: Connect with your existing systems
-- **Security Features**: Fraud protection and secure transactions
-- **Support Resources**: Documentation and assistance
+- **Handelaarsdashboard**: Volg transacties en beheer instellingen
+- **Rapportage**: Gedetailleerde transactierapportage en analyse
+- **API-integratie**: Verbind met uw bestaande systemen
+- **Beveiligingsfuncties**: Fraudebescherming en veilige transacties
+- **Ondersteuningsbronnen**: Documentatie en assistentie
 
-## Best Practices for Using Epoint
+## Beste praktijken voor het gebruik van Epoint
 
-1. **Configure for Azerbaijani market**: Ensure your store is set up for local customers
-2. **Display pricing in AZN**: All products should be priced in Azerbaijani Manat
-3. **Test thoroughly**: Verify your integration before going live
-4. **Keep credentials secure**: Never expose your private key in client-side code
-5. **Implement proper error handling**: Handle payment errors gracefully
-6. **Verify transactions**: Always confirm payment status before fulfilling orders
-7. **Consider local regulations**: Ensure compliance with Azerbaijani e-commerce laws
-8. **Provide local language option**: Consider offering Azerbaijani as a language choice
-9. **Display payment logos**: Show Epoint and accepted payment methods on your site
-10. **Monitor transactions**: Regularly check your Epoint dashboard
+1. **Configureer voor Azerbeidzjaanse markt**: Zorg ervoor dat uw winkel is ingesteld voor lokale klanten
+2. **Toon prijzen in AZN**: Alle producten moeten geprijsd zijn in Azerbeidzjaanse Manat
+3. **Test grondig**: Verifieer uw integratie voordat u live gaat
+4. **Houd inloggegevens veilig**: Stel nooit uw privésleutel bloot in client-side code
+5. **Implementeer juiste foutafhandeling**: Handel betalingsfouten netjes af
+6. **Verifieer transacties**: Bevestig altijd de betalingsstatus voordat u bestellingen afhandelt
+7. **Houd rekening met lokale regelgeving**: Zorg voor naleving van Azerbeidzjaanse e-commerce wetgeving
+8. **Bied lokale taalopties**: Overweeg Azerbeidzjaans aan te bieden als taalkeuze
+9. **Toon betalingslogo's**: Toon Epoint en geaccepteerde betaalmethoden op uw site
+10. **Monitor transacties**: Controleer regelmatig uw Epoint-dashboard
 
-## Troubleshooting Common Issues
+## Veelvoorkomende problemen oplossen
 
-When using Epoint, you might encounter these common issues:
+Bij het gebruik van Epoint kunt u deze veelvoorkomende problemen tegenkomen:
 
-### Configuration Problems
-- Incorrect URL endpoints
-- Missing success/error/result URLs
-- Misconfigured website domain
+### Configuratieproblemen
+- Incorrecte URL-endpoints
+- Ontbrekende success/error/result URL's
+- Verkeerd geconfigureerd websitedomein
 
-### Authentication Issues
-- Invalid API credentials
-- Expired keys
-- Incorrect implementation of authentication
+### Authenticatieproblemen
+- Ongeldige API-inloggegevens
+- Verlopen sleutels
+- Incorrecte implementatie van authenticatie
 
-### Transaction Failures
-- Insufficient funds
-- Card restrictions
-- Failed authorization
+### Transactiefouten
+- Onvoldoende saldo
+- Kaartbeperkingen
+- Mislukte autorisatie
 
-For technical support with your Epoint integration, contact Epoint support or visit the [Epoint website](https://epoint.az/).
+Voor technische ondersteuning bij uw Epoint-integratie, neem contact op met Epoint-ondersteuning of bezoek de [Epoint-website](https://epoint.az/).
