@@ -2,100 +2,100 @@
 sidebar_position: 4
 ---
 
-# Meta Pixel Integration
+# Meta Pixel-integratie
 
-The Meta Pixel, also known as a Facebook Pixel, is a piece of JavaScript code that you place on your online store to track and measure the effectiveness of your Facebook and Instagram ad campaigns. It focuses on tracking user behavior, engagement, and conversions specifically within those ads.
+De Meta Pixel, ook wel bekend als Facebook Pixel, is een stukje JavaScript-code dat u op uw online winkel plaatst om het gedrag van gebruikers en de effectiviteit van uw Facebook- en Instagram-advertentiecampagnes te volgen en te meten. Het richt zich op het volgen van gebruikersgedrag, betrokkenheid en conversies specifiek binnen die advertenties.
 
-Meta Pixel is created in [Facebook Ads Manager](http://business.facebook.com/ads/manager/). When you add Meta Pixel in the Business Manager, you can run ads and track their performance on both Facebook and Instagram.
+Meta Pixel wordt aangemaakt in [Facebook Ads Manager](http://business.facebook.com/ads/manager/). Wanneer u Meta Pixel toevoegt in de Business Manager, kunt u advertenties uitvoeren en hun prestaties volgen op zowel Facebook als Instagram.
 
-## How to Add Meta Pixel to eCommerce Store
+## Hoe Meta Pixel toevoegen aan eCommerce-winkel
 
-Once you've created Meta Pixel in your Facebook Ads Manager, you can add the pixel code to connect Facebook by Meta to your eCommerce store without touching any code.
+Zodra u Meta Pixel heeft aangemaakt in uw Facebook Ads Manager, kunt u de pixelcode toevoegen om Facebook by Meta te verbinden met uw eCommerce-winkel zonder code aan te raken.
 
-If you haven't created a Meta Pixel yet, follow the steps in the [How to Create Your Meta Pixel](#how-to-create-your-meta-pixel) section below.
+Als u nog geen Meta Pixel heeft aangemaakt, volg dan de stappen in de sectie [Hoe uw Meta Pixel aanmaken](#hoe-uw-meta-pixel-aanmaken) hieronder.
 
-To add the Meta Pixel to your eCommerce store:
+Om de Meta Pixel aan uw eCommerce-winkel toe te voegen:
 
-1. **Log in** to your eCommerce admin panel
-2. Navigate to ***Settings → Integrations***
-3. Click on the **Add** button for Meta Pixel
-4. On this page, add your Meta (Facebook) Pixel ID to the input box
-5. Click **Save**
+1. **Log in** op uw eCommerce-beheerpaneel
+2. Ga naar ***Instellingen → Integraties***
+3. Klik op de **Toevoegen** knop voor Meta Pixel
+4. Voeg op deze pagina uw Meta (Facebook) Pixel ID toe aan het invoervak
+5. Klik op **Opslaan**
 
-That's it! You've successfully added the Meta Pixel to your eCommerce store.
+Dat is het! U heeft de Meta Pixel succesvol toegevoegd aan uw eCommerce-winkel.
 
-## How to Access Your Meta Pixel
+## Hoe toegang te krijgen tot uw Meta Pixel
 
-To find your Meta Pixel ID:
+Om uw Meta Pixel ID te vinden:
 
-1. Open **Business Settings** in Business Manager
-2. Select your business
-3. Navigate to **Data Sources**, where you will find your Pixels
-4. Look for the Pixel ID enclosed in parentheses right under the name
+1. Open **Bedrijfsinstellingen** in Business Manager
+2. Selecteer uw bedrijf
+3. Ga naar **Gegevensbronnen**, waar u uw Pixels vindt
+4. Zoek naar de Pixel ID tussen haakjes direct onder de naam
 
-## How to Create Your Meta Pixel
+## Hoe uw Meta Pixel aanmaken
 
-To set up your Facebook Pixel, follow these steps:
+Om uw Facebook Pixel in te stellen, volg deze stappen:
 
 1. Open [Facebook Ads Manager](http://business.facebook.com/ads/manager/)
-2. Click on the **All Tools** icon located in the left panel and select **Events Manager**
-3. In the left-hand side menu, click on the **Connect Data Source** button (it's a green **"＋"** plus icon)
-4. In the popup window, choose the **Web** option and click **Get Started**
-5. In the **Set up Web Events** window, select **Facebook Pixel** and hit the **Connect** button
-6. Enter the desired name for your pixel and provide the URL of your eCommerce store in the respective fields
-7. Finally, click **Continue** to proceed with the setup
+2. Klik op het **Alle tools** pictogram in het linkerpaneel en selecteer **Events Manager**
+3. Klik in het linkermenu op de **Gegevensbron verbinden** knop (het is een groen **"+"** pluspictogram)
+4. Kies in het pop-upvenster de **Web** optie en klik op **Aan de slag**
+5. Selecteer in het **Webgebeurtenissen instellen** venster **Facebook Pixel** en klik op de **Verbinden** knop
+6. Voer de gewenste naam voor uw pixel in en geef de URL van uw eCommerce-winkel op in de respectievelijke velden
+7. Klik ten slotte op **Doorgaan** om door te gaan met de installatie
 
-By following these steps, you will successfully configure your Meta Pixel for your eCommerce store.
+Door deze stappen te volgen, zult u uw Meta Pixel succesvol configureren voor uw eCommerce-winkel.
 
-Once created, your Facebook pixel will be formatted as *ID: XXXXXXXXXXXXXXX*
+Zodra aangemaakt, zal uw Facebook pixel worden geformatteerd als *ID: XXXXXXXXXXXXXXX*
 
 :::note
-The verification process might take a few minutes. To ensure your pixel is functioning properly, you can visit your [Events Manager](https://www.facebook.com/events_manager) page on Facebook. In the Test Events tab, you can confirm if your events are being received accurately. If you encounter any problems, you can identify and address them in the Diagnostics tab.
+Het verificatieproces kan een paar minuten duren. Om ervoor te zorgen dat uw pixel goed functioneert, kunt u uw [Events Manager](https://www.facebook.com/events_manager) pagina op Facebook bezoeken. In het Test Events tabblad kunt u bevestigen of uw gebeurtenissen accuraat worden ontvangen. Als u problemen ondervindt, kunt u deze identificeren en aanpakken in het Diagnostiek tabblad.
 :::
 
-## Benefits of Using Meta Pixel
+## Voordelen van het gebruik van Meta Pixel
 
-### Enhanced Ad Targeting
+### Verbeterde advertentietargeting
 
-The Meta Pixel collects data about your website visitors, allowing you to create more targeted advertising campaigns. You can:
+De Meta Pixel verzamelt gegevens over uw websitebezoekers, waardoor u meer gerichte advertentiecampagnes kunt maken. U kunt:
 
-- **Create Custom Audiences**: Target ads to people who have already visited your website
-- **Create Lookalike Audiences**: Find new customers who are similar to your existing customers
-- **Implement Dynamic Ads**: Show visitors products they've viewed on your website but haven't purchased yet
+- **Aangepaste doelgroepen maken**: Target advertenties op mensen die uw website al hebben bezocht
+- **Lookalike doelgroepen maken**: Vind nieuwe klanten die lijken op uw bestaande klanten
+- **Dynamische advertenties implementeren**: Toon bezoekers producten die ze op uw website hebben bekeken maar niet hebben gekocht
 
-### Conversion Tracking
+### Conversietracking
 
-Meta Pixel enables you to track various conversion events on your eCommerce store, such as:
+Meta Pixel stelt u in staat om verschillende conversiegebeurtenissen op uw eCommerce-winkel te volgen, zoals:
 
-- **Page Views**: Track which pages visitors view
-- **Add to Cart**: Monitor when products are added to shopping carts
-- **Checkout Initiated**: Track when users begin the checkout process
-- **Purchases**: Record completed transactions
-- **Lead Generation**: Track when visitors sign up for newsletters or create accounts
+- **Paginaweergaven**: Volg welke pagina's bezoekers bekijken
+- **Toevoegen aan winkelwagen**: Monitor wanneer producten aan winkelwagen worden toegevoegd
+- **Afrekenen gestart**: Volg wanneer gebruikers het afrekenproces beginnen
+- **Aankopen**: Registreer voltooide transacties
+- **Leadgeneratie**: Volg wanneer bezoekers zich aanmelden voor nieuwsbrieven of accounts aanmaken
 
-### Campaign Optimization
+### Campagne-optimalisatie
 
-With Meta Pixel data, you can optimize your Facebook and Instagram ad campaigns for better performance:
+Met Meta Pixel-gegevens kunt u uw Facebook- en Instagram-advertentiecampagnes optimaliseren voor betere prestaties:
 
-- **Conversion Optimization**: Set your ads to target people most likely to make purchases
-- **Value Optimization**: Target people likely to make high-value purchases
-- **ROI Measurement**: Calculate the return on investment for your ad spend
-- **A/B Testing**: Test different ad creatives, audiences, and placements to see what works best
+- **Conversieoptimalisatie**: Stel uw advertenties in om te targeten op mensen die waarschijnlijk aankopen doen
+- **Waardeoptimalisatie**: Target mensen die waarschijnlijk aankopen van hoge waarde doen
+- **ROI-meting**: Bereken het rendement op investering voor uw advertentie-uitgaven
+- **A/B-testen**: Test verschillende advertentieontwerpen, doelgroepen en plaatsingen om te zien wat het beste werkt
 
-### Remarketing Capabilities
+### Remarketingmogelijkheden
 
-Meta Pixel allows you to implement powerful remarketing strategies:
+Meta Pixel stelt u in staat om krachtige remarketing-strategieën te implementeren:
 
-- **Cart Abandonment Campaigns**: Target users who added products to their cart but didn't complete the purchase
-- **Cross-Selling Campaigns**: Promote related products to customers who've already made a purchase
-- **Re-engagement Campaigns**: Target users who haven't visited your store in a while
+- **Verlaten winkelwagen campagnes**: Target gebruikers die producten aan hun winkelwagen hebben toegevoegd maar de aankoop niet hebben voltooid
+- **Cross-selling campagnes**: Promoot gerelateerde producten aan klanten die al een aankoop hebben gedaan
+- **Re-engagement campagnes**: Target gebruikers die uw winkel een tijdje niet hebben bezocht
 
-## Best Practices for Meta Pixel Implementation
+## Beste praktijken voor Meta Pixel implementatie
 
-1. **Install correctly**: Ensure the Meta Pixel code is added to all pages of your website
-2. **Set up key events**: Configure important events like Add to Cart, Initiate Checkout, and Purchase
-3. **Use the Facebook Pixel Helper**: Install the Chrome extension to verify your pixel is working correctly
-4. **Respect user privacy**: Implement cookie consent banners and privacy policies as required by regulations
-5. **Regularly check performance**: Monitor your pixel's performance in Events Manager to catch any issues
+1. **Correct installeren**: Zorg ervoor dat de Meta Pixel code wordt toegevoegd aan alle pagina's van uw website
+2. **Belangrijke gebeurtenissen instellen**: Configureer belangrijke gebeurtenissen zoals Toevoegen aan winkelwagen, Afrekenen starten en Aankoop
+3. **Gebruik de Facebook Pixel Helper**: Installeer de Chrome-extensie om te verifiëren dat uw pixel correct werkt
+4. **Respecteer gebruikersprivacy**: Implementeer cookie-toestemmingsbanners en privacybeleid zoals vereist door regelgeving
+5. **Controleer prestaties regelmatig**: Monitor de prestaties van uw pixel in Events Manager om problemen snel op te sporen
 
-By implementing Meta Pixel on your eCommerce store, you can significantly improve your Facebook and Instagram advertising effectiveness, leading to better targeting, higher conversion rates, and increased return on ad spend.
+Door Meta Pixel op uw eCommerce-winkel te implementeren, kunt u de effectiviteit van uw Facebook- en Instagram-advertenties aanzienlijk verbeteren, wat leidt tot betere targeting, hogere conversiepercentages en een hoger rendement op advertentie-uitgaven.
