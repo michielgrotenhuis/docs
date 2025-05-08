@@ -18,7 +18,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/getting-started/what-is-ecommerce">
-            Walkthrough - 5min ⏱️
+            <translate>Walkthrough - 5min ⏱️</translate>
           </Link>
         </div>
       </div>
