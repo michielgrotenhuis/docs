@@ -55,6 +55,7 @@ Here is a non-exhaustive list of some of the currencies that Stripe currently su
 
 To see the complete list of supported currencies in your country, head to the [Stripe's supported currencies documentation](https://stripe.com/docs/currencies?presentment-currency) and select the country where your Stripe account is registered.
 
+![Stripe supported currencies](./img/stripe/stripe-supported-currencies.png)
 
 ## Stripe isn't available with your store currency
 
