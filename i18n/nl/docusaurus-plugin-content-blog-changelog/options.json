@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "eCommerce Wijzigingslogboek",
+    "description": "De titel voor de blog gebruikt in SEO"
+  },
+  "description": {
+    "message": "Houd alle updates en nieuwe functies bij",
+    "description": "De beschrijving voor de blog gebruikt in SEO"
+  },
+  "sidebar.title": {
+    "message": "Recente Releases",
+    "description": "Het label voor de linkerzijbalk"
+  }
+}
