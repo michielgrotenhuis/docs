@@ -2,77 +2,77 @@
 sidebar_position: 3
 ---
 
-# Password Reset & Change
+# Wachtwoord resetten & wijzigen
 
-To update your store's admin password:
+Om het beheerderswachtwoord van uw winkel te updaten:
 
-- Navigate to the ***Settings → Security***
-- Click on the **Change** your password
-- Here, write down your current (old) and new password.
-- Then click **Save**.
+- Ga naar ***Instellingen → Beveiliging***
+- Klik op **Wijzigen** van uw wachtwoord
+- Voer hier uw huidige (oude) en nieuwe wachtwoord in.
+- Klik vervolgens op **Opslaan**.
 
-You should receive a success email.
+U zou een succesbericht moeten ontvangen via e-mail.
 
-## Secure Password Guidelines
+## Richtlijnen voor veilige wachtwoorden
 
-When creating a new password for your eCommerce admin account, following these guidelines will help ensure your store remains secure:
+Bij het maken van een nieuw wachtwoord voor uw eCommerce-beheerdersaccount, zorgen deze richtlijnen ervoor dat uw winkel veilig blijft:
 
-### Strong Password Characteristics
+### Kenmerken van sterke wachtwoorden
 
-- **Length**: Use at least 12 characters; longer passwords are generally more secure
-- **Complexity**: Include a mix of uppercase letters, lowercase letters, numbers, and special characters
-- **Uniqueness**: Create a password that you don't use for any other accounts
-- **Unpredictability**: Avoid obvious patterns or sequences (like "123456" or "qwerty")
-- **Personal Information**: Avoid using easily guessable information like birthdays, names, or common words
+- **Lengte**: Gebruik minimaal 12 tekens; langere wachtwoorden zijn over het algemeen veiliger
+- **Complexiteit**: Gebruik een mix van hoofdletters, kleine letters, cijfers en speciale tekens
+- **Uniekheid**: Maak een wachtwoord dat u niet gebruikt voor andere accounts
+- **Onvoorspelbaarheid**: Vermijd voor de hand liggende patronen of reeksen (zoals "123456" of "qwerty")
+- **Persoonlijke informatie**: Vermijd het gebruik van gemakkelijk te raden informatie zoals verjaardagen, namen of veelvoorkomende woorden
 
-### Password Management Best Practices
+### Beste praktijken voor wachtwoordbeheer
 
-- **Regular Updates**: Change your password periodically (every 3-6 months)
-- **Password Manager**: Consider using a reputable password manager to securely store your credentials
-- **Two-Factor Authentication**: Enable two-factor authentication when available for an additional layer of security
-- **Secure Sharing**: If you need to share access with team members, use proper staff accounts instead of sharing your admin password
+- **Regelmatige updates**: Wijzig uw wachtwoord periodiek (elke 3-6 maanden)
+- **Wachtwoordbeheerder**: Overweeg het gebruik van een gerenommeerde wachtwoordbeheerder om uw inloggegevens veilig op te slaan
+- **Twee-factor authenticatie**: Schakel twee-factor authenticatie in wanneer beschikbaar voor een extra beveiligingslaag
+- **Veilig delen**: Als u toegang moet delen met teamleden, gebruik dan juiste personeelsaccounts in plaats van het delen van uw beheerderswachtwoord
 
-## What to Do If You Forget Your Password
+## Wat te doen als u uw wachtwoord vergeten bent
 
-If you've forgotten your password and cannot access your eCommerce admin panel:
+Als u uw wachtwoord vergeten bent en geen toegang kunt krijgen tot uw eCommerce-beheerpaneel:
 
-1. Go to the login page at **accounts.eCommerce.com**
-2. Click on the **"Forgot Password?"** link
-3. Enter the email address associated with your account
-4. Check your email for password reset instructions
-5. Follow the link in the email to create a new password
-6. Use your new password to log in
+1. Ga naar de inlogpagina op **accounts.eCommerce.com**
+2. Klik op de **"Wachtwoord vergeten?"** link
+3. Voer het e-mailadres in dat gekoppeld is aan uw account
+4. Controleer uw e-mail voor instructies om uw wachtwoord te resetten
+5. Volg de link in de e-mail om een nieuw wachtwoord aan te maken
+6. Gebruik uw nieuwe wachtwoord om in te loggen
 
 :::caution
-The password reset link is typically valid for 24 hours. If you don't use it within that timeframe, you'll need to request a new one.
+De wachtwoordresetlink is meestal 24 uur geldig. Als u deze niet binnen die tijd gebruikt, moet u een nieuwe aanvragen.
 :::
 
-## Account Security Best Practices
+## Beste praktijken voor accountbeveiliging
 
-Beyond password management, follow these additional security practices to protect your eCommerce store:
+Naast wachtwoordbeheer, volg deze aanvullende beveiligingspraktijken om uw eCommerce-winkel te beschermen:
 
-### Monitor Account Activity
+### Monitor accountactiviteit
 
-- Regularly review login activity to your store admin
-- Be alert to any logins from unfamiliar locations or devices
-- Investigate any suspicious activity immediately
+- Bekijk regelmatig inlogactiviteit voor uw winkelbeheerder
+- Wees alert op inloggen vanaf onbekende locaties of apparaten
+- Onderzoek verdachte activiteit onmiddellijk
 
-### Secure Your Email Account
+### Beveilig uw e-mailaccount
 
-- The email associated with your eCommerce account should also be secured with a strong password
-- Consider using two-factor authentication for your email account as well
-- Regularly monitor your email for any suspicious messages
+- Het e-mailadres gekoppeld aan uw eCommerce-account moet ook beveiligd zijn met een sterk wachtwoord
+- Overweeg ook twee-factor authenticatie te gebruiken voor uw e-mailaccount
+- Monitor uw e-mail regelmatig op verdachte berichten
 
-### Staff Access Management
+### Personeelstoegang beheer
 
-- Only grant admin access to trusted individuals who require it
-- Use appropriate [permission levels](../staff-permissions) for staff accounts
-- Promptly remove access for former team members
+- Geef alleen beheerdertoegang aan vertrouwde personen die dit nodig hebben
+- Gebruik juiste [toestemmingsniveaus](../staff-permissions) voor personeelsaccounts
+- Verwijder onmiddellijk toegang voor voormalige teamleden
 
-### Security Awareness
+### Beveiligingsbewustzijn
 
-- Be wary of phishing attempts requesting your login credentials
-- Never share your password over email, text, or phone
-- Official eCommerce representatives will never ask for your password
+- Wees voorzichtig met phishing-pogingen die uw inloggegevens vragen
+- Deel nooit uw wachtwoord via e-mail, sms of telefoon
+- Officiële eCommerce-vertegenwoordigers zullen nooit om uw wachtwoord vragen
 
-By following these guidelines and best practices, you can help ensure the security of your eCommerce store and protect your business and customer data.
+Door deze richtlijnen en beste praktijken te volgen, kunt u helpen de beveiliging van uw eCommerce-winkel te waarborgen en uw bedrijf en klantgegevens te beschermen.
