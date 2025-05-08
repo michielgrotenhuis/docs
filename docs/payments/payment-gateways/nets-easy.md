@@ -21,7 +21,7 @@ Setting up Nets Easy payments for your eCommerce store is an easy and straightfo
 
 In your Nets Easy administration, go to Company → Integrations from the left menu. Here, on the Integrations Keys page, you'll see the Secret Key under the Live Environment.
 
-![Nets Easy secret Key](./img/nets-easy-company-integration.png)
+![Nets Easy secret Key](./img/nets-easy/nets-easy-company-integration.png)
 
 ### Finding Your Merchant ID (Public Key)
 
@@ -29,7 +29,7 @@ The identifier for your merchant account, which is also referred to as your Merc
 
 In your Nets Easy administration dashboard, the Merchants ID is visibly located at the top of the page. The Merchant number solely consists of numerical digits.
 
-![Nets Easy Merchant ID](./img/nets-easy-company-name.png)
+![Nets Easy Merchant ID](./img/nets-easy/nets-easy-company-name.png)
 
 ## Nets Easy Supported Currencies
 
