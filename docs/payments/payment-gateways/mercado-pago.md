@@ -82,11 +82,11 @@ Mercado Pago offers a variety of payment options for customers in Latin America:
 
 Mercado Pago maintains strong security standards:
 
-- PCI DSS Level 1 compliance
-- Fraud detection and prevention
-- Chargeback protection
-- 3D Secure authentication
-- Tokenization of sensitive payment information
+- PCI DSS Level 1 compliance.
+- Fraud detection and prevention.
+- Chargeback protection.
+- 3D Secure authentication.
+- Tokenization of sensitive payment information.
 
 ## Best Practices for Using Mercado Pago
 
