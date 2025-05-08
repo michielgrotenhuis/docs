@@ -2,78 +2,78 @@
 sidebar_position: 1
 ---
 
-# Deleting Your eCommerce Store
+# Uw eCommerce-winkel verwijderen
 
-You can deactivate or pause your store at any time.
+U kunt uw winkel op elk moment deactiveren of pauzeren.
 
-To delete your eCommerce store:
+Om uw eCommerce-winkel te verwijderen:
 
-1. If you're in a paid plan, you should downgrade to the Free plan
-2. Then, you need to enable the maintenance mode from the Settings
+1. Als u een betaald plan heeft, moet u downgraden naar het gratis plan
+2. Vervolgens moet u de onderhoudsmodus inschakelen via de instellingen
 
-To delete an account and its data completely is done by request.
+Het volledig verwijderen van een account en zijn gegevens gebeurt op verzoek.
 
-Learn how to [enable maintenance mode on your eCommerce store](../store-management/maintenance-mode).
+Leer hoe u [onderhoudsmodus inschakelt voor uw eCommerce-winkel](../store-management/maintenance-mode).
 
-## Pausing Your eCommerce Store
+## Uw eCommerce-winkel pauzeren
 
-To pause your eCommerce store, just enable the **maintenance mode** from the Settings.
+Om uw eCommerce-winkel te pauzeren, schakel gewoon de **onderhoudsmodus** in via de instellingen.
 
-## Understanding Your Options
+## Uw opties begrijpen
 
-When considering whether to delete, pause, or modify your eCommerce store, it's important to understand the different options available to you and their implications.
+Bij het overwegen of u uw eCommerce-winkel wilt verwijderen, pauzeren of wijzigen, is het belangrijk om de verschillende beschikbare opties en hun gevolgen te begrijpen.
 
-### Pausing vs. Deleting
+### Pauzeren vs. verwijderen
 
-**Pausing Your Store (Using Maintenance Mode)**
-- Your store remains intact but is temporarily unavailable to customers
-- You retain all your store data, including products, orders, and customer information
-- You can continue to access your admin panel to make updates
-- You can reactivate your store at any time
-- You continue to be billed according to your current plan
+**Uw winkel pauzeren (onderhoudsmodus gebruiken)**
+- Uw winkel blijft intact maar is tijdelijk niet beschikbaar voor klanten
+- U behoudt al uw winkelgegevens, inclusief producten, bestellingen en klantinformatie
+- U kunt blijven toegang krijgen tot uw beheerpaneel om updates te maken
+- U kunt uw winkel op elk moment weer activeren
+- U blijft gefactureerd worden volgens uw huidige plan
 
-**Deleting Your Store**
-- Your store is permanently removed (after a special request)
-- All store data may be deleted and cannot be recovered
-- You lose access to your admin panel
-- If you want to sell online again, you'll need to create a new store
-- No further billing occurs after deletion
+**Uw winkel verwijderen**
+- Uw winkel wordt permanent verwijderd (na een speciaal verzoek)
+- Alle winkelgegevens kunnen worden verwijderd en kunnen niet worden hersteld
+- U verliest toegang tot uw beheerpaneel
+- Als u opnieuw online wilt verkopen, moet u een nieuwe winkel maken
+- Er wordt niet meer gefactureerd na verwijdering
 
-### When to Pause Your Store
+### Wanneer u uw winkel moet pauzeren
 
-Pausing your store by enabling maintenance mode is ideal in these situations:
+Het pauzeren van uw winkel door onderhoudsmodus in te schakelen is ideaal in deze situaties:
 
-- **Temporary Closure**: If you need to temporarily close your store for holidays, inventory updates, or personal reasons
-- **Major Redesign**: When undertaking a significant redesign or restructuring of your store
-- **Seasonal Business**: If you operate a seasonal business and want to close during off-seasons
-- **Inventory Issues**: When dealing with major inventory shortages or transitions
-- **Technical Issues**: If you're experiencing technical problems that affect the customer experience
+- **Tijdelijke sluiting**: Als u uw winkel tijdelijk moet sluiten voor vakanties, inventarisupdates of persoonlijke redenen
+- **Groot herontwerp**: Bij het uitvoeren van een belangrijke herontwerp of herstructurering van uw winkel
+- **Seizoensgebonden bedrijf**: Als u een seizoensgebonden bedrijf heeft en wilt sluiten tijdens het seizoen buiten de verkoop
+- **Inventarisproblemen**: Bij het omgaan met grote voorraadtekorten of overgangen
+- **Technische problemen**: Als u technische problemen ervaart die de klantervaring beïnvloeden
 
-### When to Delete Your Store
+### Wanneer u uw winkel moet verwijderen
 
-Requesting complete deletion might be appropriate when:
+Het aanvragen van volledige verwijdering kan passend zijn wanneer:
 
-- **Permanently Closing**: If you're permanently closing your business
-- **Rebranding Completely**: When completely rebranding with a new business name and structure
-- **Platform Switch**: If you've migrated to another platform and confirmed the successful transfer of all necessary data
-- **Compliance Requirements**: When needing to comply with specific data deletion requirements
+- **Permanent sluiten**: Als u uw bedrijf permanent sluit
+- **Volledig rebranding**: Bij een complete rebranding met een nieuwe bedrijfsnaam en structuur
+- **Platform wissel**: Als u bent gemigreerd naar een ander platform en de succesvolle overdracht van alle benodigde gegevens heeft bevestigd
+- **Compliance-vereisten**: Wanneer u moet voldoen aan specifieke vereisten voor gegevensverwijdering
 
-## Best Practices Before Pausing or Deleting
+## Beste praktijken voor pauzeren of verwijderen
 
-### Before Pausing
+### Voor het pauzeren
 
-1. **Communicate with Customers**: Inform your customers about the temporary closure and when you expect to reopen
-2. **Set Expectations**: Configure your maintenance page to explain why the store is temporarily unavailable
-3. **Provide Alternative Contact**: Ensure customers have a way to contact you during the pause
-4. **Complete Outstanding Orders**: Process and fulfill any pending orders before pausing
-5. **Review Subscription**: Consider whether to downgrade your subscription during the pause
+1. **Communiceer met klanten**: Informeer uw klanten over de tijdelijke sluiting en wanneer u verwacht te heropenen
+2. **Verwachtingen stellen**: Configureer uw onderhoudspagina om uit te leggen waarom de winkel tijdelijk niet beschikbaar is
+3. **Alternatief contact bieden**: Zorg ervoor dat klanten een manier hebben om contact met u op te nemen tijdens de pauze
+4. **Openstaande bestellingen afhandelen**: Verwerk en vervul eventuele bestellingen in behandeling voor het pauzeren
+5. **Abonnement beoordelen**: Overweeg of u uw abonnement wilt downgraden tijdens de pauze
 
-### Before Deleting
+### Voor het verwijderen
 
-1. **Export Data**: Export any data you might need in the future (order history, customer list, product information)
-2. **Settle Financial Matters**: Ensure all financial matters are resolved (processing refunds, paying invoices)
-3. **Inform Stakeholders**: Notify customers, suppliers, and partners about the closure
-4. **Downgrade to Free Plan**: Switch to the Free plan before requesting deletion
-5. **Cancel Third-Party Services**: Cancel any integrated third-party services connected to your store
+1. **Exporteer gegevens**: Exporteer alle gegevens die u mogelijk in de toekomst nodig heeft (bestelgeschiedenis, klantenlijst, productinformatie)
+2. **Regel financiële zaken**: Zorg ervoor dat alle financiële zaken zijn geregeld (verwerking van terugbetalingen, betaling van facturen)
+3. **Informeer belanghebbenden**: Vertel klanten, leveranciers en partners over de sluiting
+4. **Downgrade naar gratis plan**: Schakel over naar het gratis plan voor het aanvragen van verwijdering
+5. **Annuleer diensten van derden**: Annuleer alle geïntegreerde diensten van derden die met uw winkel zijn verbonden
 
-By understanding these options and following best practices, you can make an informed decision about whether to pause or delete your eCommerce store.
+Door deze opties te begrijpen en beste praktijken te volgen, kunt u een weloverwogen beslissing nemen over het pauzeren of verwijderen van uw eCommerce-winkel.
