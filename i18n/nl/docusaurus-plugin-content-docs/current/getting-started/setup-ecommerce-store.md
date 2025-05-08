@@ -2,32 +2,31 @@
 sidebar_position: 1
 ---
 
-# How to Set Up eCommerce Store
+# Hoe een eCommerce-winkel opzetten
 
-Setting up your eCommerce store is easy and takes just a couple of steps:
+Het opzetten van uw eCommerce-winkel is eenvoudig en vergt slechts een paar stappen:
 
-1. Start creating your store by **setting up your account**
-2. Set up your **store name, language, currency, and domain**
-3. Add your **store location** and **phone number**
-4. Hit the "**Create my store**" button
-5. Sip coffee :)
+1. Begin met het maken van uw winkel door **uw account in te stellen**
+2. Stel uw **winkelnaam, taal, valuta en domeinnaam** in
+3. Voeg uw **winkellocatie** en **telefoonnummer** toe
+4. Klik op de "**Maak mijn winkel**" knop
+5. Pak een koffie :)
 
-Building your store can take a couple of minutes, don't exit or restart the page.
+Het bouwen van uw winkel kan een paar minuten duren, sluit of herstart de pagina niet.
 
-Congratulations! 💥🥳
+Gefeliciteerd! 💥🥳
 
-If you want to set your online store as a primary sales channel for your domain, make sure **Online store** option is set on the ***Settings → Homepage display*** settings.
+Als u uw online winkel wilt instellen als het primaire verkoopkanaal voor uw domein, zorg er dan voor dat de **Online winkel** optie is ingesteld in de ***Instellingen → Startpagina weergave*** instellingen.
 
-You can sign in to your dashboard with **accounts.eCommerce.com**
+U kunt inloggen op uw dashboard via **accounts.eCommerce.com**
 
-## Resources to get your store in front of your customer:
+## Bronnen om uw winkel voor uw klant zichtbaar te maken:
 
-- **Add your first product**
-- **Create product collection**
-- **Manage product inventory**
-- **Create a shipping rule**
-- **Create tax class and rate**
-- **Set up payment option**
-- **Connect custom domain to your store**
-- **Create legal and policy pages**
-- **Add social profiles and contact to footer**
+- **Voeg uw eerste product toe**
+- **Maak een productcollectie**
+- **Beheer productvoorraad**
+- **Maak een verzendingsregel**
+- **Maak belastingklasse en tarief**
+- **Stel betalingsoptie in**
+- **Koppel aangepast domein aan uw winkel**
+- **
