@@ -40,11 +40,11 @@ If you already have a Google Tag Manager account and a container for your eComme
 2. Click on the **Connect** button for Google Tag Manager
 3. Click on the **Add** button for Google Tag Manager
 4. On this page, paste your **Container ID**. You can find the Container ID from your [GTM account](https://tagmanager.google.com/), identified as *GTM-XXXXXX* on the upper side of the page
+![GTM ID](./img/gtm-add-a-new-account.png)
+
 5. Click **Submit**
 
 Done! You've connected your GTM container to your eCommerce store.
-![GTM ID](./img/gtm-add-a-new-account.png)
-
 
 With Google Tag Manager, you gain the ability to easily create and manage tags within your account. Any tags you create in GTM will seamlessly be added to your online store, without requiring any actions on the eCommerce admin panel.
 
@@ -53,6 +53,7 @@ With Google Tag Manager, you gain the ability to easily create and manage tags w
 1. Log in to your [Google Account](https://accounts.google.com/) or register for a new Google/Gmail account
 2. Go to [https://tagmanager.google.com/](https://tagmanager.google.com/)
 3. Click the **Create Account** button
+![GTM ID](./img/gtm-create-account.png)
 4. Provide your **Account Name** and **choose your country**
 5. Add the **Container name** to create a new container for your store
 6. Select **Web** as the target platform
