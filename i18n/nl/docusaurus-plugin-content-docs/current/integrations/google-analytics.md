@@ -2,95 +2,95 @@
 sidebar_position: 3
 ---
 
-# Google Analytics Integration
+# Google Analytics-integratie
 
-Google Analytics is a powerful platform that enables you to gather valuable data from your online store, allowing you to generate detailed reports and gain essential insights into your business operations.
+Google Analytics is een krachtig platform waarmee u waardevolle gegevens van uw online winkel kunt verzamelen, zodat u gedetailleerde rapporten kunt genereren en essentiële inzichten kunt krijgen over uw bedrijfsactiviteiten.
 
-By connecting Google Analytics to your eCommerce store, you gain access to a wealth of information about how your customers discover and engage with your online store. This knowledge empowers you to optimize your business strategies and enhance the overall performance of your eCommerce activities.
+Door Google Analytics aan uw eCommerce-winkel te koppelen, krijgt u toegang tot een schat aan informatie over hoe uw klanten uw online winkel ontdekken en ermee omgaan. Deze kennis stelt u in staat om uw bedrijfsstrategieën te optimaliseren en de algehele prestatie van uw eCommerce-activiteiten te verbeteren.
 
-## Connect Google Analytics to Your eCommerce Store
+## Google Analytics verbinden met uw eCommerce-winkel
 
-To connect Google Analytics to your eCommerce store, you need your GA tracking ID ready. If you haven't created a Google Analytics account, follow the steps in the [Create an Analytics Account](#create-an-analytics-account) section below.
+Om Google Analytics aan uw eCommerce-winkel te koppelen, heeft u uw GA tracking-ID nodig. Als u nog geen Google Analytics-account heeft gemaakt, volg dan de stappen in de sectie [Maak een Analytics-account aan](#maak-een-analytics-account-aan) hieronder.
 
-1. **Log in** to your eCommerce admin panel
-2. Navigate to ***Settings → Integrations***
-3. Click on the **Add** button for Google Analytics
-4. On this page, paste the **Measurement ID** (starts with G) or the **"GT-" ID** (available for properties created after July, 2022)
-5. Hit the **Save** button
+1. **Log in** op uw eCommerce-beheerpaneel
+2. Ga naar ***Instellingen → Integraties***
+3. Klik op de **Toevoegen** knop voor Google Analytics
+4. Plak op deze pagina de **Measurement ID** (begint met G) of de **"GT-" ID** (beschikbaar voor properties die na juli 2022 zijn gemaakt)
+5. Klik op de **Opslaan** knop
 
-Done! You've successfully connected Google Analytics with your eCommerce store.
+Klaar! U heeft Google Analytics succesvol verbonden met uw eCommerce-winkel.
 
-## Set up Google Analytics 4 for Your Online Store (GA4 Property)
+## Google Analytics 4 instellen voor uw online winkel (GA4 Property)
 
-Starting July 1, 2023, Universal Analytics stopped collecting data. It's recommended that you create a Google Analytics 4 property instead. If you have a Universal Analytics (UA) property, you should migrate to GA4.
+Vanaf 1 juli 2023 is Universal Analytics gestopt met het verzamelen van gegevens. Het wordt aanbevolen om in plaats daarvan een Google Analytics 4 property aan te maken. Als u een Universal Analytics (UA) property heeft, moet u migreren naar GA4.
 
-1. On the *Account* column from the left side in Admin, select the account. Then, in the *Property* column, click **Create Property**
-2. Enter a name for the property (e.g., "My Store") and select the reporting time zone and currency
-3. Click **Next**. Select your industry category and business size
-4. Click **Next**. Select how you intend to use Google Analytics
-5. Click **Create** and (if you are setting up a new account) accept the Analytics Terms of Service and the Data Processing Amendment
-6. Continue to **Add a data stream** to start collecting data
-7. In the *Admin* → *Property* column, click **Data Streams** > **Add stream**
-8. Click **iOS app**, **Android app**, or **Web**. For your online store, select **Web**
+1. Selecteer in de linker kolomkolom *Account* in Beheerder het account. Klik vervolgens in de kolom *Property* op **Property maken**
+2. Voer een naam in voor de property (bijv. "Mijn Winkel") en selecteer de rapportagetijdzone en valuta
+3. Klik op **Volgende**. Selecteer uw bedrijfscategorie en bedrijfsgrootte
+4. Klik op **Volgende**. Selecteer hoe u Google Analytics wilt gebruiken
+5. Klik op **Maken** en (als u een nieuw account instelt) accepteer de Analytics Servicevoorwaarden en de Gegevensverwerkingsamendement
+6. Ga verder naar **Gegevensstroom toevoegen** om gegevens te verzamelen
+7. Klik in *Beheerder* → *Property* kolom op **Gegevensstromen** > **Stroom toevoegen**
+8. Klik op **iOS app**, **Android app** of **Web**. Voor uw online winkel selecteert u **Web**
 
-Your Google Analytics 4 property will be named **"Property - GA4 (98765432)"**.
+Uw Google Analytics 4 property krijgt de naam **"Property - GA4 (98765432)"**.
 
 :::note
-The first results in Google Analytics reports will appear in about 24 hours.
+De eerste resultaten in Google Analytics-rapporten verschijnen over ongeveer 24 uur.
 :::
 
-If you were using Universal Analytics in your store, make sure you've migrated to Google Analytics 4 and are using the GA-4 ID in the ***Settings → Integrations → Google Analytics***.
+Als u Universal Analytics gebruikte in uw winkel, zorg er dan voor dat u bent gemigreerd naar Google Analytics 4 en de GA-4 ID gebruikt in ***Instellingen → Integraties → Google Analytics***.
 
-## How to Find Your Google Tag ID
+## Hoe u uw Google Tag ID vindt
 
-To find your Google Tag ID, follow these steps:
+Om uw Google Tag ID te vinden, volgt u deze stappen:
 
-1. Sign in to your Google Analytics account
-2. Click **Admin** on the left menu
-3. At the top of the *Property* column, select your property
-4. In the *Property* column, click **Data streams** and click the data stream
-5. In the *Google tag* section at the bottom of the *Web stream details* page, click **Configure tag settings**
-6. In the *Your Google tag* section on the *Google tag* page, you will see the ID that starts with "G-" or "AW-"
+1. Log in op uw Google Analytics-account
+2. Klik op **Beheerder** in het linkermenu
+3. Selecteer bovenaan de kolom *Property* uw property
+4. Klik in de kolom *Property* op **Gegevensstromen** en klik op de gegevensstroom
+5. In de sectie *Google tag* onderaan de pagina *Webstream details*, klik op **Tag-instellingen configureren**
+6. In de sectie *Uw Google tag* op de pagina *Google tag*, ziet u de ID die begint met "G-" of "AW-"
 
-Copy it to use in the Integration settings on eCommerce admin to connect your GA with your online store.
+Kopieer deze om te gebruiken in de integratie-instellingen op eCommerce-beheerder om uw GA te verbinden met uw online winkel.
 
-## Create an Analytics Account
+## Maak een Analytics-account aan
 
-If you don't have an Analytics account yet:
+Als u nog geen Analytics-account heeft:
 
-1. Visit the Google Analytics website (analytics.google.com) and sign in with your Google account. If you don't have a Google account, create one by clicking on the "Create account" button
-2. Once signed in, you'll be taken to the Analytics homepage
-3. Click on the **"Admin"** option in the bottom left corner of the Analytics homepage
-4. In the "Account" column, click on the **"Create Account"** option
-5. Enter a name for your account. Choose a descriptive name that will help you identify the website or business associated with this account
-6. Adjust the data-sharing settings according to your preferences
-7. Once you've configured the data-sharing settings, click **"Next"** to proceed
+1. Bezoek de Google Analytics-website (analytics.google.com) en log in met uw Google-account. Als u geen Google-account heeft, maak er een aan door op de knop "Account aanmaken" te klikken
+2. Zodra u bent ingelogd, wordt u naar de Analytics-startpagina gebracht
+3. Klik op de **"Beheerder"** optie linksonder op de Analytics-startpagina
+4. Klik in de kolom "Account" op de **"Account aanmaken"** optie
+5. Voer een naam in voor uw account. Kies een beschrijvende naam die u helpt de website of het bedrijf te identificeren dat wordt geassocieerd met dit account
+6. Pas de instellingen voor gegevensdeling aan volgens uw voorkeuren
+7. Zodra u de instellingen voor gegevensdeling heeft geconfigureerd, klik op **"Volgende"** om door te gaan
 
-## Key Metrics to Track with Google Analytics
+## Belangrijkste metrics om te volgen met Google Analytics
 
-Once you've set up Google Analytics for your eCommerce store, you can track various metrics to gain insights into your store's performance:
+Zodra u Google Analytics voor uw eCommerce-winkel heeft ingesteld, kunt u verschillende metrics volgen om inzichten te krijgen over de prestaties van uw winkel:
 
-### Traffic Metrics
-- **Sessions**: The total number of visits to your store
-- **Users**: The number of unique visitors
-- **Pageviews**: The total number of pages viewed
-- **Bounce Rate**: The percentage of visitors who leave your site after viewing only one page
-- **Average Session Duration**: How long visitors stay on your site
+### Verkeermetrics
+- **Sessies**: Het totale aantal bezoeken aan uw winkel
+- **Gebruikers**: Het aantal unieke bezoekers
+- **Paginaweergaven**: Het totale aantal bekeken pagina's
+- **Bouncepercentage**: Het percentage bezoekers dat uw site verlaat na slechts één pagina te bekijken
+- **Gemiddelde sessieduur**: Hoe lang bezoekers op uw site blijven
 
-### Acquisition Metrics
-- **Traffic Sources**: Where your visitors come from (organic search, direct, referral, social, paid)
-- **Campaign Performance**: How well your marketing campaigns are driving traffic and conversions
+### Acquisitie-metrics
+- **Verkeersbronnen**: Van waar uw bezoekers komen (organisch zoeken, direct, doorverwijzing, sociaal, betaald)
+- **Campagneprestaties**: Hoe goed uw marketingcampagnes verkeer en conversies genereren
 
-### Behavior Metrics
-- **Most Visited Pages**: Which pages on your store receive the most traffic
-- **Landing Pages**: The first pages visitors see when they come to your store
-- **Exit Pages**: The last pages visitors view before leaving your store
+### Gedragsmetrics
+- **Meest bezochte pagina's**: Welke pagina's in uw winkel het meeste verkeer ontvangen
+- **Landingspagina's**: De eerste pagina's die bezoekers zien wanneer ze naar uw winkel komen
+- **Uitstappagina's**: De laatste pagina's die bezoekers bekijken voordat ze uw winkel verlaten
 
-### Conversion Metrics
-- **Conversion Rate**: The percentage of visitors who complete a desired action
-- **Transactions**: The number of completed purchases
-- **Revenue**: The total amount of money generated
-- **Average Order Value**: The average amount spent per transaction
-- **Products Sold**: Which products are selling the most
+### Conversiemetrics
+- **Conversiepercentage**: Het percentage bezoekers dat een gewenste actie voltooit
+- **Transacties**: Het aantal voltooide aankopen
+- **Inkomsten**: Het totale bedrag aan gegenereerd geld
+- **Gemiddelde bestelwaarde**: Het gemiddelde bedrag dat per transactie wordt uitgegeven
+- **Verkochte producten**: Welke producten het meest verkopen
 
-By regularly monitoring these metrics, you can make data-driven decisions to improve your eCommerce store's performance and increase sales.
+Door deze metrics regelmatig te monitoren, kunt u datagedreven beslissingen nemen om de prestaties van uw eCommerce-winkel te verbeteren en de verkoop te verhogen.
