@@ -5,37 +5,37 @@ import styles from './styles.module.css';
 
 const SectionList = [
   {
-    title: 'Documentation',
+    title: '<translate>Documentation</translate>',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Find comprehensive guides and documentation to help you get started with our eCommerce platform.
+        <translate>Find comprehensive guides and documentation to help you get started with our eCommerce platform.</translate>
       </>
     ),
     link: '/docs/',
-    linkText: 'Read Documentation',
+    linkText: '<translate>Read Documentation</translate>',
   },
   {
-    title: 'Blog',
+    title: '<translate>Blog</translate>',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Stay updated with the latest news, tips, and best practices for using our eCommerce platform.
+        <translate>Stay updated with the latest news, tips, and best practices for using our eCommerce platform.</translate>
       </>
     ),
     link: '/blog/',
-    linkText: 'Visit Our Blog',
+    linkText: '<translate>Visit Our Blog</translate>',
   },
   {
-    title: 'Changelog',
+    title: '<translate>Changelog</translate>',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Keep track of all updates, changes, and improvements made to our eCommerce platform.
+        <translate>Keep track of all updates, changes, and improvements made to our eCommerce platform.</translate>
       </>
     ),
     link: '/changelog/',
-    linkText: 'View Changelog',
+    linkText: '<translate>View Changelog</translate>',
   },
 ];
 
