@@ -2,58 +2,58 @@
 sidebar_position: 1
 ---
 
-# Taxes
+# Belastingen
 
-This section covers everything you need to know about setting up and managing taxes for your eCommerce store. Understanding and correctly implementing tax settings is crucial for staying compliant with regulations and providing a transparent shopping experience for your customers.
+Deze sectie behandelt alles wat u moet weten over het instellen en beheren van belastingen voor uw eCommerce-winkel. Het begrijpen en correct implementeren van belastinginstellingen is cruciaal voor het naleven van regelgeving en het bieden van een transparante winkelervaring aan uw klanten.
 
-## What's in this section
+## Wat vindt u in deze sectie
 
-- [Tax Rates](creating-tax-rates) - Learn how to create and manage tax rates for different countries and regions
+- [Belastingtarieven](creating-tax-rates) - Leer hoe u belastingtarieven aanmaakt en beheert voor verschillende landen en regio's
 
-## Understanding eCommerce Tax Management
+## eCommerce belastingbeheer begrijpen
 
-Proper tax management is essential for legal compliance and transparent pricing. Here's a guide to approaching taxes in your eCommerce store:
+Goed belastingbeheer is essentieel voor juridische naleving en transparante prijsstelling. Hier is een gids voor het benaderen van belastingen in uw eCommerce-winkel:
 
-### 1. Tax Configuration Basics
+### 1. Basisbeginselen van belastingconfiguratie
 
-Before setting up taxes, understand these key concepts:
-- Tax rates - The percentage of tax applied to transactions
-- Tax-inclusive vs. tax-exclusive pricing - Whether product prices include or exclude tax
-- Tax jurisdiction - Determining which tax rates apply based on customer location
+Voordat u belastingen instelt, begrijp deze kernconcepten:
+- Belastingtarieven - Het percentage belasting dat wordt toegepast op transacties
+- Belasting-inclusieve vs. belasting-exclusieve prijzen - Of productprijzen belasting includeren of exclueren
+- Belastingjurisdictie - Bepalen welke belastingtarieven van toepassing zijn op basis van klantlocatie
 
-### 2. Creating Tax Rates
+### 2. Belastingtarieven aanmaken
 
-Set up tax rates for the regions where you sell:
-- Define tax rates for each country you serve
-- Configure region-specific rates where needed (states, provinces, etc.)
-- Determine what items are taxable (products only or products and shipping)
+Stel belastingtarieven in voor de regio's waar u verkoopt:
+- Definieer belastingtarieven voor elk land dat u bedient
+- Configureer regio-specifieke tarieven waar nodig (staten, provincies, etc.)
+- Bepaal welke items belastbaar zijn (alleen producten of producten en verzending)
 
-Learn more about [creating tax rates](creating-tax-rates).
+Leer meer over [belastingtarieven aanmaken](creating-tax-rates).
 
-### 3. Tax Display Options
+### 3. Opties voor belastingweergave
 
-Configure how taxes are displayed to customers:
-- Decide whether to include taxes in product prices
-- Set up price rounding for tax-inclusive pricing
-- Provide clear tax information during checkout
+Configureer hoe belastingen worden weergegeven aan klanten:
+- Beslis of u belastingen wilt includeren in productprijzen
+- Stel prijsafronding in voor belasting-inclusieve prijzen
+- Geef duidelijke belastinginformatie tijdens het afrekenen
 
-### 4. Tax Compliance Considerations
+### 4. Overwegingen voor belastingnaleving
 
-Understand your tax obligations:
-- Research tax requirements for each market where you sell
-- Determine registration requirements for different jurisdictions
-- Consider using tax compliance services for complex multi-region sales
+Begrijp uw belastingverplichtingen:
+- Onderzoek belastingvereisten voor elke markt waar u verkoopt
+- Bepaal registratievereisten voor verschillende jurisdicties
+- Overweeg het gebruik van belastingnalevingsdiensten voor complexe multi-regio verkopen
 
 :::note
-eCommerce is not responsible for filing or submitting your sales taxes on your behalf. It's recommended to consult with a tax professional to ensure compliance with all applicable tax laws and regulations.
+eCommerce is niet verantwoordelijk voor het indienen of verzenden van uw omzetbelasting namens u. Het is aanbevolen om een belastingprofessional te raadplegen om naleving van alle toepasselijke belastingwetten en regelgeving te waarborgen.
 :::
 
-## Best Practices for Tax Management
+## Beste praktijken voor belastingbeheer
 
-- **Stay informed**: Keep up with changes to tax legislation in your markets
-- **Be transparent**: Clearly display tax information to customers during the shopping experience
-- **Maintain records**: Keep detailed records of taxes collected for reporting purposes
-- **Regular review**: Periodically review your tax settings to ensure continued compliance
-- **Seek professional advice**: Consult with a tax professional for guidance specific to your business
+- **Blijf geïnformeerd**: Houd wijzigingen in belastingwetgeving bij voor uw markten
+- **Wees transparant**: Geef duidelijk belastinginformatie weer aan klanten tijdens de winkelervaring
+- **Houd registers bij**: Bewaar gedetailleerde gegevens van geïnde belastingen voor rapportagedoeleinden
+- **Regelmatige evaluatie**: Bekijk periodiek uw belastinginstellingen om voortdurende naleving te waarborgen
+- **Zoek professioneel advies**: Raadpleeg een belastingprofessional voor advies specifiek voor uw bedrijf
 
-By following these practices and properly configuring your tax settings, you'll ensure compliance with tax regulations and provide a transparent shopping experience for your customers.
+Door deze praktijken te volgen en uw belastinginstellingen correct te configureren, zult u naleving van belastingregels waarborgen en een transparante winkelervaring bieden voor uw klanten.
