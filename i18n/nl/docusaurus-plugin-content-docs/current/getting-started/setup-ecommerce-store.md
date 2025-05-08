@@ -29,4 +29,5 @@ U kunt inloggen op uw dashboard via **accounts.eCommerce.com**
 - **Maak belastingklasse en tarief**
 - **Stel betalingsoptie in**
 - **Koppel aangepast domein aan uw winkel**
-- **
+- **Maak juridische en beleidspagina's**
+- **Voeg sociale profielen en contact toe aan voettekst**
