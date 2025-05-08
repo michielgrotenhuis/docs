@@ -30,13 +30,15 @@ eCommerce allows you to restrict who can access to your storefront - online stor
 
 ## How to Put Your Online Store into Maintenance Mode and Restrict Access?
 
-1. [Log in](https://accounts.uvodo.com/) to your eCommerce admin panel
+1. Log in to your eCommerce admin panel
 
 2. Navigate to the ***Settings* → *General* → *Maintenance mode***
 
 3. Here, tick the **"Close Storefront for maintenance"** box to enable the maintenance mode.
+![An image from the static](./img/maintenance-mode-close-your-store-for-maintenence.png)
 
 4. Next, **generate a password** to give access to your storefront.
+![add password](./img/maintenance-mode.png)
 
 Done! You have successfully enabled maintenance mode and created a password to control access to your online store. To provide access to specific users, simply share the generated password with them. They can then use this password to visit your storefront while it is in maintenance mode.
 
