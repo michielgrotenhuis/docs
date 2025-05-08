@@ -16,7 +16,7 @@ Here, you can update your store name, contact email and store description.
 
 Store description is displayed at the footer area of your eCommerce store.
 
-![change store name and description](https://example.com/path/to/image.png)
+![change store name and description](./img/store-name-email.png)
 
 ## Store Address
 
