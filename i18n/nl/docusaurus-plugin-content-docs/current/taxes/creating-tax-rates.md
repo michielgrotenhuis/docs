@@ -2,114 +2,114 @@
 sidebar_position: 1
 ---
 
-# Introduction to Tax Rates
+# Introductie tot belastingtarieven
 
-A tax rate refers to the percentage of a customer's purchase that must be paid to the government as a form of taxation. Tax rates are assigned to a product or groups of products and orders for calculations.
+Een belastingtarief verwijst naar het percentage van een klantaankoop dat aan de overheid moet worden betaald als vorm van belasting. Belastingtarieven worden toegewezen aan een product of groepen producten en bestellingen voor berekeningen.
 
-Many countries have varying tax systems that determine the sales tax charged based on the destination of an order. This means that the tax rate applied to a product depends on the specific region where it is delivered. At eCommerce, sellers can apply **location-based tax rates** - tax rates that are based on the buyer's location.
+Veel landen hebben verschillende belastingsystemen die de omzetbelasting bepalen op basis van de bestemming van een bestelling. Dit betekent dat het belastingtarief dat wordt toegepast op een product afhangt van de specifieke regio waar het wordt geleverd. Bij eCommerce kunnen verkopers **locatie-gebaseerde belastingtarieven** toepassen - belastingtarieven die gebaseerd zijn op de locatie van de koper.
 
-eCommerce makes it easy for sellers to create and manage tax rates for their eCommerce store. By setting up tax rates, you can ensure that your customers are charged the correct amount of tax for their orders, while also remaining in compliance with local and national tax regulations.
+eCommerce maakt het eenvoudig voor verkopers om belastingtarieven aan te maken en te beheren voor hun eCommerce-winkel. Door belastingtarieven in te stellen, kunt u ervoor zorgen dat uw klanten het juiste bedrag aan belasting wordt aangerekend voor hun bestellingen, terwijl u ook blijft naleven met lokale en nationale belastingregels.
 
 :::note
-eCommerce is not responsible for filing or submitting your sales taxes on your behalf.
+eCommerce is niet verantwoordelijk voor het indienen of verzenden van uw omzetbelasting namens u.
 :::
 
-## Include Taxes in Product Prices
+## Belastingen includeren in productprijzen
 
-It's essential for sellers to understand the specific tax regulations of each country they operate in to determine whether to include tax in the product price.
+Het is essentieel voor verkopers om de specifieke belastingregels van elk land waarin zij opereren te begrijpen om te bepalen of belasting in de productprijs moet worden opgenomen.
 
-The inclusion of tax in the product price varies from country to country. Some countries have adopted a system where the value-added tax (VAT) is included in the displayed price, while others do not.
+Het includeren van belasting in de productprijs varieert van land tot land. Sommige landen hebben een systeem aangenomen waarbij de omzetbelasting (BTW) is inbegrepen in de weergegeven prijs, terwijl anderen dit niet doen.
 
-Australia, Japan, and countries in the European Union (EU) generally require VAT-inclusive pricing, where the displayed price already includes the applicable VAT.
+Australië, Japan en landen in de Europese Unie (EU) vereisen over het algemeen BTW-inclusieve prijzen, waarbij de weergegeven prijs al de toepasselijke BTW bevat.
 
-However, in countries like the United States and Canada, taxes are typically added at the checkout (point of sale) and are not included in the listed price.
+In landen zoals de Verenigde Staten en Canada worden belastingen echter meestal toegevoegd bij het afrekenen (verkooppunt) en zijn deze niet inbegrepen in de vermelde prijs.
 
-eCommerce allows you to display product prices with the VAT included. To enable this feature, on the ***Settings* → *Taxes*** page, scroll down and tick the box for **"Include tax in prices"**.
+eCommerce stelt u in staat om productprijzen weer te geven met de BTW inbegrepen. Om deze functie in te schakelen, ga op de ***Instellingen* → *Belastingen*** pagina naar beneden en vink het vakje aan voor **"Belasting includeren in prijzen"**.
 
-![Include tax in prices checkbox](https://example.com/path/to/image.png)
+![Belasting includeren in prijzen checkbox](https://example.com/path/to/image.png)
 
-When you enable the **"Include tax in prices"** option, total sales amount displayed during the checkout tend to have inconsistent price endings. To adjust the total price of goods to a more standardized value, you can use **price rounding** feature.
+Wanneer u de **"Belasting includeren in prijzen"** optie inschakelt, hebben de totale verkoopbedragen die worden weergegeven tijdens het afrekenen de neiging om inconsistente prijseinden te hebben. Om de totale prijs van goederen aan te passen naar een meer gestandaardiseerde waarde, kunt u de **prijsafronding** functie gebruiken.
 
-Learn more about [how price rounding works and how to enable it](../products/price-rounding).
+Leer meer over [hoe prijsafronding werkt en hoe het in te schakelen](../products/price-rounding).
 
-## Example Cases for the Inclusion and Exclusion of Taxes
+## Voorbeeldcases voor het includeren en excluderen van belastingen
 
-The inclusion or exclusion of taxes in the product price depends on various factors, including regional or national tax regulations and the business practices of the eCommerce platform or seller.
+Het includeren of excluderen van belastingen in de productprijs hangt af van verschillende factoren, waaronder regionale of nationale belastingregels en de bedrijfspraktijken van het eCommerce-platform of de verkoper.
 
-In some countries, it is mandatory to include taxes in the displayed price, while in others, it may be optional. Additionally, certain types of products may be exempt from certain taxes or have different tax rates, which can influence whether taxes are included or excluded from the displayed price.
+In sommige landen is het verplicht om belastingen te includeren in de weergegeven prijs, terwijl het in andere optioneel kan zijn. Daarnaast kunnen bepaalde soorten producten vrijgesteld zijn van bepaalde belastingen of verschillende belastingtarieven hebben, wat kan beïnvloeden of belastingen worden geïncludeerd of geëxcludeerd van de weergegeven prijs.
 
-The purpose of including or excluding taxes in the product price is to provide transparency and clarity to customers regarding the actual cost they will pay for a product. Including taxes in the displayed price upfront simplifies the purchasing process for customers, as they know the exact amount they will be charged. Excluding taxes allows for flexibility in adjusting the displayed price based on different tax rates or exemptions, but it requires customers to calculate and be aware of the additional tax amount they need to pay.
+Het doel van het includeren of excluderen van belastingen in de productprijs is om transparantie en duidelijkheid te bieden aan klanten betreffende de werkelijke kosten die zij zullen betalen voor een product. Het vooraf includeren van belastingen in de weergegeven prijs vereenvoudigt het aankoopproces voor klanten, omdat zij het exacte bedrag weten dat zij zullen worden aangerekend. Het excluderen van belastingen biedt flexibiliteit bij het aanpassen van de weergegeven prijs op basis van verschillende belastingtarieven of vrijstellingen, maar vereist dat klanten het extra belastingbedrag dat zij moeten betalen berekenen en zich ervan bewust zijn.
 
-Let's take an example.
+Laten we een voorbeeld nemen.
 
-Here is the scenario. Let's say your business is based in Denmark that sells a product for €20. As a Danish store, you charge tax rate of 25% to customers in Denmark. However, customers from US are not subject to the EU taxes, and therefore, the tax rate for them is 0%.
+Hier is het scenario. Stel dat uw bedrijf gevestigd is in Denemarken en een product verkoopt voor €20. Als Deense winkel rekent u 25% belasting aan klanten in Denemarken. Klanten uit de VS zijn echter niet onderworpen aan EU-belastingen, en daarom is het belastingtarief voor hen 0%.
 
-Now, with this scenario laid out, let's look at the 3 main configurations, their differences, and how they impact the way tax is charged on our products.
+Nu we dit scenario hebben geschetst, laten we kijken naar de 3 hoofdconfiguraties, hun verschillen, en hoe zij de manier waarop belasting wordt aangerekend op onze producten beïnvloeden.
 
-### Case #1. Product Prices Exclude Tax
+### Geval #1. Productprijzen excluderen belasting
 
-Having tax excluded from product prices means that your eCommerce store will display them without tax.
+Belasting excluderen van productprijzen betekent dat uw eCommerce-winkel ze weergeeft zonder belasting.
 
-In this case, customers from Denmark will pay total €25 at the checkout: €20 for the product and 25% tax of €5. However, the customer from the US will pay only €20 for the product without an additional tax.
+In dit geval betalen klanten uit Denemarken totaal €25 bij het afrekenen: €20 voor het product en 25% belasting van €5. De klant uit de VS betaalt echter alleen €20 voor het product zonder extra belasting.
 
-This approach is in line with accounting legislation in many countries where VAT or GST is charged and allows you to choose which customers to charge tax to.
+Deze benadering is in lijn met boekhoudwetgeving in veel landen waar BTW of GST wordt aangerekend en stelt u in staat te kiezen aan welke klanten u belasting aanrekent.
 
-You can also use this feature to charge tax to some customers, but not to others, like VAT-exempt business customers in the European Union or customers with disabilities or indigenous backgrounds.
+U kunt deze functie ook gebruiken om belasting aan te rekenen aan sommige klanten, maar niet aan anderen, zoals BTW-vrijgestelde zakelijke klanten in de Europese Unie of klanten met een handicap of inheemse achtergrond.
 
-### Case #2. Product Prices Include Tax
+### Geval #2. Productprijzen includeren belasting
 
-Using the same example of a product priced at €20, with the Danish tax percentage of 25%, we will calculate the final prices for both Danish and US customers.
+Gebruikmakend van hetzelfde voorbeeld van een product geprijsd op €20, met het Deense belastingpercentage van 25%, zullen we de eindprijzen berekenen voor zowel Deense als Amerikaanse klanten.
 
-In this case both Danish and US customers will pay the same price of €20. The Danish customer pays €16 for the product and €4 for tax, while the US customer pays €20 for the product. Since the US is not subject to Danish taxes, the entire €20 goes towards the product price. There won't be any additional tax charged to the US customer but the customer ends up paying more for the same product than the Danish customer.
+In dit geval betalen zowel Deense als Amerikaanse klanten dezelfde prijs van €20. De Deense klant betaalt €16 voor het product en €4 voor belasting, terwijl de Amerikaanse klant €20 betaalt voor het product. Omdat de VS niet onderworpen is aan Deense belastingen, gaat de volledige €20 naar de productprijs. Er wordt geen extra belasting aangerekend aan de Amerikaanse klant, maar de klant betaalt uiteindelijk meer voor hetzelfde product dan de Deense klant.
 
-Having prices include tax offers certain advantages. It allows your eCommerce store to display the final price, which is particularly useful when selling primarily to consumers. It simplifies the shopping experience by providing transparency and clarity on the total cost customers need to pay.
+Het includeren van belasting in prijzen biedt bepaalde voordelen. Het stelt uw eCommerce-winkel in staat om de eindprijs weer te geven, wat bijzonder nuttig is wanneer u voornamelijk aan consumenten verkoopt. Het vereenvoudigt de winkelervaring door transparantie en duidelijkheid te bieden over de totale kosten die klanten moeten betalen.
 
-Additionally, in some countries, legislation may require you to display tax-inclusive pricing. This setup ensures compliance with such regulations and eliminates any confusion or surprises for your customers during the checkout process.
+Daarnaast kan wetgeving in sommige landen vereisen dat u BTW-inclusieve prijzen weergeeft. Deze setup zorgt voor naleving van dergelijke regelgeving en elimineert verwarring of verrassingen voor uw klanten tijdens het afrekenproces.
 
-However, it's important to note that this pricing option may not be ideal for online stores that need to VAT-exempt customers, particularly businesses. If your primary customer base consists of businesses or you need to offer VAT-exempt pricing, then this setup may not be the best option for your eCommerce store.
+Het is echter belangrijk op te merken dat deze prijsoptie mogelijk niet ideaal is voor online winkels die BTW-vrijgestelde klanten moeten bedienen, met name bedrijven. Als uw primaire klantenkring bestaat uit bedrijven of u BTW-vrijgestelde prijzen moet aanbieden, dan is deze setup mogelijk niet de beste optie voor uw eCommerce-winkel.
 
-**Consider Your Audience and Requirements:** When deciding which pricing option is best for your eCommerce store, it's crucial to consider your target audience and any specific requirements you have. If you primarily sell to consumers and want to provide transparent pricing, including tax may be the right choice. On the other hand, if you need to accommodate VAT-exempt customers, such as businesses, this setup may not meet your needs.
+**Overweeg uw doelgroep en vereisten:** Bij het beslissen welke prijsoptie het beste is voor uw eCommerce-winkel, is het cruciaal om uw doelgroep en eventuele specifieke vereisten die u heeft te overwegen. Als u voornamelijk aan consumenten verkoopt en transparante prijzen wilt bieden, kan het includeren van belasting de juiste keuze zijn. Aan de andere kant, als u BTW-vrijgestelde klanten moet bedienen, zoals bedrijven, voldoet deze setup mogelijk niet aan uw behoeften.
 
-We recommend evaluating your customer base, consulting with a registered tax consultant, and considering the specific legislation in your country to make an informed decision that aligns with your business goals and requirements.
+We raden aan uw klantenkring te evalueren, te overleggen met een geregistreerde belastingadviseur, en de specifieke wetgeving in uw land te overwegen om een weloverwogen beslissing te nemen die aansluit bij uw bedrijfsdoelen en vereisten.
 
-### Case #3 Product Price Inclusion and Exclusion is Based on the Customer's Location
+### Geval #3 Productprijs inclusie en exclusie is gebaseerd op de locatie van de klant
 
-For a customer from Denmark, Danish would pay €16 for the product plus €4 for tax. This means the customer will pay a total of €20 for the product, which includes the €4 tax.
+Voor een klant uit Denemarken betaalt de Deen €16 voor het product plus €4 voor belasting. Dit betekent dat de klant een totaal van €20 betaalt voor het product, inclusief de €4 belasting.
 
-On the other hand, if a customer from the United States purchases the same product, they will only pay €16 for the product. There won't be any additional tax charged since the US is not subject to Danish taxes.
+Aan de andere kant, als een klant uit de Verenigde Staten hetzelfde product koopt, betalen zij alleen €16 voor het product. Er wordt geen extra belasting aangerekend omdat de VS niet onderworpen is aan Deense belastingen.
 
-This pricing setup provides several advantages. Firstly, it ensures that customers only pay taxes when necessary, avoiding any unnecessary costs. Secondly, it allows your store to accurately calculate and selectively charge taxes based on the customer's location, complying with local tax regulations.
+Deze prijsstelling biedt verschillende voordelen. Ten eerste zorgt het ervoor dat klanten alleen belasting betalen wanneer dit nodig is, waardoor onnodige kosten worden vermeden. Ten tweede stelt het uw winkel in staat om accuraat belastingen te berekenen en selectief aan te rekenen op basis van de locatie van de klant, in overeenstemming met lokale belastingregels.
 
-Furthermore, you can display prices with taxes included while still being able to exempt certain customers from VAT. For instance, businesses may be eligible for VAT exemption, or you may choose not to charge tax on products for customers with disabilities or those with indigenous backgrounds.
+Bovendien kunt u prijzen weergeven met belasting inbegrepen terwijl u nog steeds bepaalde klanten kunt vrijstellen van BTW. Bijvoorbeeld, bedrijven kunnen in aanmerking komen voor BTW-vrijstelling, of u kunt ervoor kiezen geen belasting aan te rekenen op producten voor klanten met een handicap of inheemse achtergrond.
 
-Deciding which pricing option is best for your eCommerce store can be a complex task. We strongly recommend consulting a registered tax consultant to ensure you make the right choice for your business. They can provide valuable advice based on your specific circumstances and local tax regulations.
+Het beslissen welke prijsoptie het beste is voor uw eCommerce-winkel kan een complexe taak zijn. We raden ten zeerste aan een geregistreerde belastingadviseur te raadplegen om ervoor te zorgen dat u de juiste keuze maakt voor uw bedrijf. Zij kunnen waardevol advies geven gebaseerd op uw specifieke omstandigheden en lokale belastingregels.
 
-**VAT calculation formula** for VAT exclusion is the following: to calculate VAT having the gross amount you should divide the gross amount (product price) by 1 + VAT percentage (i.e. if it is 25%, then you should divide by 1.25).
+**BTW berekeningsformule** voor BTW-uitsluiting is als volgt: om BTW te berekenen met het brutobedrag moet u het brutobedrag (productprijs) delen door 1 + BTW-percentage (bijvoorbeeld als het 25% is, dan moet u delen door 1,25).
 
-Calculate your VAT online here: [vatcalconline.com](https://vatcalconline.com/).
+Bereken uw BTW online hier: [vatcalconline.com](https://vatcalconline.com/).
 
-## How to Create a Tax Rate?
+## Hoe een belastingtarief aanmaken?
 
-- On your [eCommerce admin panel](https://accounts.uvodo.com/), navigate to the ***Settings* → *Taxes*** section of your dashboard.
+- Ga in uw [eCommerce beheerpaneel](https://accounts.uvodo.com/) naar de ***Instellingen* → *Belastingen*** sectie van uw dashboard.
 
-- Click "**Create tax rate**" to begin setting up a new tax rate.
+- Klik op "**Belastingtarief aanmaken**" om een nieuw belastingtarief in te stellen.
 
-- **Name the tax rate** which will appear on the checkout page.
+- **Geef het belastingtarief een naam** die zal verschijnen op de checkout-pagina.
 
-- Then, **select the country** for which you want to create a tax rate.
+- Vervolgens, **selecteer het land** waarvoor u een belastingtarief wilt aanmaken.
 
-- Enter the tax rate for the country. This should be a percentage that will be added to the total cost of the customer's order. And, you can charge the tax percentage based on either ***Products*** or ***Products and shipping***.
+- Voer het belastingtarief voor het land in. Dit moet een percentage zijn dat zal worden toegevoegd aan de totale kosten van de klantbestelling. En u kunt het belastingpercentage aanrekenen op basis van ***Producten*** of ***Producten en verzending***.
 
-  - charge taxes *based on products*: if you want to exclude shipping from taxation.
+  - belasting aanrekenen *gebaseerd op producten*: als u verzending wilt uitsluiten van belasting.
 
-  - charge taxes based on *products and shipping*: if you want to include shipping in the taxable amount.
+  - belasting aanrekenen gebaseerd op *producten en verzending*: als u verzending wilt includeren in het belastbare bedrag.
 
-- Click "**Save**" to create the tax rate.
+- Klik op "**Opslaan**" om het belastingtarief aan te maken.
 
-Note that tax regulations may vary between countries, and some may consider shipping as taxable, while others may not. By default, shipping is taxed, but you have the flexibility to customize your tax rates to suit your requirements. If you prefer to charge taxes exclusively on your products, you can modify the settings by changing the **Charge taxes on** option from ***Products and shipping*** to ***Products*** only for cases where shipping shouldn't be taxed.
+Merk op dat belastingregels kunnen variëren tussen landen, en sommige kunnen verzending als belastbaar beschouwen, terwijl anderen dat niet doen. Standaard wordt verzending belast, maar u heeft de flexibiliteit om uw belastingtarieven aan te passen aan uw vereisten. Als u liever belasting uitsluitend op uw producten aanrekent, kunt u de instellingen wijzigen door de **Belasting aanrekenen op** optie te veranderen van ***Producten en verzending*** naar ***Producten*** alleen voor gevallen waar verzending niet belast moet worden.
 
-Once you've set up your tax rates, eCommerce will automatically calculate the appropriate tax amount for each customer order based on their location and the tax rules you've set up. This ensures that your customers are charged the correct tax amount, and that you are in compliance with tax regulations for the countries where you do business.
+Zodra u uw belastingtarieven heeft ingesteld, berekent eCommerce automatisch het juiste belastingbedrag voor elke klantbestelling op basis van hun locatie en de belastingregels die u heeft ingesteld. Dit zorgt ervoor dat uw klanten het juiste belastingbedrag wordt aangerekend, en dat u in overeenstemming bent met belastingregels voor de landen waar u zaken doet.
 
 :::caution
-If no tax rate created, customers won't be able to complete the checkout.
+Als er geen belastingtarief is aangemaakt, kunnen klanten het afrekenen niet voltooien.
 :::
