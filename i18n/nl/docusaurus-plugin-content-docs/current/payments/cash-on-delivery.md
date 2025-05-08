@@ -2,42 +2,42 @@
 sidebar_position: 2
 ---
 
-# What is Cash on Delivery?
+# Wat is betalen bij levering?
 
-The process of the Cash on Delivery (COD) type of the payment is simple. Delivery agents collect the invoice amount of a shipment from the buyer in the form of cash, card-to-card, or payment terminals at the time of delivery.
+Het proces van betalen bij levering (COD) is eenvoudig. Bezorgers innen het factuurbedrag van een zending van de koper in de vorm van contant geld, kaart-naar-kaart of betaalterminals op het moment van levering.
 
-The Cash on Delivery payment process goes something like this:
+Het betaalproces bij levering verloopt ongeveer als volgt:
 
-1. Customer places an order and chooses cash on delivery as a payment method.
-2. The online retailer verifies the customer order.
-3. Once the order is confirmed, the product to be delivered is processed and shipped.
-4. At the time of the delivery, a courier collects the payment and give the product to the customer.
-5. Then, the courier submits the money to the responsible person in the company.
+1. Klant plaatst een bestelling en kiest betalen bij levering als betaalmethode.
+2. De online verkoper verifieert de klantbestelling.
+3. Zodra de bestelling is bevestigd, wordt het te leveren product verwerkt en verzonden.
+4. Op het moment van levering int een koerier de betaling en geeft het product aan de klant.
+5. Vervolgens draagt de koerier het geld over aan de verantwoordelijke persoon in het bedrijf.
 
-## How to manage Cash on Delivery orders?
+## Hoe bestellingen bij levering beheren?
 
-When a seller receives an order with Cash on Delivery, the payment status initially appears as "Pending." Once the ordered item is delivered and the payment is collected, the seller updates the payment status to "Paid." As a result, the shipping status of the order is automatically set to "Delivered."
+Wanneer een verkoper een bestelling ontvangt met betalen bij levering, verschijnt de betalingsstatus aanvankelijk als "In behandeling". Zodra het bestelde item is geleverd en de betaling is geïnd, werkt de verkoper de betalingsstatus bij naar "Betaald". Als gevolg daarvan wordt de verzendstatus van de bestelling automatisch ingesteld op "Geleverd".
 
-## How to add Cash on Delivery payment to your eCommerce store?
+## Hoe betalen bij levering toevoegen aan uw eCommerce-winkel?
 
-When you create your eCommerce store, by default, Cash on Delivery is enabled.
+Wanneer u uw eCommerce-winkel aanmaakt, is betalen bij levering standaard ingeschakeld.
 
-It's up to you to disable the COD payment.
+Het is aan u om de COD-betaling uit te schakelen.
 
-### COD payment terms & instructions:
+### COD-betalingsvoorwaarden & instructies:
 
-It's recommended to add payment instructions for your customers. The instructions are displayed on the checkout process.
+Het wordt aanbevolen om betalingsinstructies voor uw klanten toe te voegen. De instructies worden weergegeven tijdens het afrekenproces.
 
-To add COD payment terms and description:
+Om COD-betalingsvoorwaarden en beschrijving toe te voegen:
 
-- Go to the ***Settings* → *Payments;***
-- On the **Manual payment methods** section, click on the Cash On Delivery;
-- On the opened popup window, write down the instructions.
+- Ga naar ***Instellingen* → *Betalingen***
+- Klik in de sectie **Handmatige betaalmethoden** op Betalen bij levering
+- Schrijf in het geopende pop-upvenster de instructies op
 
-## Disable the Cash on Delivery payment method
+## Betalen bij levering uitschakelen
 
-To disable COD on your online store:
+Om COD uit te schakelen in uw online winkel:
 
-- Go to the ***Settings* → *Payments;***
-- On the **Manual payment methods** section, click on the Cash On Delivery;
-- On the opened popup window, turn the **toggle off** to disable the COD payment method.
+- Ga naar ***Instellingen* → *Betalingen***
+- Klik in de sectie **Handmatige betaalmethoden** op Betalen bij levering
+- Schakel in het geopende pop-upvenster de **toggle uit** om de COD-betaalmethode uit te schakelen
