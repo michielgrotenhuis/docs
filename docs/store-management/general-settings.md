@@ -32,7 +32,7 @@ This information is used to calculate product prices, shipping weights, order ti
 
 You can not change the currency when you've already received an order. Learn more about [setting a currency for your online store](../store-setup/store-domain/setting-up-currency).
 
-![store timezone formats](https://example.com/path/to/image.png)
+![store timezone formats](./img/standards-and-formats.png)
 
 ## Account
 
@@ -42,11 +42,11 @@ Here, you can edit your admin dashboard profile and change your email.
 
 To update your email address, click on the **Change email** hyperlink.
 
-![store account settings](https://example.com/path/to/image.png)
+![change store email address](./img/change-email-settings.png)
+
 
 Here, write down your new address and password. You should receive a verification email.
 
-![change store email address](https://example.com/path/to/image.png)
 
 ## Language
 
@@ -54,23 +54,23 @@ Here, write down your new address and password. You should receive a verificatio
 
 You can change both admin dashboard and storefront language.
 
-![store language](https://example.com/path/to/image.png)
+![store language](./img/language-settings.png)
 
 ## Social Profiles
 
 ***Settings* → *General* → *Social profiles***
 
-![social profiles](https://example.com/path/to/image.png)
+![social profiles](./img/social-profiles.png)
 
 ## Maintenance Mode & Store Access Restriction
 
 ***Settings* → *General* → *Maintenance mode***
 
 Here, tick the box to enable the maintenance mode.
-
-![maintenance mode store access](https://example.com/path/to/image.png)
+![Maintenance Mode](./img/maintenance-mode.png)
 
 After enabling the maintenance mode for your online store, you can give an access by creating a password.
+![Maintenance Mode](./img/maintenance-mode-close-your-store-for-maintenence.png)
 
 - Learn more about the [maintenance mode and use cases](maintenance-mode).
 
