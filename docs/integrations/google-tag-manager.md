@@ -43,6 +43,8 @@ If you already have a Google Tag Manager account and a container for your eComme
 5. Click **Submit**
 
 Done! You've connected your GTM container to your eCommerce store.
+![GTM ID](./img/gtm-account-number.png)
+
 
 With Google Tag Manager, you gain the ability to easily create and manage tags within your account. Any tags you create in GTM will seamlessly be added to your online store, without requiring any actions on the eCommerce admin panel.
 
