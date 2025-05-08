@@ -13,7 +13,7 @@ const SectionList = [
       </>
     ),
     link: '/docs/',
-    linkText: '<translate>Read Documentation</translate>',
+    linkText: <translate>'Read Documentation'</translate>,
   },
   {
     title: '<translate>Blog</translate>',
