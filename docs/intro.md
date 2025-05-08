@@ -3,9 +3,9 @@ sidebar_position: 1
 slug: /
 ---
 
-# Introduction to eCommerce Documentation
+# Introduction to Online Store Platform Documentation
 
-Welcome to the official documentation for eCommerce, your comprehensive guide to setting up and managing your online store.
+Welcome to the official documentation for your eCommerce software, here you find an comprehensive guide to setting up and managing your online store.
 
 This documentation provides detailed instructions on how to use the platform effectively, from creating your store and adding products to managing orders and configuring payment methods.
 
@@ -33,7 +33,7 @@ Use the sidebar navigation to find specific topics, or use the search function t
 If you're new to eCommerce, we recommend starting with these guides:
 
 - [What is eCommerce](getting-started/what-is-ecommerce)
-- [Set up eCommerce store](store-setup/store-domain/setup-ecommerce-store)
+- [Setting up your online store](store-setup/store-domain/setup-ecommerce-store)
 - [Creating products](products/creating-products)
 - [Setting up payment methods](payments/payments-index)
 
@@ -42,6 +42,7 @@ If you're new to eCommerce, we recommend starting with these guides:
 If you can't find the information you need in the documentation, you can:
 
 - Check the [Frequently Asked Questions](intro-to-ecommerce/faq)
-- [Contact our support team](getting-started/faq) for personalized assistance
+- Contact your service provider for personalized assistance
+
 
 We're continuously improving our documentation to provide you with the most accurate and helpful information possible.
