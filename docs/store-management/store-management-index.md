@@ -74,4 +74,4 @@ Learn more about [legal pages](legal-pages).
 - **Stay informed**: Keep up with platform updates and new features
 - **Continuous improvement**: Regularly evaluate and optimize your store operations
 
-By following these best practices and properly configuring your store management settings, you'll create a solid foundation for your eCommerce business that supports growth and ensures smooth operations.
+By following these best practices and properly configuring your store management settings, you'll create a solid foundation for your online store that supports growth and ensures smooth operations.
