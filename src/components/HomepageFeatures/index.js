@@ -24,10 +24,10 @@ const SectionList = [
       </>
     ),
     link: '/blog/',
-    linkText: '<translate>Visit Our Blog</translate>',
+    linkText: <translate>Visit Our Blog</translate>,
   },
   {
-    title: '<translate>Changelog</translate>',
+    title: <translate>Changelog</translate>,
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
@@ -35,7 +35,7 @@ const SectionList = [
       </>
     ),
     link: '/changelog/',
-    linkText: '<translate>View Changelog</translate>',
+    linkText: <translate>View Changelog</translate>,
   },
 ];
 
