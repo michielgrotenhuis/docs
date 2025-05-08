@@ -82,7 +82,7 @@ If the current plan is too expensive but you still need more features than the F
 If you need a temporary break but plan to resume selling later:
 
 1. Keep your current plan
-2. Enable [maintenance mode](../maintenance-mode) to pause customer access
+2. Enable [maintenance mode](../store-management/maintenance-mode) to pause customer access
 3. When ready to resume, simply disable maintenance mode
 
 This option maintains all your current features and settings while temporarily stopping new orders.
