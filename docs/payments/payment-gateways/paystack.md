@@ -28,7 +28,7 @@ You can [sign up on Paystack](http://paystack.com/signup) to get started.
 
 ## How to Set Up Paystack Payment Gateway
 
-1. [Log in](https://accounts.uvodo.com/) to your eCommerce admin panel
+1. Log in to your eCommerce admin panel
 2. Navigate to the ***Settings → Payments*** in your admin panel
 3. Click on the "**Add payment method**" anchor text
 4. If available with your store currency, select "**Paystack**" as your payment provider (if not available, see the [Paystack isn't available with your store currency](#paystack-isnt-available-with-your-store-currency) section below)
