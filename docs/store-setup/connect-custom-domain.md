@@ -43,7 +43,7 @@ After completing the process, please be aware that it may take 24-72 hours for t
 
 It's an example of DNS setup through Cloudflare. This is how your DNS setup should look like:
 
-![connect custom domain to eCommerce store](https://example.com/path/to/image.png)
+![connect custom domain to eCommerce store](./img/cloudflare-dns.png)
 
 :::caution
 To ensure proper website accessibility, sellers are advised to verify their DNS configuration by including a CNAME or A record for the "www" subdomain and confirm that their web server is configured to handle requests for both the root domain and the "www" subdomain. Additionally, it is crucial to ensure that the SSL/TLS certificate covers both the root domain and the "www" subdomain to avoid any host errors.
