@@ -2,102 +2,102 @@
 sidebar_position: 6
 ---
 
-# Google Tag Manager Integration
+# Google Tag Manager-integratie
 
-[Google Tag Manager (GTM)](https://tagmanager.google.com/) is a powerful tool that allows you to manage and deploy various tracking codes, including those for marketing and analytics, on your store.
+[Google Tag Manager (GTM)](https://tagmanager.google.com/) is een krachtige tool waarmee u verschillende trackingcodes kunt beheren en implementeren, inclusief die voor marketing en analytics, op uw winkel.
 
-eCommerce allows you to effortlessly connect your store without the need for manual coding.
+eCommerce stelt u in staat om uw winkel moeiteloos te verbinden zonder handmatige codering.
 
-After adding a tag in Google Tag Manager to your eCommerce store, you will be able to track and collect valuable data about user interactions, website performance, and conversion events.
+Na het toevoegen van een tag in Google Tag Manager aan uw eCommerce-winkel, kunt u waardevolle gegevens verzamelen over gebruikersinteracties, websiteprestaties en conversiegebeurtenissen.
 
-## Google Tag Manager Benefits
+## Voordelen van Google Tag Manager
 
-With Google Tag Manager (GTM), you can easily add tags to your online store without touching any code. By using tags and triggers in GTM, you can track customer behavior and analyze popular products and conversion funnels in your online store. You can monitor events such as page views, clicks, scrolls, adding or removing items from the shopping cart, and more.
+Met Google Tag Manager (GTM) kunt u eenvoudig tags toevoegen aan uw online winkel zonder code aan te raken. Door tags en triggers in GTM te gebruiken, kunt u klantgedrag volgen en populaire producten en conversietrechters in uw online winkel analyseren. U kunt gebeurtenissen monitoren zoals paginaweergaven, klikken, scrollen, items toevoegen aan of verwijderen uit de winkelwagen, en meer.
 
-### Centralized Tag Management
+### Gecentraliseerd tagbeheer
 
-GTM provides a centralized platform for managing various marketing tags and tracking codes. Instead of manually editing code on your store, GTM allows you to add, modify, and deploy tags through its user-friendly interface.
+GTM biedt een gecentraliseerd platform voor het beheren van verschillende marketingtags en trackingcodes. In plaats van handmatig code te bewerken op uw winkel, stelt GTM u in staat om tags toe te voegen, te wijzigen en te implementeren via zijn gebruiksvriendelijke interface.
 
-### Comprehensive Tracking
+### Uitgebreide tracking
 
-GTM enables you to track and measure various user interactions on your online store. You can set up events, track conversions, monitor engagement metrics, and gain valuable insights into user behavior. This data-driven approach helps you optimize your marketing campaigns, understand customer preferences, and make informed decisions to improve your store's performance.
+GTM stelt u in staat om verschillende gebruikersinteracties op uw online winkel te volgen en te meten. U kunt gebeurtenissen instellen, conversies volgen, betrokkenheidsmetrics monitoren en waardevolle inzichten krijgen over gebruikersgedrag. Deze data-gedreven benadering helpt u uw marketingcampagnes te optimaliseren, klantvoorkeuren te begrijpen en weloverwogen beslissingen te nemen om de prestaties van uw winkel te verbeteren.
 
-### Flexibility and Experimentation
+### Flexibiliteit en experimenteren
 
-You can add or remove tags, adjust tracking configurations, and even perform A/B testing, all within the GTM interface. This flexibility allows you to adapt your marketing strategies, experiment with different tools, and respond promptly to evolving business needs. GTM supports various tags, including Google Analytics, Ads, third-party platforms like Facebook, Twitter, Pinterest, and also custom tags.
+U kunt tags toevoegen of verwijderen, trackingconfiguraties aanpassen en zelfs A/B-testen uitvoeren, allemaal binnen de GTM-interface. Deze flexibiliteit stelt u in staat om uw marketingstrategieën aan te passen, te experimenteren met verschillende tools en snel te reageren op veranderende bedrijfsbehoeften. GTM ondersteunt verschillende tags, waaronder Google Analytics, Ads, derde partijplatforms zoals Facebook, Twitter, Pinterest, en ook aangepaste tags.
 
-### Quality Assurance
+### Kwaliteitsborging
 
-GTM also provides a preview mode, allowing you to test and validate your tags before deploying them live. These features ensure a smooth and error-free implementation of tracking codes, reducing the risk of data inaccuracies or disruptions.
+GTM biedt ook een preview-modus, waarmee u uw tags kunt testen en valideren voordat u ze live implementeert. Deze functies zorgen voor een vlotte en foutloze implementatie van trackingcodes, waardoor het risico op gegevensfouten of verstoringen wordt beperkt.
 
-## Connect Google Tag Manager to Your eCommerce Store
+## Google Tag Manager verbinden met uw eCommerce-winkel
 
-To connect [Google Tag Manager](https://tagmanager.google.com/) to your eCommerce store, you need to create a Google Tag Manager account. If you don't have a GTM account, follow the steps in the [Create GTM Account and Your Store Container](#create-gtm-account-and-your-store-container) section below.
+Om [Google Tag Manager](https://tagmanager.google.com/) aan uw eCommerce-winkel te koppelen, moet u een Google Tag Manager-account aanmaken. Als u geen GTM-account heeft, volg dan de stappen in de sectie [GTM-account en uw winkelcontainer aanmaken](#gtm-account-en-uw-winkelcontainer-aanmaken) hieronder.
 
-If you already have a Google Tag Manager account and a container for your eCommerce store, follow these steps to connect it with your store:
+Als u al een Google Tag Manager-account en een container voor uw eCommerce-winkel heeft, volg dan deze stappen om het te verbinden met uw winkel:
 
-1. On your eCommerce **admin panel**, navigate to ***Settings → Integrations***
-2. Click on the **Connect** button for Google Tag Manager
-3. Click on the **Add** button for Google Tag Manager
-4. On this page, paste your **Container ID**. You can find the Container ID from your [GTM account](https://tagmanager.google.com/), identified as *GTM-XXXXXX* on the upper side of the page
-5. Click **Submit**
+1. Ga in uw eCommerce **beheerpaneel** naar ***Instellingen → Integraties***
+2. Klik op de **Verbinden** knop voor Google Tag Manager
+3. Klik op de **Toevoegen** knop voor Google Tag Manager
+4. Plak op deze pagina uw **Container ID**. U kunt de Container ID vinden in uw [GTM-account](https://tagmanager.google.com/), geïdentificeerd als *GTM-XXXXXX* bovenaan de pagina
+5. Klik op **Verzenden**
 
-Done! You've connected your GTM container to your eCommerce store.
+Klaar! U heeft uw GTM-container verbonden met uw eCommerce-winkel.
 
-With Google Tag Manager, you gain the ability to easily create and manage tags within your account. Any tags you create in GTM will seamlessly be added to your online store, without requiring any actions on the eCommerce admin panel.
+Met Google Tag Manager krijgt u de mogelijkheid om eenvoudig tags binnen uw account aan te maken en te beheren. Alle tags die u in GTM aanmaakt, worden naadloos toegevoegd aan uw online winkel, zonder dat u actie hoeft te ondernemen in het eCommerce-beheerpaneel.
 
-## Create GTM Account and Your Store Container
+## GTM-account en uw winkelcontainer aanmaken
 
-1. Log in to your [Google Account](https://accounts.google.com/) or register for a new Google/Gmail account
-2. Go to [https://tagmanager.google.com/](https://tagmanager.google.com/)
-3. Click the **Create Account** button
-4. Provide your **Account Name** and **choose your country**
-5. Add the **Container name** to create a new container for your store
-6. Select **Web** as the target platform
-7. Click the **Create** button
-8. Accept the Google Tag Manager Terms of Service Agreement
+1. Log in op uw [Google-account](https://accounts.google.com/) of registreer voor een nieuw Google/Gmail-account
+2. Ga naar [https://tagmanager.google.com/](https://tagmanager.google.com/)
+3. Klik op de **Account aanmaken** knop
+4. Geef uw **Accountnaam** en **kies uw land**
+5. Voeg de **Containernaam** toe om een nieuwe container voor uw winkel aan te maken
+6. Selecteer **Web** als doelplatform
+7. Klik op de **Aanmaken** knop
+8. Accepteer de Google Tag Manager Servicevoorwaarden
 
-At the upper section of the page, you can see the Container ID identified as *GTM-XXXXXX*.
+Bovenaan de pagina ziet u de Container ID geïdentificeerd als *GTM-XXXXXX*.
 
-## Verify that Google Tag Manager is Installed
+## Verifiëren dat Google Tag Manager is geïnstalleerd
 
-You can use the [Preview Mode](https://support.google.com/tagmanager/answer/6107056?) on the upper right part of Google Tag Manager, or the [Google Tag Assistant](https://get.google.com/tagassistant/) Chrome Extension to confirm that you've installed GTM properly.
+U kunt de [Preview-modus](https://support.google.com/tagmanager/answer/6107056?) rechtsboven in Google Tag Manager gebruiken, of de [Google Tag Assistant](https://get.google.com/tagassistant/) Chrome-extensie om te bevestigen dat u GTM correct heeft geïnstalleerd.
 
-## Common Tags to Implement
+## Veelgebruikte tags om te implementeren
 
-After connecting GTM to your eCommerce store, you might want to add these common tags:
+Na het verbinden van GTM met uw eCommerce-winkel, wilt u mogelijk deze veelgebruikte tags toevoegen:
 
-### Analytics Tags
-- Google Analytics 4 configuration tag
-- Event tags (page view, scroll depth, outbound links)
-- Ecommerce tracking tags (view item, add to cart, begin checkout, purchase)
+### Analytics-tags
+- Google Analytics 4 configuratietag
+- Gebeurtenis tags (paginaweergave, scroll diepte, uitgaande links)
+- Ecommerce-trackingtags (item bekijken, toevoegen aan winkelwagen, afrekenen starten, aankoop)
 
-### Marketing Tags
-- Google Ads conversion tracking
+### Marketing-tags
+- Google Ads conversietracking
 - Facebook Pixel
 - TikTok Pixel
 - Pinterest Tag
 - LinkedIn Insight Tag
 
-### User Experience Tags
-- Hotjar tracking code
-- Crazy Egg tracking code
-- Custom event listeners
+### Gebruikerservaring-tags
+- Hotjar trackingcode
+- Crazy Egg trackingcode
+- Aangepaste gebeurtenislisteners
 
-### SEO and Site Performance Tags
-- Google Search Console verification
-- Site speed monitoring scripts
+### SEO en siteprestatie-tags
+- Google Search Console verificatie
+- Site snelheidsmonitoringscripts
 
-## Best Practices for Google Tag Manager
+## Beste praktijken voor Google Tag Manager
 
-1. **Use a naming convention**: Develop a consistent naming system for your tags, triggers, and variables
-2. **Create a testing environment**: Use preview mode to test tags before publishing
-3. **Document your implementation**: Keep records of what each tag does and why it was implemented
-4. **Audit regularly**: Periodically review your tags to remove any that are no longer needed
-5. **Use folders**: Organize your tags, triggers, and variables into logical folders
-6. **Implement data layer**: Use the data layer for enhanced tracking capabilities
-7. **Set up user permissions**: Control who can view, edit, and publish changes
-8. **Use built-in templates**: Leverage GTM's built-in tag templates when possible
-9. **Monitor errors**: Regularly check for implementation errors in the GTM interface
+1. **Gebruik een naamgevingsconventie**: Ontwikkel een consistent naamgevingssysteem voor uw tags, triggers en variabelen
+2. **Maak een testomgeving**: Gebruik preview-modus om tags te testen voordat u publiceert
+3. **Documenteer uw implementatie**: Houd registers bij van wat elke tag doet en waarom het is geïmplementeerd
+4. **Audit regelmatig**: Bekijk periodiek uw tags om die te verwijderen die niet langer nodig zijn
+5. **Gebruik mappen**: Organiseer uw tags, triggers en variabelen in logische mappen
+6. **Implementeer data layer**: Gebruik de data layer voor verbeterde trackingmogelijkheden
+7. **Stel gebruikersrechten in**: Beheer wie kan bekijken, bewerken en wijzigingen publiceren
+8. **Gebruik ingebouwde sjablonen**: Maak gebruik van GTM's ingebouwde tag sjablonen wanneer mogelijk
+9. **Monitor fouten**: Controleer regelmatig op implementatiefouten in de GTM-interface
 
-By following these best practices and leveraging the full capabilities of Google Tag Manager, you can gain valuable insights into your customers' behavior and optimize your marketing strategies for better results.
+Door deze beste praktijken te volgen en de volledige mogelijkheden van Google Tag Manager te benutten, kunt u waardevolle inzichten krijgen over het gedrag van uw klanten en uw marketingstrategieën optimaliseren voor betere resultaten.
