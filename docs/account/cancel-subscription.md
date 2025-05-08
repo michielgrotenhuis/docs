@@ -6,12 +6,12 @@ sidebar_position: 2
 
 You can cancel or change your subscription plan at any time.
 
-To cancel your current subscription plan, you should downgrade to the Free plan.
+To cancel your current subscription plan, should contact your service provider.
 
-Your current (paid) subscription plan will be downgraded to the Free plan at the end of the current billing cycle.
+Your current subscription plan will be terminated at the end of the current billing cycle.
 
 :::caution
-If you would like to cancel the subscription before the end of the billing cycle, be aware that we do not refund the payment for this subscription.
+If you would like to cancel the subscription before the end of the billing cycle, be aware that your service provider might not refund the payment for this subscription.
 :::
 
 ## Step-by-Step Cancellation Process
@@ -21,7 +21,7 @@ Follow these steps to cancel your subscription by downgrading to the Free plan:
 1. **Log in** to your eCommerce admin panel
 2. Navigate to ***Settings → Billing***
 3. Click on the **Change plan** button
-4. Select the **Free plan** from the available options
+4. Select the **Terminate plan** from the available options
 5. Follow the prompts to confirm your downgrade
 6. You will receive a confirmation email once the change is processed
 
@@ -36,11 +36,11 @@ When you downgrade from a paid plan to the Free plan:
 
 ## What Happens After Downgrading
 
-When your store transitions to the Free plan, several changes will occur:
+When your store transitions to a diffrent plan, several changes will occur:
 
 ### Feature Limitations
 
-The Free plan has certain limitations compared to paid plans:
+The smaller plans have certain limitations compared to paid plans:
 
 - Limited number of products
 - Limited staff accounts (typically only one)
@@ -49,7 +49,7 @@ The Free plan has certain limitations compared to paid plans:
 
 ### Data Retention
 
-When downgrading to the Free plan:
+When downgrading to a smaller plan:
 
 - Your store data is preserved (products, orders, customers)
 - Your store remains operational
@@ -59,7 +59,7 @@ When downgrading to the Free plan:
 
 If you decide to upgrade again in the future:
 
-- You can upgrade to any paid plan at any time
+- You can upgrade to any larger plan at any time
 - The upgrade takes effect immediately
 - You'll immediately regain access to all paid features
 - You'll be billed for the new plan right away
@@ -89,8 +89,4 @@ This option maintains all your current features and settings while temporarily s
 
 ## Contact Support
 
-If you have any questions about canceling your subscription or need assistance with the process, our support team is available to help. You can contact support through:
-
-- Email: support@ecommerce.com
-- Live chat on the eCommerce website
-- [Help center](../../intro-to-ecommerce/contact)
+If you have any questions about canceling your subscription or need assistance with the process, our support team is available to help.
