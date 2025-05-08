@@ -1,45 +1,45 @@
 ---
 sidebar_position: 1
 ---
-# What is eCommerce?
+# Wat is eCommerce?
 
-## Meet eCommerce
+## Maak kennis met eCommerce
 
-**eCommerce** is a unified eCommerce platform.
+**eCommerce** is een verenigd eCommerce-platform.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_-MXnMO9Reg?si=fnZNFspt1JEyocA6" title="eCommerce Platform Overview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_-MXnMO9Reg?si=fnZNFspt1JEyocA6" title="eCommerce Platform Overzicht" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-eCommerce is an appless & conversion-focused eCommerce platform. eCommerce eliminates the need for installing third-party apps to ensure the full functionality of your online store without add-ons. All the tools that are needed to sell online are built-in and offered by eCommerce.
+eCommerce is een applicatieloos & conversie-gericht eCommerce-platform. eCommerce elimineert de noodzaak om apps van derden te installeren om de volledige functionaliteit van uw online winkel zonder add-ons te garanderen. Alle tools die nodig zijn om online te verkopen zijn ingebouwd en worden aangeboden door eCommerce.
 
-## Who is eCommerce for?
+## Voor wie is eCommerce?
 
-eCommerce is an ideal eCommerce platform that caters to a wide range of businesses and individuals, making it particularly suitable for:
-- Small and medium-sized businesses (SMBs)
-- Local businesses
-- Solopreneurs
-- Anyone who sells their products online
+eCommerce is een ideaal eCommerce-platform dat geschikt is voor een breed scala aan bedrijven en individuen, en is bijzonder geschikt voor:
+- Kleine en middelgrote bedrijven (MKB)
+- Lokale bedrijven
+- Zelfstandigen
+- Iedereen die hun producten online verkoopt
 
-## How does eCommerce work?
+## Hoe werkt eCommerce?
 
-Selling online with eCommerce is super easy.
-1. **Create your free account on eCommerce**
-2. Get an instant online store
+Online verkopen met eCommerce is super eenvoudig.
+1. **Maak uw gratis account aan op eCommerce**
+2. Krijg onmiddellijk een online winkel
 
-Once the account is created, you can begin **adding your products**, **set up shipping**, and accept payments with eCommerce's already integrated payment gateways.
+Zodra het account is aangemaakt, kunt u beginnen met **uw producten toevoegen**, **verzending instellen**, en betalingen accepteren met eCommerce's al geïntegreerde betaalgateways.
 
-## Key features
+## Belangrijkste functies
 
-### Admin panel and storefront
-With eCommerce, you get an instant online store and admin panel with the tools that are needed to sell online.
+### Beheerpaneel en winkelfront
+Met eCommerce krijgt u een instant online winkel en beheerpaneel met de tools die nodig zijn om online te verkopen.
 
-### Location specific payment gateways
-Merchants using eCommerce can easily enable globally recognized payment gateways, including **PayPal**, **Stripe**, **Flutterwave**, **Mercado Pago**, and more. With just a few clicks, you can enable these payment options into your store, offering customers a variety of secure and convenient ways to complete their transactions.
+### Locatie-specifieke betaalgateways
+Handelaren die eCommerce gebruiken kunnen gemakkelijk wereldwijd erkende betaalgateways inschakelen, waaronder **PayPal**, **Stripe**, **Flutterwave**, **Mercado Pago** en meer. Met slechts een paar klikken kunt u deze betalingsopties in uw winkel inschakelen, waardoor klanten verschillende veilige en handige manieren krijgen om hun transacties te voltooien.
 
-### Built-in marketing tools
-eCommerce offers a comprehensive range of built-in apps and marketing tools, available in both free and paid plans, without any limitations. These tools empower merchants to optimize their store's performance and drive conversions.
+### Ingebouwde marketingtools
+eCommerce biedt een uitgebreid scala aan ingebouwde apps en marketingtools, beschikbaar in zowel gratis als betaalde plannen, zonder beperkingen. Deze tools stellen handelaren in staat om de prestaties van hun winkel te optimaliseren en conversies te stimuleren.
 
-### Mobile-first design
-eCommerce prioritizes a mobile-first approach, providing a mobile-friendly storefront and admin panel. This enables merchants to efficiently manage their stores from their mobile devices, ensuring seamless shopping experiences for their customers across different devices.
+### Mobiel-eerst ontwerp
+eCommerce geeft prioriteit aan een mobiel-eerst benadering, met een mobiel-vriendelijk winkelfront en beheerpaneel. Dit stelt handelaren in staat om hun winkels efficiënt te beheren vanaf hun mobiele apparaten, wat zorgt voor naadloze winkelbelevingen voor hun klanten op verschillende apparaten.
 
-### Manual payment methods
-In addition to online payment gateways, eCommerce supports manual payment methods such as **Cash on Delivery**. This feature allows merchants to offer local customers the option to pay in cash upon delivery, accommodating their preferences and expanding their reach.
+### Handmatige betaalmethoden
+Naast online betaalgateways ondersteunt eCommerce handmatige betaalmethoden zoals **Betalen bij levering**. Deze functie stelt handelaren in staat om lokale klanten de optie te bieden om contant te betalen bij levering, wat tegemoetkomt aan hun voorkeuren en hun bereik uitbreidt.
