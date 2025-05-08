@@ -2,28 +2,24 @@
 sidebar_position: 3
 ---
 
-# Frequently Asked Questions
+# Veelgestelde vragen
 
-We have drafted some frequently asked general questions about eCommerce. For pricing related Q&A, visit **[Billing & Subscription](billing-subscription)**.
+We hebben enkele veelgestelde algemene vragen over eCommerce opgesteld. Voor prijsgerelateerde vragen, bezoek **[Facturering & Abonnement](billing-subscription)**.
 
-**How is eCommerce different from other eCommerce platforms?**
+**Hoe verschilt eCommerce van andere eCommerce-platforms?**
 
-> eCommerce includes all the essential conversion and automation tools directly accessible on the admin panel. You can also compare plans and learn more about Billing & Subscription.
+> eCommerce bevat alle essentiële conversie- en automatiseringstools direct toegankelijk in het beheerpaneel. U kunt ook plannen vergelijken en meer leren over Facturering & Abonnement.
 
-**Are there any transaction fees?**
+**Zijn er transactiekosten?**
 
-> For our Free, Economy, Business, and Premium plans, there will be annual Gross Merchandise Value (GMV) limits of $0.5k, $15k, $60k, and $500k respectively for online sales.
+> Voor onze Gratis, Economy, Business en Premium plannen zijn er jaarlijkse Gross Merchandise Value (GMV) limieten van respectievelijk $0,5k, $15k, $60k en $500k voor online verkoop.
 >
-> Note that eCommerce doesn't impose transaction fees when using third-party payment gateways. However, you should review the pricing structure of those payment gateways.
+> Merk op dat eCommerce geen transactiekosten oplegt bij het gebruik van betaalgateways van derden. U moet echter wel de prijsstructuur van die betaalgateways nakijken.
 
-**What types of products can I sell on eCommerce?**
+**Welke soorten producten kan ik verkopen op eCommerce?**
 
-> You can sell physical products in your eCommerce store.
+> U kunt fysieke producten verkopen in uw eCommerce-winkel.
 
-**What payment methods are supported on eCommerce?**
+**Welke betaalmethoden worden ondersteund op eCommerce?**
 
-> eCommerce supports **Cash on Delivery** and various leading global and location-specific payment gateways. Learn more about eCommerce's supported payment methods.
-
-**Can I use my own domain with eCommerce?**
-
-> Yes, you can use your existing domain. We also provide a forever free biz.cyou subdomain to all stores when they sign up. Learn how to connect custom domain to eCommerce store.
+> eCommerce ondersteunt **Betalen bij levering** en verschillende toonaangevende wereldwijde en locatie-specifieke betaalgateways. Leer meer over eCommerce's ondersteunde b
