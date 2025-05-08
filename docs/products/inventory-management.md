@@ -24,6 +24,6 @@ Inventory management feature allows sellers to track the quantity of their produ
 
 5. Click on the **"Save" button** to save the changes you have made to the inventory quantity.
 
-![Inventory Management Screen](https://example.com/path/to/image.png)
+![Inventory Management Screen](./img/inventory.png)
 
 By following these steps, you can easily manage your product inventory. It is important to keep your inventory up-to-date to avoid overstocking or stockouts, which could potentially impact your sales and reputation.
