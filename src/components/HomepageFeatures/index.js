@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 
 const SectionList = [
   {
-    title: '<translate>Documentation</translate>',
+    title: <translate>Documentation</translate>,
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
@@ -16,7 +16,7 @@ const SectionList = [
     linkText: <translate>Read Documentation</translate>,
   },
   {
-    title: '<translate>Blog</translate>',
+    title: <translate>Blog</translate>,
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
