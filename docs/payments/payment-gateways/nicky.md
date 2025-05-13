@@ -25,7 +25,7 @@ Under Store.icu, you can easily activate the Nicky payment gateway and use crypt
 2. Navigate to **Settings → Payments** in your admin panel
 3. Click on the "**Add payment method**" button
 
-![Add payment method screen](../static/img/nicky/add-payment-method.png)
+![Add payment method screen](./img/nicky/add-payment-method.png)
 
 ### Step 2: Select and Configure Nicky
 
@@ -33,12 +33,12 @@ Under Store.icu, you can easily activate the Nicky payment gateway and use crypt
    
    If your store currency is supported, select "**Crypto Payment Through Nicky**"
 
-![Select Nicky payment option](../static/img/nicky/select-nicky.png)
+![Select Nicky payment option](./img/nicky/select-nicky.png)
 
 5. In the "Enable payment method" section, click on the toggle to enable the payment method
 6. Enter the "**API Key**" and "**Secret Key**" from your Nicky account, then click on the Submit button
 
-![Enter API credentials](../static/img/nicky/enter-credentials.png)
+![Enter API credentials](./img/nicky/enter-credentials.png)
 
 7. Once you add these two details and click submit, you can now use the Nicky payment gateway for your store transactions where your customers can make payments using cryptocurrency
 
@@ -61,14 +61,14 @@ Once your account is activated with Nicky.me, follow these steps to connect your
    - Enter API secret key and name of your connection
    - Click on "**Add Connection**"
 
-![Add connection screen](../static/img/nicky/add-connection.png)
+![Add connection screen](./img/nicky/add-connection.png)
 
 4. Navigate to "**Routing**" (under the Settings tab)
    - Click "**Edit Route**"
    - If you've already connected your account, you'll see a list of provider-supported currencies (which are supported in your connected account)
    - Alternatively, you can connect your private wallet and enable the currencies for transactions
 
-![Edit routing screen](../static/img/nicky/edit-routing.png)
+![Edit routing screen](./img/nicky/edit-routing.png)
 
 ## Completion
 
