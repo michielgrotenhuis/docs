@@ -14,7 +14,7 @@ You can add new member to your team to manage your online store and assign speci
 
 To access the Staff Settings on eCommerce:
 
-1. [Log in](https://accounts.uvodo.com/) to your eCommerce admin panel
+1. Log in to your eCommerce admin panel
 
 2. Go to the "**Settings**" menu in the left menu of the dashboard
 
@@ -26,9 +26,6 @@ To access the Staff Settings on eCommerce:
 
 eCommerce offers a variety of permissions for different features, such as orders, products, customers, and reports. You can select which permissions to enable by checking the corresponding boxes.
 
-:::note
-In the free plan, you can only have one staff member. To add more, you need to upgrade your plan from the **Settings → Billing.** Learn more about [eCommerce's billing & subscription plans](../intro-to-ecommerce/billing-subscription).
-:::
 
 ## Best Practices for User Rules
 
