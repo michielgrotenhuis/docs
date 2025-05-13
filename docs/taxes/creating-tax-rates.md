@@ -90,7 +90,7 @@ Calculate your VAT online here: [vatcalconline.com](https://vatcalconline.com/).
 
 ## How to Create a Tax Rate?
 
-- On your [eCommerce admin panel](https://accounts.uvodo.com/), navigate to the ***Settings* → *Taxes*** section of your dashboard.
+- On your eCommerce admin panel, navigate to the ***Settings* → *Taxes*** section of your dashboard.
 
 - Click "**Create tax rate**" to begin setting up a new tax rate.
 
