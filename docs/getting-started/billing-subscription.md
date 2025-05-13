@@ -10,7 +10,7 @@ sidebar_position: 2
 
 Our ecommerce platform offers a plan to start selling online right away.
 
-Other than that, eCommerce offers 3 paid plans.
+Other than that, eCommerce offers 4 paid plans.
 
 Follow the link to compare our **Pricing Plans**.
 
