@@ -1,56 +1,47 @@
+I'll translate this file about Account Management into Dutch for you. Here's the complete translation:
+
 ---
 sidebar_position: 1
 ---
-
 # Accountbeheer
+Dit gedeelte behandelt alle aspecten van het beheren van je eCommerce-account. Van het pauzeren of verwijderen van je winkel tot het opzeggen van abonnementen en het resetten van wachtwoorden, je vindt hier uitgebreide richtlijnen voor account-gerelateerde taken.
 
-Deze sectie behandelt alle aspecten van het beheren van uw eCommerce-account. Van het pauzeren of verwijderen van uw winkel tot het annuleren van abonnementen en het resetten van wachtwoorden, u vindt hier uitgebreide begeleiding voor account-gerelateerde taken.
+## Wat staat er in dit gedeelte
+- [Winkel pauzeren of verwijderen](delete-pause-store) - Leer hoe je je winkel tijdelijk kunt pauzeren of permanent kunt verwijderen
+- [Abonnement opzeggen](cancel-subscription) - Stappen om je eCommerce-abonnement op te zeggen
+- [Wachtwoord resetten](password-reset) - Hoe je je accountwachtwoord kunt resetten of wijzigen
 
-## Wat vindt u in deze sectie
-
-- [Winkel pauzeren of verwijderen](delete-pause-store) - Leer hoe u uw winkel tijdelijk kunt pauzeren of permanent kunt verwijderen
-- [Abonnement annuleren](cancel-subscription) - Stappen om uw eCommerce-abonnement te annuleren
-- [Wachtwoord resetten](password-reset) - Hoe u uw accountwachtwoord kunt resetten of wijzigen
-
-## Uw eCommerce-account beheren
-
-Het juist beheren van uw eCommerce-account is belangrijk voor beveiliging en om ervoor te zorgen dat u het juiste plan heeft voor uw bedrijfsbehoeften. Hier is een gids voor belangrijke accountbeheertaken:
+## Je eCommerce-account beheren
+Het correct beheren van je eCommerce-account is belangrijk voor de veiligheid en om ervoor te zorgen dat je het juiste abonnement hebt voor je zakelijke behoeften. Hier is een gids voor belangrijke accountbeheertaken:
 
 ### 1. Accountbeveiliging
-
-Onderhoud de beveiliging van uw account:
+Zorg voor de veiligheid van je account:
 - Gebruik sterke, unieke wachtwoorden
-- Werk uw wachtwoord regelmatig bij
-- Schakel veilige inlogopties in indien beschikbaar
+- Update je wachtwoord regelmatig
+- Schakel beveiligde inlogopties in indien beschikbaar
 - Wees voorzichtig met accounttoegang en gedeelde inloggegevens
+Lees meer over [wachtwoordbeheer](password-reset).
 
-Leer meer over [wachtwoordbeheer](password-reset).
+### 2. Abonnementsbeheer
+Houd je abonnementsgegevens in de gaten:
+- Bekijk je huidige abonnement en facturatiecyclus
+- Begrijp welke functies in je abonnement zijn inbegrepen
+- Evalueer of je huidige abonnement voldoet aan je zakelijke behoeften
+- Weet hoe je je abonnement kunt upgraden of downgraden indien nodig
+Als je je abonnement wilt opzeggen, lees dan de [stappen om op te zeggen](cancel-subscription).
 
-### 2. Abonnementbeheer
-
-Blijf op de hoogte van uw abonnementsdetails:
-- Bekijk uw huidige plan en factureringscyclus
-- Begrijp welke functies zijn inbegrepen in uw plan
-- Evalueer of uw huidige plan voldoet aan uw bedrijfsbehoeften
-- Weet hoe u uw plan kunt upgraden of downgraden indien nodig
-
-Als u uw abonnement moet annuleren, leer dan de [stappen om te annuleren](cancel-subscription).
-
-### 3. Winkelstatusbeheer
-
-Beheer de operationele status van uw winkel:
-- Weet hoe u uw winkel tijdelijk kunt pauzeren wanneer nodig
-- Begrijp de gevolgen van winkelverwijdering
+### 3. Beheer van winkelstatus
+Beheer de operationele status van je winkel:
+- Weet hoe je je winkel tijdelijk kunt pauzeren wanneer nodig
+- Begrijp de gevolgen van het verwijderen van je winkel
 - Leer over alternatieven voor verwijdering (zoals onderhoudsmodus)
+Lees meer over [het pauzeren of verwijderen van je winkel](delete-pause-store).
 
-Leer meer over [pauzeren of verwijderen van uw winkel](delete-pause-store).
+## Best practices voor accountbeheer
+- **Regelmatige evaluatie**: Evalueer periodiek je abonnement om ervoor te zorgen dat het nog steeds aan je behoeften voldoet
+- **Beheer van beheerderstoegang**: Beperk het aantal mensen dat beheerderstoegang heeft tot je account
+- **Back-up contactgegevens**: Houd je contactgegevens up-to-date voor accountherstel
+- **Documentatie**: Bewaar gegevens van je accountdetails en abonnementsinformatie
+- **Beveiligingsbewustzijn**: Blijf alert op mogelijke beveiligingsdreigingen en neem passende maatregelen
 
-## Beste praktijken voor accountbeheer
-
-- **Regelmatige beoordeling**: Bekijk periodiek uw abonnementsplan om ervoor te zorgen dat het nog steeds voldoet aan uw behoeften
-- **Beheerdertoegang**: Beperk het aantal mensen dat beheerdertoegang heeft tot uw account
-- **Back-up contactinformatie**: Houd uw contactinformatie up-to-date voor accountherstel
-- **Documentatie**: Bewaar gegevens van uw accountdetails en abonnementsinformatie
-- **Beveiligingsbewustzijn**: Blijf waakzaam voor potentiële beveiligingsrisico's en neem passende maatregelen
-
-Door deze beste praktijken te volgen en uw eCommerce-account goed te beheren, zorgt u voor veilige toegang, juiste abonnementsniveaus en controle over de operationele status van uw winkel.
+Door deze best practices te volgen en je eCommerce-account goed te beheren, zorg je voor veilige toegang, passende abonnementsniveaus en controle over de operationele status van je winkel.
