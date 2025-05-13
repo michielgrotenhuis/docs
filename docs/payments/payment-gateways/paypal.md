@@ -71,7 +71,7 @@ Here is a non-exhaustive list of some of the currencies that PayPal currently su
 
 If PayPal payment isn't available due to your store currency, you cannot select this payment provider. For this, you need to change your store's currency.
 
-Learn more about **"[Setting up a currency for your online store](../../store-domain/setting-up-currency)"**.
+Learn more about **"[Setting up a currency for your online store](../../store-setup/setting-up-currency)"**.
 
 To change your store's currency:
 
