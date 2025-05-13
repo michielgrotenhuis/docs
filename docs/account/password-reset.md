@@ -36,7 +36,7 @@ When creating a new password for your Online Store admin account, following thes
 
 If you've forgotten your password and cannot access your eCommerce admin panel:
 
-1. Go to the login page at **accounts.eCommerce.com**
+1. Go to the login page
 2. Click on the **"Forgot Password?"** link
 3. Enter the email address associated with your account
 4. Check your email for password reset instructions
