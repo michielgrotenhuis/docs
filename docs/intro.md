@@ -33,7 +33,7 @@ Use the sidebar navigation to find specific topics, or use the search function t
 If you're new to eCommerce, we recommend starting with these guides:
 
 - [What is eCommerce](getting-started/what-is-ecommerce)
-- [Setting up your online store](store-setup/store-domain/setup-ecommerce-store)
+- [Setting up your online store](getting-started/setup-ecommerce-store)
 - [Creating products](products/creating-products)
 - [Setting up payment methods](payments/payments-index)
 
@@ -41,7 +41,7 @@ If you're new to eCommerce, we recommend starting with these guides:
 
 If you can't find the information you need in the documentation, you can:
 
-- Check the [Frequently Asked Questions](intro-to-ecommerce/faq)
+- Check the [Frequently Asked Questions](getting-started/faq)
 - Contact your service provider for personalized assistance
 
 
