@@ -10,7 +10,7 @@ sidebar_position: 2
 
 Ons ecommerce-platform biedt een plan om direct online te beginnen verkopen.
 
-Daarnaast biedt eCommerce 3 betaalde plannen.
+Daarnaast biedt eCommerce 4 betaalde plannen.
 
 Volg de link om onze **Prijsplannen** te vergelijken.
 
