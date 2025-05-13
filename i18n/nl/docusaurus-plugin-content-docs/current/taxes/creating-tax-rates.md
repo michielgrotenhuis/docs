@@ -90,7 +90,7 @@ Bereken uw BTW online hier: [vatcalconline.com](https://vatcalconline.com/).
 
 ## Hoe een belastingtarief aanmaken?
 
-- Ga in uw [eCommerce beheerpaneel](https://accounts.uvodo.com/) naar de ***Instellingen* → *Belastingen*** sectie van uw dashboard.
+- Ga in uw eCommerce beheerpaneel naar de ***Instellingen* → *Belastingen*** sectie van uw dashboard.
 
 - Klik op "**Belastingtarief aanmaken**" om een nieuw belastingtarief in te stellen.
 
