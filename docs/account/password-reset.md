@@ -66,7 +66,7 @@ Beyond password management, follow these additional security practices to protec
 ### Staff Access Management
 
 - Only grant admin access to trusted individuals who require it
-- Use appropriate [permission levels](../staff-permissions) for staff accounts
+- Use appropriate permission levels for staff accounts
 - Promptly remove access for former team members
 
 ### Security Awareness
