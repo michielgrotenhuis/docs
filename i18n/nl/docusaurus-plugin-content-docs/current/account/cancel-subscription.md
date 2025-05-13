@@ -1,96 +1,69 @@
 ---
 sidebar_position: 2
 ---
-
-# Annuleren van een abonnementsplan
-
-U kunt uw abonnementsplan op elk moment annuleren of wijzigen.
-
-Om uw huidige abonnementsplan te annuleren, moet u downgraden naar het gratis plan.
-
-Uw huidige (betaalde) abonnementsplan wordt gedowngraded naar het gratis plan aan het einde van de huidige factureringscyclus.
-
+# Een abonnement opzeggen
+Je kunt je abonnement op elk moment opzeggen of wijzigen.
+Om je huidige abonnement op te zeggen, moet je contact opnemen met je serviceprovider.
+Je huidige abonnement wordt beëindigd aan het einde van de huidige facturatieperiode.
 :::caution
-Als u het abonnement wilt annuleren voor het einde van de factureringscyclus, houd er dan rekening mee dat we de betaling voor dit abonnement niet terugbetalen.
+Als je het abonnement wilt opzeggen vóór het einde van de facturatieperiode, houd er dan rekening mee dat je serviceprovider mogelijk geen restitutie geeft voor de betaling van dit abonnement.
 :::
 
-## Stapsgewijs annuleringsproces
-
-Volg deze stappen om uw abonnement te annuleren door te downgraden naar het gratis plan:
-
-1. **Log in** op uw eCommerce-beheerpaneel
+## Stapsgewijs opzeggingsproces
+Volg deze stappen om je abonnement op te zeggen door te downgraden naar het Gratis abonnement:
+1. **Log in** op je eCommerce-beheerderspaneel
 2. Ga naar ***Instellingen → Facturering***
-3. Klik op de **Plan wijzigen** knop
-4. Selecteer het **Gratis plan** uit de beschikbare opties
-5. Volg de aanwijzingen om uw downgrade te bevestigen
-6. U ontvangt een bevestigingsmail zodra de wijziging is verwerkt
+3. Klik op de knop **Abonnement wijzigen**
+4. Selecteer **Abonnement beëindigen** uit de beschikbare opties
+5. Volg de instructies om je downgrade te bevestigen
+6. Je ontvangt een bevestigingsmail zodra de wijziging is verwerkt
 
-## Het downgrade-proces begrijpen
+## Het downgradeproces begrijpen
+Wanneer je van een betaald abonnement naar het Gratis abonnement downgradet:
+- Je huidige betaalde functies blijven actief tot het einde van je huidige facturatieperiode
+- Je wordt niet gefactureerd voor de volgende facturatieperiode
+- Aan het einde van je huidige facturatieperiode schakelt je winkel automatisch over naar het Gratis abonnement
+- Na het bevestigen van de downgrade is geen handmatige actie meer vereist
 
-Wanneer u downgradet van een betaald plan naar het gratis plan:
-
-- Uw huidige betaalde functies blijven actief tot het einde van uw huidige factureringscyclus
-- Er wordt niet gefactureerd voor de volgende factureringscyclus
-- Aan het einde van uw huidige factureringscyclus zal uw winkel automatisch overgaan naar het gratis plan
-- Er is geen handmatige actie vereist na het bevestigen van de downgrade
-
-## Wat gebeurt er na het downgraden
-
-Wanneer uw winkel overgaat naar het gratis plan, treden er verschillende wijzigingen op:
+## Wat gebeurt er na downgraden
+Wanneer je winkel overschakelt naar een ander abonnement, vinden er verschillende veranderingen plaats:
 
 ### Functiebeperkingen
-
-Het gratis plan heeft bepaalde beperkingen vergeleken met betaalde plannen:
-
+De kleinere abonnementen hebben bepaalde beperkingen in vergelijking met betaalde abonnementen:
 - Beperkt aantal producten
-- Beperkte personeelsaccounts (gewoonlijk slechts één)
-- Beperkte GMV-limiet (Gross Merchandise Volume)
+- Beperkte personeelsaccounts (meestal slechts één)
+- Verminderde GMV-limiet (Gross Merchandise Volume)
 - Sommige geavanceerde functies kunnen worden uitgeschakeld
 
 ### Gegevensbehoud
+Bij downgraden naar een kleiner abonnement:
+- Je winkelgegevens blijven bewaard (producten, bestellingen, klanten)
+- Je winkel blijft operationeel
+- Je kunt blijven verkopen binnen de beperkingen van het Gratis abonnement
 
-Bij downgraden naar het gratis plan:
+### Later opnieuw upgraden
+Als je besluit om in de toekomst opnieuw te upgraden:
+- Je kunt op elk moment upgraden naar een groter abonnement
+- De upgrade is onmiddellijk van kracht
+- Je krijgt direct weer toegang tot alle betaalde functies
+- Je wordt meteen gefactureerd voor het nieuwe abonnement
 
-- Uw winkelgegevens worden bewaard (producten, bestellingen, klanten)
-- Uw winkel blijft operationeel
-- U kunt blijven verkopen binnen de beperkingen van het gratis plan
+## Alternatieven voor opzegging
+Overweeg deze alternatieven voordat je je abonnement opzegt:
 
-### Later weer upgraden
-
-Als u besluit om in de toekomst weer te upgraden:
-
-- U kunt op elk moment upgraden naar een betaald plan
-- De upgrade treedt onmiddellijk in werking
-- U krijgt direct weer toegang tot alle betaalde functies
-- U wordt meteen gefactureerd voor het nieuwe plan
-
-## Alternatieven voor annulering
-
-Voordat u uw abonnement annuleert, overweeg deze alternatieven:
-
-### Downgrade naar een lager betaald plan
-
-Als het huidige plan te duur is maar u nog steeds meer functies nodig heeft dan het gratis plan biedt:
-
+### Downgraden naar een lager betaald abonnement
+Als het huidige abonnement te duur is, maar je nog steeds meer functies nodig hebt dan het Gratis abonnement biedt:
 1. Ga naar ***Instellingen → Facturering***
-2. Klik op de **Plan wijzigen** knop
-3. Selecteer een lager betaald plan dat aan uw behoeften voldoet
-4. Volg de aanwijzingen om uw wijziging te bevestigen
+2. Klik op de knop **Abonnement wijzigen**
+3. Selecteer een lager betaald abonnement dat aan je behoeften voldoet
+4. Volg de instructies om je wijziging te bevestigen
 
-### Uw winkel tijdelijk pauzeren
+### Je winkel tijdelijk pauzeren
+Als je een tijdelijke pauze nodig hebt maar later weer wilt verkopen:
+1. Behoud je huidige abonnement
+2. Schakel de [onderhoudsmodus](/docs/store-management/maintenance-mode) in om klanttoegang te pauzeren
+3. Wanneer je klaar bent om te hervatten, schakel je de onderhoudsmodus uit
+Deze optie behoudt al je huidige functies en instellingen terwijl nieuwe bestellingen tijdelijk worden stopgezet.
 
-Als u een tijdelijke pauze nodig heeft maar later weer wilt verkopen:
-
-1. Behoud uw huidige plan
-2. Schakel [onderhoudsmodus](../maintenance-mode) in om klantentoegang te pauzeren
-3. Wanneer u klaar bent om te hervatten, schakel onderhoudsmodus gewoon uit
-
-Deze optie houdt al uw huidige functies en instellingen behouden terwijl nieuwe bestellingen tijdelijk worden gestopt.
-
-## Contact opnemen met ondersteuning
-
-Als u vragen heeft over het annuleren van uw abonnement of hulp nodig heeft bij het proces, is ons ondersteuningsteam beschikbaar om u te helpen. U kunt contact opnemen met ondersteuning via:
-
-- E-mail: support@ecommerce.com
-- Live chat op de eCommerce-website
-- [Helpcentrum](../../intro-to-ecommerce/contact)
+## Contact met de klantenservice
+Als je vragen hebt over het opzeggen van je abonnement of hulp nodig hebt bij het proces, staat ons ondersteuningsteam voor je klaar.
